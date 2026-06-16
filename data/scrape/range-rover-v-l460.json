@@ -1,0 +1,102 @@
+{
+  "model": {
+    "name": "Range Rover V (L460)",
+    "slug": "range-rover-v-l460",
+    "ridexId": "42537",
+    "yearFrom": 2021,
+    "yearTo": null
+  },
+  "engines": [
+    {
+      "name": "P530 MHEV AWD",
+      "ridexId": "155606",
+      "displacement": 4395,
+      "power": 530,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P615 MHEV AWD",
+      "ridexId": "154755",
+      "displacement": 4395,
+      "power": 615,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "D250 MHEV AWD",
+      "ridexId": "145841",
+      "displacement": 2997,
+      "power": 249,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "D300 MHEV AWD",
+      "ridexId": "145839",
+      "displacement": 2997,
+      "power": 300,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "D350 MHEV AWD",
+      "ridexId": "145840",
+      "displacement": 2997,
+      "power": 351,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P530 AWD",
+      "ridexId": "145838",
+      "displacement": 4395,
+      "power": 530,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P400 MHEV AWD",
+      "ridexId": "145837",
+      "displacement": 2996,
+      "power": 400,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P440e PHEV AWD",
+      "ridexId": "147221",
+      "displacement": 2996,
+      "power": 441,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P460e PHEV AWD",
+      "ridexId": "154564",
+      "displacement": 2996,
+      "power": 460,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P510e PHEV AWD",
+      "ridexId": "147223",
+      "displacement": 2996,
+      "power": 510,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P550e PHEV AWD",
+      "ridexId": "154565",
+      "displacement": 2996,
+      "power": 551,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [],
+  "scrapedAt": "2026-05-08T20:24:34.469Z",
+  "totalProducts": 0
+}

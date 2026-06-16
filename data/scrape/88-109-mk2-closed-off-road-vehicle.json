@@ -1,0 +1,30 @@
+{
+  "model": {
+    "name": "88/109 Mk2 Closed Off-Road Vehicle",
+    "slug": "88-109-mk2-closed-off-road-vehicle",
+    "ridexId": "41002",
+    "yearFrom": 1958,
+    "yearTo": 1961
+  },
+  "engines": [
+    {
+      "name": "2.0 D 4x4",
+      "ridexId": "141432",
+      "displacement": 2052,
+      "power": 53,
+      "fuelType": "diesel",
+      "productsFound": 0
+    },
+    {
+      "name": "2.3 4x4",
+      "ridexId": "141433",
+      "displacement": 2286,
+      "power": 77,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [],
+  "scrapedAt": "2026-05-06T14:47:21.512Z",
+  "totalProducts": 0
+}

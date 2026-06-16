@@ -1,0 +1,393 @@
+model,engine,fuel_type
+110/127 (LDH),2.3 4x4,petrol
+110/127 (LDH),2.3 4x4,petrol
+110/127 (LDH),2.3 D 4x4,diesel
+110/127 (LDH),2.5 4x4,petrol
+110/127 (LDH),2.5 4x4,petrol
+110/127 (LDH),2.5 D 4x4,diesel
+110/127 (LDH),2.5 TD 4x4,diesel
+110/127 (LDH),3.5 4x4,petrol
+110/127 (LDH),3.5 4x4,petrol
+110/127 (LDH),3.5 4x4,petrol
+110/127 (LDH),3.5 4x4,petrol
+86/107 Mk1 Off-road Convertible,2.0 4x4,petrol
+88/109 Hardtop (LR),2.3 4x4 (LR 88 OP,petrol
+88/109 Hardtop (LR),2.3 D 4x4 (LR 88 DP,diesel
+88/109 Hardtop (LR),2.5 D 4x4,diesel
+88/109 (LR),2.3 4x4,petrol
+88/109 (LR),2.3 4x4 (LR 88 OL,petrol
+88/109 (LR),2.3 D 4x4 (LR 88 DL,diesel
+88/109 (LR),2.5 D 4x4,diesel
+88/109 (LR),2.6 4x4,petrol
+88/109 Mk2A Closed Off-Road Vehicle,2.3 4x4,petrol
+88/109 Mk2A Closed Off-Road Vehicle,2.3 4x4,petrol
+88/109 Mk2A Closed Off-Road Vehicle,2.3 D 4x4,diesel
+88/109 Mk2A Closed Off-Road Vehicle,2.6 4x4,petrol
+88/109 Mk2A Off-Road Convertible,2.3 4x4,petrol
+88/109 Mk2A Off-Road Convertible,2.3 4x4,petrol
+88/109 Mk2A Off-Road Convertible,2.3 D 4x4,diesel
+88/109 Mk2A Off-Road Convertible,2.6 4x4,petrol
+88/109 Mk2A Off-Road Convertible,2.6 4x4,petrol
+88/109 Mk2 Closed Off-Road Vehicle,2.0 D 4x4,diesel
+88/109 Mk2 Closed Off-Road Vehicle,2.3 4x4,petrol
+88/109 Mk2 Open Off-Road Vehicle,2.0 D 4x4,diesel
+88/109 Mk2 Open Off-Road Vehicle,2.3 4x4,petrol
+88/109 Mk3 Off-road,2.3 4x4,petrol
+88/109 Mk3 Off-road,2.3 D 4x4,diesel
+88/109 Mk3 Off-road,2.6 4x4,petrol
+88/109 Mk3 Off-road,3.5 4x4,petrol
+88/109 Mk3 Off-road,3.5 4x4,petrol
+88/109 Mk3 Off-road Convertible,2.3 4x4,petrol
+88/109 Mk3 Off-road Convertible,2.3 D 4x4,diesel
+88/109 Mk3 Off-road Convertible,3.5 4x4,petrol
+88/109 Mk3 Off-road Convertible,3.5 4x4,petrol
+90 (LDV),2.5 D 4x4,diesel
+90 (LDV),2.5 TD 4x4,diesel
+Defender Off-Road Convertible (L316),2.2 Td4 4x4 (L317),diesel
+Defender Off-Road Convertible (L316),2.4 Td4 4x4 (L317),diesel
+Defender Off-Road Convertible (L316),2.5 D 4x4 (L316),diesel
+Defender Off-Road Convertible (L316),2.5 Td5 4x4 (L316),diesel
+Defender Off-Road Convertible (L316),2.5 TDI 4x4 (L316),diesel
+Defender Off-Road Convertible (L316),3.5 4x4,petrol
+Defender Off-Road Convertible (L316),3.5 4x4,petrol
+Defender Off-Road Convertible (L316),3.9 4x4,petrol
+Defender Off-Road (L316),2.2 Td4 4x4 (L316),diesel
+Defender Off-Road (L316),2.2 Td4 4x4 (L316),diesel
+Defender Off-Road (L316),2.4 Td4 4x4,diesel
+Defender Off-Road (L316),2.4 Td4 4x4 (L316),diesel
+Defender Off-Road (L316),2.5 4x4,petrol
+Defender Off-Road (L316),2.5 D 4x4 (L316),diesel
+Defender Off-Road (L316),2.5 TD 4x4 (L316),diesel
+Defender Off-Road (L316),2.5 Td5 4x4 (L316),diesel
+Defender Off-Road (L316),2.5 TDI 4x4 (L316),diesel
+Defender Off-Road (L316),2.8 4x4,petrol
+Defender Off-Road (L316),3.5 4x4,petrol
+Defender Off-Road (L316),3.5 4x4,petrol
+Defender Off-Road (L316),3.9 4x4 (L316),petrol
+Defender Off-Road (L316),3.9 V8 4x4 (L316),petrol
+Defender Off-Road (L316),4.0 4x4 (L316),petrol
+Defender Off-Road (L663),D200 MHEV 4x4,diesel
+Defender Off-Road (L663),D200 SD4 4x4,diesel
+Defender Off-Road (L663),D240 SD4 4x4,diesel
+Defender Off-Road (L663),D250 MHEV 4x4,diesel
+Defender Off-Road (L663),D300 MHEV 4x4,diesel
+Defender Off-Road (L663),D350 MHEV 4x4,diesel
+Defender Off-Road (L663),P300e Hybrid 4x4,petrol
+Defender Off-Road (L663),P300 MHEV 4x4,petrol
+Defender Off-Road (L663),P300 MHEV 4x4,petrol
+Defender Off-Road (L663),P300 Si4 4x4,petrol
+Defender Off-Road (L663),P400e Hybrid 4x4,petrol
+Defender Off-Road (L663),P400 I6 MHEV 4x4,petrol
+Defender Off-Road (L663),P425 4x4,petrol
+Defender Off-Road (L663),P500 4x4,petrol
+Defender Off-Road (L663),P525 4x4,petrol
+Defender Off-Road (L663),P635 OCTA MHEV 4x4,petrol
+Defender Pickup (L316),2.2 Td4 4x4 (L317),diesel
+Defender Pickup (L316),2.4 Td4 4x4,diesel
+Defender Pickup (L316),2.4 Td4 4x4 (L317),diesel
+Defender Pickup (L316),2.5 Td5 4x4 (L316),diesel
+Defender Pickup (L316),2.8 4x4,petrol
+Defender Pickup (L316),4.0 4x4,petrol
+Defender Platform / Chassis (L316),2.2 Td4 4x4 (L317),diesel
+Defender Platform / Chassis (L316),2.4 TD4 4x4,diesel
+Defender Van (L663),2.0 D200 SD4 4x4,diesel
+Defender Van (L663),2.0 D240 SD4 4x4,diesel
+Defender Van (L663),2.0 P300 Si4 4x4,petrol
+Defender Van (L663),2.0 P400e Hybrid 4x4,petrol
+Defender Van (L663),3.0 D200 MHEV 4x4,diesel
+Defender Van (L663),3.0 D250 MHEV 4x4,diesel
+Defender Van (L663),3.0 D300 MHEV 4x4,diesel
+Defender Van (L663),3.0 P400 I6 MHEV 4x4,petrol
+Discovery III (L319),2.7 TD 4x4,diesel
+Discovery III (L319),2.7 TD 4x4,diesel
+Discovery III (L319),4.0 4x4,petrol
+Discovery III (L319),4.0 4x4,petrol
+Discovery III (L319),4.0 V6 4x4,petrol
+Discovery III (L319),4.0 V6 4x4,petrol
+Discovery III (L319),4.4 4x4,petrol
+Discovery III (L319),4.4 4x4,petrol
+Discovery II (L318),2.5 Td5 4x4,diesel
+Discovery II (L318),2.5 Td5 4x4,diesel
+Discovery II (L318),4.0 4x4,petrol
+Discovery II (L318),4.0 V8 4x4,petrol
+Discovery II (L318),4.6 4x4,petrol
+Discovery II (L318),4.6 4x4,petrol
+Discovery II (L318),4.6 4x4,petrol
+Discovery I (LJ),2.0 16 V 4x4,petrol
+Discovery I (LJ),2.5 D 4x4,diesel
+Discovery I (LJ),2.5 TDI 4x4,diesel
+Discovery I (LJ),2.5 TDI 4x4,diesel
+Discovery I (LJ),2.5 TDI 4x4,diesel
+Discovery I (LJ),3.5 4x4,petrol
+Discovery I (LJ),3.5 4x4,petrol
+Discovery I (LJ),3.5 4x4,petrol
+Discovery I (LJ),3.5 4x4,petrol
+Discovery I (LJ),4.0 4x4,petrol
+Discovery I (LJ),4.0 4x4,petrol
+Discovery IV (L319),2.7 TD 4x4,diesel
+Discovery IV (L319),3.0 4x4,petrol
+Discovery IV (L319),3.0 4x4,petrol
+Discovery IV (L319),3.0 SDV6 4x4,diesel
+Discovery IV (L319),3.0 TD 4x4,diesel
+Discovery IV (L319),3.0 TD 4x4,diesel
+Discovery IV (L319),3.0 TD 4x4,diesel
+Discovery IV (L319),3.0 TD 4x4,diesel
+Discovery IV (L319),4.0 4x4,petrol
+Discovery IV (L319),5.0 4x4,petrol
+Discovery IV (L319),5.0 4x4,petrol
+Discovery IV (L319),5.0 V8 4x4,petrol
+Discovery IV VAN (L319),3.0 TD 4x4,diesel
+Discovery IV VAN (L319),3.0 TD 4x4,diesel
+Discovery IV VAN (L319),3.0 TD 4x4,diesel
+Discovery Sport (L550),1.5 P 270e PHEV 4x4,petrol
+Discovery Sport (L550),1.5 P300e Hybrid 4x4,petrol
+Discovery Sport (L550),2.0 4x4,petrol
+Discovery Sport (L550),2.0 4x4,petrol
+Discovery Sport (L550),2.0 4x4,petrol
+Discovery Sport (L550),2.0 D,diesel
+Discovery Sport (L550),2.0 D150 MHEV 4x4,diesel
+Discovery Sport (L550),2.0 D165,diesel
+Discovery Sport (L550),2.0 D165 MHEV,diesel
+Discovery Sport (L550),2.0 D165 MHEV 4x4,diesel
+Discovery Sport (L550),2.0 D180 MHEV 4x4,diesel
+Discovery Sport (L550),2.0 D200 MHEV 4x4,diesel
+Discovery Sport (L550),2.0 D240 MHEV 4x4,diesel
+Discovery Sport (L550),2.0 D 4x4,diesel
+Discovery Sport (L550),2.0 D 4x4,diesel
+Discovery Sport (L550),2.0 D 4x4,diesel
+Discovery Sport (L550),2.0 P200 4x4,petrol
+Discovery Sport (L550),2.0 P200 FLEX 4x4,petrol
+Discovery Sport (L550),2.0 P200 MHEV 4x4,petrol
+Discovery Sport (L550),2.0 P250 4x4,petrol
+Discovery Sport (L550),2.0 P250 MHEV 4x4,petrol
+Discovery Sport (L550),2.0 P290 MHEV 4x4,petrol
+Discovery Sport (L550),2.0 Si4 4x4,petrol
+Discovery Sport (L550),2.0 Si4 FLEX 4x4,petrol
+Discovery Sport (L550),2.0 Si4 FLEX 4x4,petrol
+Discovery Sport (L550),2.2 D 4x4,diesel
+Discovery Sport (L550),2.2 D 4x4,diesel
+Discovery V (L462),2.0 Sd4 4x4,diesel
+Discovery V (L462),2.0 Si4 4x4,petrol
+Discovery V (L462),2.0 Td4 4x4,diesel
+Discovery V (L462),3.0 D250 MHEV 4x4,diesel
+Discovery V (L462),3.0 D300 MHEV 4x4,diesel
+Discovery V (L462),3.0 D 4x4,diesel
+Discovery V (L462),3.0 D 4x4,diesel
+Discovery V (L462),3.0 P360 MHEV 4x4,petrol
+Discovery V (L462),3.0 SCV6 4x4,petrol
+Discovery V (L462),3.0 SDV6 4x4,diesel
+Discovery V (L462),3.0 Td6 4x4,diesel
+Discovery V (L462),D350 MHEV 4x4,diesel
+Freelander 2 Off-Road (L359),2.0 Si4 4x4,petrol
+Freelander 2 Off-Road (L359),2.0 Si4 4x4,petrol
+Freelander 2 Off-Road (L359),2.2 eD4,diesel
+Freelander 2 Off-Road (L359),2.2 SD4 4x4,diesel
+Freelander 2 Off-Road (L359),2.2 TD4 4x4,diesel
+Freelander 2 Off-Road (L359),2.2 TD4 4x4,diesel
+Freelander 2 Off-Road (L359),2.2 TD4 4x4,diesel
+Freelander 2 Off-Road (L359),2.2 TD4 4x4,diesel
+Freelander 2 Off-Road (L359),3.2 4x4,petrol
+Freelander 2 Van (L359) (... - ...),2.2 TD4 4x4,diesel
+Freelander I Off-Road Convertible (L314),1.8 4x4,petrol
+Freelander I Off-Road Convertible (L314),1.8 i 16V 4x4,petrol
+Freelander I Off-Road Convertible (L314),2.0 DI 4x4,diesel
+Freelander I Off-Road Convertible (L314),2.0 TD4 4x4,diesel
+Freelander I Off-Road Convertible (L314),2.5 V6 4x4,petrol
+Freelander I Off-Road (L314),1.8 16V 4x4,petrol
+Freelander I Off-Road (L314),1.8 i 16V 4x4,petrol
+Freelander I Off-Road (L314),2.0 DI 4x4,diesel
+Freelander I Off-Road (L314),2.0 Td4 4x4,diesel
+Freelander I Off-Road (L314),2.0 Td4 4x4,diesel
+Freelander I Off-Road (L314),2.5 V6 4x4,petrol
+Range Rover Evoque Convertible (L538),2.0 4x4,petrol
+Range Rover Evoque Convertible (L538),2.0 4x4,petrol
+Range Rover Evoque Convertible (L538),2.0 D 4x4,diesel
+Range Rover Evoque Convertible (L538),2.0 D 4x4,diesel
+Range Rover Evoque Convertible (L538),2.0 D 4x4,diesel
+Range Rover Evoque (L538),2.0 4x4,petrol
+Range Rover Evoque (L538),2.0 4x4,petrol
+Range Rover Evoque (L538),2.0 4x4,petrol
+Range Rover Evoque (L538),2.0 4x4,petrol
+Range Rover Evoque (L538),2.0 4x4,petrol
+Range Rover Evoque (L538),2.0 D,diesel
+Range Rover Evoque (L538),2.0 D 4x4,diesel
+Range Rover Evoque (L538),2.0 D 4x4,diesel
+Range Rover Evoque (L538),2.0 D 4x4,diesel
+Range Rover Evoque (L538),2.2 D,diesel
+Range Rover Evoque (L538),2.2 D 4x4,diesel
+Range Rover Evoque (L538),2.2 D 4x4,diesel
+Range Rover Evoque (L551),1.5 P160 MHEV,petrol
+Range Rover Evoque (L551),1.5 P300e Hybrid 4x4,petrol
+Range Rover Evoque (L551),2.0 D150,diesel
+Range Rover Evoque (L551),2.0 D150 4x4,diesel
+Range Rover Evoque (L551),2.0 D150 MHEV 4x4,diesel
+Range Rover Evoque (L551),2.0 D165,diesel
+Range Rover Evoque (L551),2.0 D165 4x4,diesel
+Range Rover Evoque (L551),2.0 D165 MHEV 4x4,diesel
+Range Rover Evoque (L551),2.0 D180 4x4,diesel
+Range Rover Evoque (L551),2.0 D180 MHEV 4x4,diesel
+Range Rover Evoque (L551),2.0 D200 4x4,diesel
+Range Rover Evoque (L551),2.0 D200 MHEV 4x4,diesel
+Range Rover Evoque (L551),2.0 D240 MHEV 4x4,diesel
+Range Rover Evoque (L551),2.0 P200 4x4,petrol
+Range Rover Evoque (L551),2.0 P200 FLEX 4x4,petrol
+Range Rover Evoque (L551),2.0 P200 MHEV 4x4,petrol
+Range Rover Evoque (L551),2.0 P250 4x4,petrol
+Range Rover Evoque (L551),2.0 P250 Flex 4WD,petrol
+Range Rover Evoque (L551),2.0 P250 MHEV 4x4,petrol
+Range Rover Evoque (L551),2.0 P300 4x4,petrol
+Range Rover Evoque (L551),2.0 P300 MHEV 4x4,petrol
+Range Rover I,2.4 TD 4x4,diesel
+Range Rover I,2.4 TD 4x4,diesel
+Range Rover I,2.4 TD 4x4,diesel
+Range Rover I,2.4 TD 4x4,diesel
+Range Rover I,2.5 TD 4x4,diesel
+Range Rover I,2.5 TDi 4x4,diesel
+Range Rover I,3.5 4x4,petrol
+Range Rover I,3.5 4x4,petrol
+Range Rover I,3.5 4x4,petrol
+Range Rover I,3.5 Vogue 4x4,petrol
+Range Rover I,3.5 Vogue 4x4,petrol
+Range Rover I,3.9 4x4,petrol
+Range Rover I,3.9 4x4,petrol
+Range Rover I,3.9 Cat 4x4,petrol
+Range Rover I,3.9 Vogue SEI 4x4,petrol
+Range Rover I,4.2 4x4,petrol
+Range Rover I,4.3 4x4,petrol
+Range Rover I,4.3 Vogue LSE 4x4,petrol
+Range Rover III (L322),3.0 D 4x4,diesel
+Range Rover III (L322),3.6 D 4x4,diesel
+Range Rover III (L322),4.2 4x4,petrol
+Range Rover III (L322),4.2 Supercharged 4x4,petrol
+Range Rover III (L322),4.4 4x4,petrol
+Range Rover III (L322),4.4 4x4,petrol
+Range Rover III (L322),4.4 4x4,petrol
+Range Rover III (L322),4.4 4x4,petrol
+Range Rover III (L322),4.4 4x4,petrol
+Range Rover III (L322),4.4 D 4x4,diesel
+Range Rover III (L322),5.0 4x4,petrol
+Range Rover III (L322),5.0 4x4,petrol
+Range Rover III (L322),5.0 4x4,petrol
+Range Rover II (P38A),2.5 D 4x4,diesel
+Range Rover II (P38A),3.9 4x4,petrol
+Range Rover II (P38A),3.9 4x4,petrol
+Range Rover II (P38A),4.0 4x4,petrol
+Range Rover II (P38A),4.6 4x4,petrol
+Range Rover II (P38A),4.6 4x4,petrol
+Range Rover II (P38A),4.6 4x4,petrol
+Range Rover II (P38A),4.6 4x4,petrol
+Range Rover IV (L405),2.0 P400e Hybrid 4x4,petrol
+Range Rover IV (L405),3.0 P400 4x4,petrol
+Range Rover IV (L405),3.0 P400 MHEV 4x4,petrol
+Range Rover IV (L405),3.0 SCV6 4x4,petrol
+Range Rover IV (L405),3.0 SCV6 4x4,petrol
+Range Rover IV (L405),3.0 SCV6 4x4,petrol
+Range Rover IV (L405),3.0 SDV6 4x4,diesel
+Range Rover IV (L405),3.0 SDV6 4x4,diesel
+Range Rover IV (L405),3.0 SDV6 4x4,diesel
+Range Rover IV (L405),3.0 SDV6 4x4,diesel
+Range Rover IV (L405),3.0 SDV6 Hybrid 4x4,diesel
+Range Rover IV (L405),3.0 SDV6 Hybrid 4x4,diesel
+Range Rover IV (L405),3.0 TDV6 4x4,diesel
+Range Rover IV (L405),3.0 TDV6 4x4,diesel
+Range Rover IV (L405),4.4 SDV8 4x4,diesel
+Range Rover IV (L405),4.4 SDV8 4x4,diesel
+Range Rover IV (L405),4.4 SDV8 4x4,diesel
+Range Rover IV (L405),5.0 SCV8 4x4,petrol
+Range Rover IV (L405),5.0 SCV8 4x4,petrol
+Range Rover IV (L405),5.0 SCV8 4x4,petrol
+Range Rover IV (L405),5.0 SCV8 4x4,petrol
+Range Rover IV (L405),5.0 SCV8 4x4,petrol
+Range Rover IV (L405),5.0 V8 4x4,petrol
+Range Rover IV (L405),D250 MHEV 4x4,diesel
+Range Rover IV (L405),D300 MHEV 4x4,diesel
+Range Rover IV (L405),D350 MHEV 4x4,diesel
+Range Rover IV (L405),P360 MHEV 4x4,petrol
+Range Rover IV (L405),SCV8 4x4,petrol
+Range Rover Sport (L320),2.7 D 4x4,diesel
+Range Rover Sport (L320),3.0 D 4x4,diesel
+Range Rover Sport (L320),3.0 D 4x4,diesel
+Range Rover Sport (L320),3.0 D 4x4,diesel
+Range Rover Sport (L320),3.0 D 4x4,diesel
+Range Rover Sport (L320),3.6 D 4x4,diesel
+Range Rover Sport (L320),4.2 4x4,petrol
+Range Rover Sport (L320),4.2 4x4,petrol
+Range Rover Sport (L320),4.2 4x4,petrol
+Range Rover Sport (L320),4.2 4x4,petrol
+Range Rover Sport (L320),4.4 4x4,petrol
+Range Rover Sport (L320),5.0 4x4,petrol
+Range Rover Sport (L320),5.0 4x4,petrol
+Range Rover Sport (L320),5.0 4x4,petrol
+Range Rover Sport (L320),5.0 4x4,petrol
+Range Rover Sport (L320),5.0 4x4,petrol
+Range Rover Sport (L461),3.0 D250 MHEV AWD,diesel
+Range Rover Sport (L461),3.0 D300 MHEV AWD,diesel
+Range Rover Sport (L461),3.0 D350 MHEV AWD,diesel
+Range Rover Sport (L461),3.0 D350 MHEV AWD,diesel
+Range Rover Sport (L461),P400 MHEV AWD,petrol
+Range Rover Sport (L461),P440e PHEV AWD,petrol
+Range Rover Sport (L461),P460e PHEV AWD,petrol
+Range Rover Sport (L461),P510e PHEV AWD,petrol
+Range Rover Sport (L461),P530 AWD,petrol
+Range Rover Sport (L461),P530 MHEV AWD,petrol
+Range Rover Sport (L461),P550e PHEV AWD,petrol
+Range Rover Sport (L461),P635 MHEV AWD,petrol
+Range Rover Sport (L494),2.0 GTDI 4x4,petrol
+Range Rover Sport (L494),2.0 P400e PHEV 4x4,petrol
+Range Rover Sport (L494),2.0 SD4 4x4,diesel
+Range Rover Sport (L494),2.0 Si4 4x4,petrol
+Range Rover Sport (L494),3.0 4x4,petrol
+Range Rover Sport (L494),3.0 D250 4x4,diesel
+Range Rover Sport (L494),3.0 D250 MHEV 4x4,diesel
+Range Rover Sport (L494),3.0 D300 4x4,diesel
+Range Rover Sport (L494),3.0 D300 MHEV 4x4,diesel
+Range Rover Sport (L494),3.0 D350 4x4,diesel
+Range Rover Sport (L494),3.0 D350 MHEV 4x4,diesel
+Range Rover Sport (L494),3.0 P360 MHEV 4x4,petrol
+Range Rover Sport (L494),3.0 P400 4x4,petrol
+Range Rover Sport (L494),3.0 P400 MHEV 4x4,petrol
+Range Rover Sport (L494),3.0 SCV6 4x4,petrol
+Range Rover Sport (L494),3.0 SCV6 4x4,petrol
+Range Rover Sport (L494),3.0 SCV6 4x4,petrol
+Range Rover Sport (L494),3.0 SDV6 4x4,diesel
+Range Rover Sport (L494),3.0 SDV6 4x4,diesel
+Range Rover Sport (L494),3.0 SDV6 4x4,diesel
+Range Rover Sport (L494),3.0 SDV6 Hybrid 4x4,diesel
+Range Rover Sport (L494),3.0 SDV6 Hybrid 4x4,diesel
+Range Rover Sport (L494),3.0 TDV6 4x4,diesel
+Range Rover Sport (L494),3.0 TDV6 4x4,diesel
+Range Rover Sport (L494),4.4 SDV8 4x4,diesel
+Range Rover Sport (L494),5.0 4x4,petrol
+Range Rover Sport (L494),5.0 SCV8 4x4,petrol
+Range Rover Sport (L494),5.0 SCV8 4x4,petrol
+Range Rover Sport (L494),5.0 SCV8 4x4,petrol
+Range Rover Sport (L494),5.0 SCV8 4x4,petrol
+Range Rover Sport (L494),5.0 SCV8 4x4,petrol
+Range Rover Velar (L560),2.0 D180 TD4 4x4,diesel
+Range Rover Velar (L560),2.0 D200 4x4,diesel
+Range Rover Velar (L560),2.0 D200 MHEV 4x4,diesel
+Range Rover Velar (L560),2.0 D240 SD4 4x4,diesel
+Range Rover Velar (L560),2.0 P250 Si4 4x4,petrol
+Range Rover Velar (L560),2.0 P300 Si4 4x4,petrol
+Range Rover Velar (L560),2.0 P400 Hybrid 4x4,petrol
+Range Rover Velar (L560),3.0 D275 SDV6 4x4,diesel
+Range Rover Velar (L560),3.0 D300 MHEV 4x4,diesel
+Range Rover Velar (L560),3.0 D300 SDV6 4x4,diesel
+Range Rover Velar (L560),3.0 P340 MHEV,petrol
+Range Rover Velar (L560),3.0 P340 MHEV,petrol
+Range Rover Velar (L560),3.0 P340 SCV6 4x4,petrol
+Range Rover Velar (L560),3.0 P380 SCV6 4x4,petrol
+Range Rover Velar (L560),3.0 P400 4x4,petrol
+Range Rover Velar (L560),3.0 P400 MHEV 4x4,petrol
+Range Rover Velar (L560),5.0 SCV8 4x4,petrol
+Range Rover V (L460),D250 MHEV AWD,diesel
+Range Rover V (L460),D300 MHEV AWD,diesel
+Range Rover V (L460),D350 MHEV AWD,diesel
+Range Rover V (L460),P400 MHEV AWD,petrol
+Range Rover V (L460),P440e PHEV AWD,petrol
+Range Rover V (L460),P460e PHEV AWD,petrol
+Range Rover V (L460),P510e PHEV AWD,petrol
+Range Rover V (L460),P530 AWD,petrol
+Range Rover V (L460),P530 MHEV AWD,petrol
+Range Rover V (L460),P550e PHEV AWD,petrol
+Range Rover V (L460),P615 MHEV AWD,petrol

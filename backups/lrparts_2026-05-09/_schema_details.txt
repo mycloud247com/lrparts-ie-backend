@@ -1,0 +1,34 @@
+                         Table "public._migrations"
+   Column    |            Type             | Collation | Nullable | Default 
+-------------+-----------------------------+-----------+----------+---------
+ name        | character varying(255)      |           | not null | 
+ executed_at | timestamp without time zone |           |          | now()
+Indexes:
+    "_migrations_pkey" PRIMARY KEY, btree (name)
+
+\d: extra argument "brands" ignored
+\d: extra argument "cart_items" ignored
+\d: extra argument "carts" ignored
+\d: extra argument "categories" ignored
+\d: extra argument "contact_messages" ignored
+\d: extra argument "inventory_items" ignored
+\d: extra argument "kit_items" ignored
+\d: extra argument "kits" ignored
+\d: extra argument "motorcheck_mappings" ignored
+\d: extra argument "oem_numbers" ignored
+\d: extra argument "order_items" ignored
+\d: extra argument "order_status_logs" ignored
+\d: extra argument "orders" ignored
+\d: extra argument "product_images" ignored
+\d: extra argument "product_specs" ignored
+\d: extra argument "product_vehicles" ignored
+\d: extra argument "products" ignored
+\d: extra argument "scrape_progress" ignored
+\d: extra argument "settings" ignored
+\d: extra argument "sync_logs" ignored
+\d: extra argument "user_addresses" ignored
+\d: extra argument "user_vehicles" ignored
+\d: extra argument "users" ignored
+\d: extra argument "vehicle_engines" ignored
+\d: extra argument "vehicle_models" ignored
+

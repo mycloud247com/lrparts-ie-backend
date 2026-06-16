@@ -1,0 +1,1061 @@
+{
+  "model": {
+    "name": "110/127 (LDH)",
+    "slug": "110-127-ldh",
+    "ridexId": "4674",
+    "yearFrom": 1983,
+    "yearTo": 1990
+  },
+  "engines": [
+    {
+      "name": "2.3 D 4x4",
+      "ridexId": "28359",
+      "displacement": 2286,
+      "power": 63,
+      "fuelType": "diesel",
+      "productsFound": 26
+    },
+    {
+      "name": "2.5 TD 4x4",
+      "ridexId": "9211",
+      "displacement": 2494,
+      "power": 86,
+      "fuelType": "diesel",
+      "productsFound": 2
+    },
+    {
+      "name": "2.3 4x4",
+      "ridexId": "28360",
+      "displacement": 2286,
+      "power": 71,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "2.3 4x4",
+      "ridexId": "142293",
+      "displacement": 2286,
+      "power": 71,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "2.5 4x4",
+      "ridexId": "9210",
+      "displacement": 2494,
+      "power": 84,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "2.5 4x4",
+      "ridexId": "59864",
+      "displacement": 2495,
+      "power": 83,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.5 4x4",
+      "ridexId": "59361",
+      "displacement": 3528,
+      "power": 116,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.5 4x4",
+      "ridexId": "9209",
+      "displacement": 3528,
+      "power": 133,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.5 4x4",
+      "ridexId": "126015",
+      "displacement": 3528,
+      "power": 136,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.5 4x4",
+      "ridexId": "132314",
+      "displacement": 3528,
+      "power": 116,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "2.5 D 4x4",
+      "ridexId": "20799",
+      "displacement": 2495,
+      "power": 69,
+      "fuelType": "diesel",
+      "productsFound": 5
+    }
+  ],
+  "products": [
+    {
+      "articleNo": "7O0086",
+      "articleId": "8149383",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8149383&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Outer Diameter [mm]": "93,5",
+        "Height": "132",
+        "Thread Size": "UNF 3/4\"-16",
+        "Inner Diameter 1 [mm]": "72,5",
+        "Inner Diameter 2 [mm]": "62,5",
+        "Supplementary Article / Supplementary Info Info 2": "with one anti-return valve",
+        "Valve type": "Pressure Limiting Valve",
+        "Manufacturer part number": "7O0086",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191354245"
+      },
+      "engines": [
+        "28359",
+        "9211"
+      ]
+    },
+    {
+      "articleNo": "7O0203",
+      "articleId": "13468887",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13468887&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Outer Diameter [mm]": "93",
+        "Height": "114",
+        "Thread Size": "3/4-16 UNF",
+        "Inner Diameter 1 [mm]": "62",
+        "Inner Diameter 2 [mm]": "71",
+        "Bypass Valve Opening Pressure [bar]": "1",
+        "Supplementary Article / Supplementary Info Info 2": "with one anti-return valve",
+        "Manufacturer part number": "7O0203",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191593880"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "142293",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "126015",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "7O0086P",
+      "articleId": "18744021",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18744021&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Outer Diameter [mm]": "94",
+        "Height": "140",
+        "Thread Size": "3/4-16 UNF",
+        "Inner Diameter 1 [mm]": "72, 72,5",
+        "Inner Diameter 2 [mm]": "62,5",
+        "Manufacturer part number": "7O0086P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423596007"
+      },
+      "engines": [
+        "28359",
+        "9211"
+      ]
+    },
+    {
+      "articleNo": "9F0043",
+      "articleId": "8097309",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097309&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "71",
+        "Outer Diameter [mm]": "85",
+        "Outer Diameter 1 [mm]": "87",
+        "Inner Diameter [mm]": "19",
+        "Inner Diameter 1 [mm]": "18",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "9F0043",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191235476"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "9210",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "9F0043P",
+      "articleId": "18952512",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952512&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "71",
+        "Outer Diameter [mm]": "85",
+        "Outer Diameter 1 [mm]": "87",
+        "Inner Diameter [mm]": "19",
+        "Inner Diameter 1 [mm]": "18",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "9F0043P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423606119"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "9210",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "402B0795",
+      "articleId": "8043260",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8043260&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact",
+        "Thickness": "18",
+        "Quantity Unit": "Axle Set",
+        "Length [mm]": "104,9",
+        "Height": "74,7",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0795",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191146819"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "402B0602",
+      "articleId": "8052097",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8052097&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "incl. wear warning contact",
+        "Thickness": "18,5",
+        "Quantity Unit": "Axle Set",
+        "Length [mm]": "105",
+        "Height": "72,5",
+        "Warning Contact Length [mm]": "220",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0602",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191150557"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "9209",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "402B0633",
+      "articleId": "8052173",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8052173&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact",
+        "Thickness": "17,5",
+        "Quantity Unit": "Axle Set",
+        "Length [mm]": "126,54",
+        "Height": "68,63",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0633",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191151288"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "59864",
+        "59361",
+        "9209"
+      ]
+    },
+    {
+      "articleNo": "82B0904",
+      "articleId": "8040030",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8040030&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "solid",
+        "Brake Disc Thickness": "12,6",
+        "Height": "61,2",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "289,6",
+        "Centering Diameter [mm]": "101,7",
+        "Number of Holes": "5/10",
+        "Wheel Bolt Bore Diameter [mm]": "10,3",
+        "Bolt Hole Circle Ø [mm]": "127",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B0904",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191139323"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "82B0965",
+      "articleId": "8040092",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8040092&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "solid",
+        "Brake Disc Thickness": "14",
+        "Height": "70",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "298,3",
+        "Centering Diameter [mm]": "101,7",
+        "Number of Holes": "5",
+        "Wheel Bolt Bore Diameter [mm]": "10,3",
+        "Bolt Hole Circle Ø [mm]": "127",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B0965",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191139934"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "854S1799",
+      "articleId": "13562579",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13562579&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top pin",
+        "max. length [mm]": "555",
+        "min. length [mm]": "332",
+        "Quantity per axle": "1",
+        "Manufacturer part number": "854S1799",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191621354"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "142293",
+        "9210",
+        "9209",
+        "126015",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "854S18051",
+      "articleId": "16592665",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16592665&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Length 2 [mm]": "341, 342,8",
+        "Length 1 [mm]": "565,8, 566",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top eye",
+        "Quantity per axle": "1",
+        "Manufacturer part number": "854S18051",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4065739064248"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "9209",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "854S0828",
+      "articleId": "8002474",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8002474&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top pin",
+        "max. length [mm]": "555",
+        "min. length [mm]": "332",
+        "Quantity per axle": "2",
+        "Manufacturer part number": "854S0828",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191105199"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "142293",
+        "9210",
+        "9209",
+        "126015",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "854S18050",
+      "articleId": "16592663",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16592663&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Length 2 [mm]": "342,8",
+        "Length 1 [mm]": "565,8",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top eye",
+        "Quantity per axle": "2",
+        "Manufacturer part number": "854S18050",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4065739064224"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "9209",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "914T0173",
+      "articleId": "8345103",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8345103&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front Axle, Right, outer",
+        "Length [mm]": "86,5",
+        "Cone Size [mm]": "17,55",
+        "Thread Type": "with right-hand thread",
+        "Thread Size": "11/16\"",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "Manufacturer part number": "914T0173",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191459032"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "9209",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "914T0231",
+      "articleId": "13628885",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13628885&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front Axle Left",
+        "Length [mm]": "87",
+        "External Thread [mm]": "M12x1,5",
+        "Cone Size [mm]": "15",
+        "Cone Pitch": "1/5",
+        "Thread Type": "with left-hand thread",
+        "Thread Size": "11/16X16UNF",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "Manufacturer part number": "914T0231",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191657230"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "9209",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "914T1062",
+      "articleId": "20792156",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20792156&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front Axle Left",
+        "Length [mm]": "143",
+        "External Thread 1 [mm]": "M22x1,5",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "External Thread 2 [mm]": "M14x1,5",
+        "Manufacturer part number": "914T1062",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4067448240968"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "142293",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "126015",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "243G0003",
+      "articleId": "13628216",
+      "name": "Glow plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13628216&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/glow-plug",
+      "specs": {
+        "Overall Length [mm]": "72",
+        "Thread Size": "M12x1,25",
+        "Voltage [V]": "11",
+        "Spanner Size": "12 mm",
+        "Glow Plug Design": "Pencil-type Glow Plug",
+        "Fitting Depth [mm]": "24,3",
+        "Diameter": "6,1",
+        "Connector type": "M5",
+        "Tightening torque from [Nm]": "15",
+        "Cone Pitch": "63-",
+        "Failure Moment [Nm]": "45",
+        "Manufacturer part number": "243G0003",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191650644"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "243G0003P",
+      "articleId": "22368178",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22368178&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/glow-plug",
+      "specs": {
+        "Overall Length [mm]": "72",
+        "Thread Size": "M12x1,25",
+        "Voltage [V]": "11",
+        "Spanner Size": "12 mm",
+        "Glow Plug Design": "Pencil-type Glow Plug",
+        "Fitting Depth [mm]": "24,3",
+        "Diameter": "6,1",
+        "Connector type": "M5",
+        "Tightening torque from [Nm]": "15",
+        "Failure Moment [Nm]": "45",
+        "Packing Type": "Box",
+        "Manufacturer part number": "243G0003P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448806560"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W0183",
+      "articleId": "12755737",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12755737&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Front",
+        "Wiper blade type": "Hybrid Wiper Blade",
+        "Fastening Type": "Hook fixing",
+        "Length 1 [mm]": "350",
+        "Styling": "without spoiler",
+        "Quantity": "1",
+        "Weight [g]": "212",
+        "Manufacturer part number": "298W0183",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191553914"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W0189",
+      "articleId": "12755829",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12755829&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Rear",
+        "Wiper blade type": "Standard",
+        "Fastening Type": "Hook fixing",
+        "Length 1 [mm]": "300",
+        "Styling": "without spoiler",
+        "Quantity": "1",
+        "Manufacturer part number": "298W0189",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191554836"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W0456",
+      "articleId": "15764618",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15764618&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Quantity Unit": "Kit",
+        "Fitting Position": "Front",
+        "Wiper blade type": "Standard",
+        "Fastening Type": "Hook fixing",
+        "Length 1 [mm]": "340",
+        "Length 2 [mm]": "340",
+        "Styling": "without spoiler",
+        "Quantity": "2",
+        "Left-/right-hand drive vehicles": "for left-hand drive vehicles",
+        "Manufacturer part number": "298W0456",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138189583"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "142293",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "126015",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W16984",
+      "articleId": "15772592",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15772592&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Rear",
+        "Wiper blade type": "Standard",
+        "Fastening Type": "Hook fixing",
+        "Length 1 [mm]": "350",
+        "Styling": "without spoiler",
+        "Quantity": "1",
+        "Manufacturer part number": "298W16984",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138219952"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "142293",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "126015",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W17234",
+      "articleId": "20078333",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20078333&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Quantity Unit": "Set",
+        "Fitting Position": "Front",
+        "Wiper blade type": "Standard",
+        "Length 1 [mm]": "350",
+        "Length 2 [mm]": "350",
+        "Styling": "without spoiler",
+        "Quantity": "2",
+        "Left-/right-hand drive vehicles": "for left-hand drive vehicles",
+        "Manufacturer part number": "298W17234",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423978766"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "9210",
+        "59361",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W0189P",
+      "articleId": "24932331",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=24932331&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Length [mm]": "300",
+        "Wiper blade type": "Standard",
+        "Length [inch]": "12",
+        "Quantity": "1",
+        "Weight [g]": "67",
+        "alternative item": "-",
+        "Gross Weight [g]": "110",
+        "Manufacturer part number": "298W0189P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197775517"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "28360",
+        "9210",
+        "59864",
+        "59361",
+        "9209",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "654W0315",
+      "articleId": "8226690",
+      "name": "Wheel bearing kit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8226690&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/wheel-bearing-kit",
+      "specs": {
+        "Fitting Position": "Front axle both sides, Rear Axle both sides",
+        "Manufacturer part number": "654W0315",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191418497"
+      },
+      "engines": [
+        "28359",
+        "9211",
+        "59864",
+        "9209",
+        "126015",
+        "132314",
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "854S2308",
+      "articleId": "15079092",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15079092&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Monotube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top eye",
+        "Quantity Unit": "Set",
+        "Manufacturer part number": "854S2308",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191877126"
+      },
+      "engines": [
+        "9211",
+        "9210",
+        "59361",
+        "9209"
+      ]
+    },
+    {
+      "articleNo": "854S0287",
+      "articleId": "8001583",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8001583&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top eye",
+        "Manufacturer part number": "854S0287",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191338016"
+      },
+      "engines": [
+        "9211",
+        "9210",
+        "59361",
+        "9209"
+      ]
+    },
+    {
+      "articleNo": "9F0033",
+      "articleId": "8097131",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097131&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Fuel Type": "Diesel",
+        "Height": "60",
+        "Outer Diameter [mm]": "67",
+        "Outer Diameter 1 [mm]": "78",
+        "Inner Diameter [mm]": "20",
+        "EU Product Safety Regulation (GPSR)": "IEC 60417-6183 mechanical expertise required",
+        "Manufacturer part number": "9F0033",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191234394"
+      },
+      "engines": [
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "9F0112",
+      "articleId": "13635529",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13635529&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Height": "122",
+        "Diameter": "79",
+        "Thread Size": "M 16 X 1,50",
+        "Manufacturer part number": "9F0112",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191723676"
+      },
+      "engines": [
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "9F0112P",
+      "articleId": "18952661",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952661&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "122",
+        "Diameter": "79",
+        "Thread Size": "M 16 X 1,50",
+        "Manufacturer part number": "9F0112P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423607604"
+      },
+      "engines": [
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "9F0033P",
+      "articleId": "20817163",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20817163&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "60",
+        "Outer Diameter [mm]": "67",
+        "Outer Diameter 1 [mm]": "78",
+        "Inner Diameter [mm]": "20",
+        "EU Product Safety Regulation (GPSR)": "IEC 60417-6183 mechanical expertise required",
+        "Manufacturer part number": "9F0033P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448259847"
+      },
+      "engines": [
+        "20799"
+      ]
+    },
+    {
+      "articleNo": "298W0038P",
+      "articleId": "24932318",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=24932318&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Length [mm]": "290",
+        "Length [inch]": "11",
+        "Quantity": "1",
+        "Manufacturer part number": "298W0038P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197775388"
+      },
+      "engines": [
+        "20799"
+      ]
+    }
+  ],
+  "scrapedAt": "2026-05-06T13:25:14.771Z",
+  "totalProducts": 33
+}

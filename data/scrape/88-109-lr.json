@@ -1,0 +1,243 @@
+{
+  "model": {
+    "name": "88/109 (LR)",
+    "slug": "88-109-lr",
+    "ridexId": "4675",
+    "yearFrom": 1961,
+    "yearTo": 1986
+  },
+  "engines": [
+    {
+      "name": "2.3 4x4 (LR 88 OL",
+      "ridexId": "3200",
+      "displacement": 2286,
+      "power": 69,
+      "fuelType": null,
+      "productsFound": 6
+    },
+    {
+      "name": "2.6 4x4",
+      "ridexId": "107491",
+      "displacement": 2625,
+      "power": 83,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "2.3 D 4x4 (LR 88 DL",
+      "ridexId": "3202",
+      "displacement": 2286,
+      "power": 63,
+      "fuelType": "diesel",
+      "productsFound": 1
+    },
+    {
+      "name": "2.5 D 4x4",
+      "ridexId": "125166",
+      "displacement": 2495,
+      "power": 69,
+      "fuelType": "diesel",
+      "productsFound": 0
+    },
+    {
+      "name": "2.3 4x4",
+      "ridexId": "106473",
+      "displacement": 2286,
+      "power": 78,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [
+    {
+      "articleNo": "82B0965",
+      "articleId": "8040092",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8040092&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "solid",
+        "Brake Disc Thickness": "14",
+        "Height": "70",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "298,3",
+        "Centering Diameter [mm]": "101,7",
+        "Number of Holes": "5",
+        "Wheel Bolt Bore Diameter [mm]": "10,3",
+        "Bolt Hole Circle Ø [mm]": "127",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B0965",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191139934"
+      },
+      "engines": [
+        "3200",
+        "107491",
+        "3202",
+        "106473"
+      ]
+    },
+    {
+      "articleNo": "854S1799",
+      "articleId": "13562579",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13562579&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top pin",
+        "max. length [mm]": "555",
+        "min. length [mm]": "332",
+        "Quantity per axle": "1",
+        "Manufacturer part number": "854S1799",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191621354"
+      },
+      "engines": [
+        "3200",
+        "107491",
+        "3202",
+        "125166",
+        "106473"
+      ]
+    },
+    {
+      "articleNo": "854S2308",
+      "articleId": "15079092",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15079092&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Monotube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top eye",
+        "Quantity Unit": "Set",
+        "Manufacturer part number": "854S2308",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191877126"
+      },
+      "engines": [
+        "3200",
+        "107491",
+        "3202",
+        "125166",
+        "106473"
+      ]
+    },
+    {
+      "articleNo": "854S0287",
+      "articleId": "8001583",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8001583&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top eye",
+        "Manufacturer part number": "854S0287",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191338016"
+      },
+      "engines": [
+        "3200",
+        "107491",
+        "3202",
+        "125166",
+        "106473"
+      ]
+    },
+    {
+      "articleNo": "854S0828",
+      "articleId": "8002474",
+      "name": "Shock absorber",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8002474&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "suspension/shock-absorber",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Shock Absorber Type": "Gas Pressure",
+        "Shock Absorber System": "Twin-Tube",
+        "Shock Absorber Design": "Telescopic Shock Absorber",
+        "Shock Absorber Mounting Type": "Bottom Pin, Top pin",
+        "max. length [mm]": "555",
+        "min. length [mm]": "332",
+        "Quantity per axle": "2",
+        "Manufacturer part number": "854S0828",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191105199"
+      },
+      "engines": [
+        "3200",
+        "107491",
+        "3202",
+        "125166",
+        "106473"
+      ]
+    },
+    {
+      "articleNo": "654W0315",
+      "articleId": "8226690",
+      "name": "Wheel bearing kit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8226690&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/wheel-bearing-kit",
+      "specs": {
+        "Fitting Position": "Front axle both sides, Rear Axle both sides",
+        "Manufacturer part number": "654W0315",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191418497"
+      },
+      "engines": [
+        "3200",
+        "107491",
+        "3202"
+      ]
+    },
+    {
+      "articleNo": "83B0311",
+      "articleId": "8093706",
+      "name": "Brake hose",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8093706&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-hoses",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Length [mm]": "320",
+        "Thread Size 1": "3/8 24",
+        "Thread Size 2": "3/8 24",
+        "Thread Type": "External Thread",
+        "Overall Length [mm]": "370",
+        "Manufacturer part number": "83B0311",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191216260"
+      },
+      "engines": [
+        "3202"
+      ]
+    }
+  ],
+  "scrapedAt": "2026-05-06T14:04:13.015Z",
+  "totalProducts": 7
+}

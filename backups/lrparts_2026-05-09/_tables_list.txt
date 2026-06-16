@@ -1,0 +1,30 @@
+                ?column?                 
+-----------------------------------------
+ CREATE TABLE _migrations (...);
+ CREATE TABLE users (...);
+ CREATE TABLE user_addresses (...);
+ CREATE TABLE vehicle_models (...);
+ CREATE TABLE vehicle_engines (...);
+ CREATE TABLE user_vehicles (...);
+ CREATE TABLE brands (...);
+ CREATE TABLE categories (...);
+ CREATE TABLE inventory_items (...);
+ CREATE TABLE carts (...);
+ CREATE TABLE cart_items (...);
+ CREATE TABLE orders (...);
+ CREATE TABLE order_items (...);
+ CREATE TABLE order_status_logs (...);
+ CREATE TABLE settings (...);
+ CREATE TABLE sync_logs (...);
+ CREATE TABLE contact_messages (...);
+ CREATE TABLE kit_items (...);
+ CREATE TABLE kits (...);
+ CREATE TABLE oem_numbers (...);
+ CREATE TABLE product_specs (...);
+ CREATE TABLE product_vehicles (...);
+ CREATE TABLE scrape_progress (...);
+ CREATE TABLE products (...);
+ CREATE TABLE product_images (...);
+ CREATE TABLE motorcheck_mappings (...);
+(26 rows)
+

@@ -1,0 +1,115 @@
+import AuthController from "../src/controllers/AuthController.js";
+import { authenticate } from "../middlewares/authenticate.js";
+
+const Routes = [
+  {
+    path: "/auth/register",
+    method: "POST",
+    controller: AuthController,
+    action: "register",
+    middlewares: [],
+  },
+  {
+    path: "/auth/login",
+    method: "POST",
+    controller: AuthController,
+    action: "login",
+    middlewares: [],
+  },
+  {
+    path: "/auth/refresh",
+    method: "POST",
+    controller: AuthController,
+    action: "refresh",
+    middlewares: [],
+  },
+  {
+    path: "/auth/logout",
+    method: "GET",
+    controller: AuthController,
+    action: "logout",
+    middlewares: [authenticate],
+  },
+  {
+    path: "/auth/user-info",
+    method: "GET",
+    controller: AuthController,
+    action: "getUserInfo",
+    middlewares: [authenticate],
+  },
+  {
+    path: "/auth/user-info",
+    method: "PUT",
+    controller: AuthController,
+    action: "updateUserInfo",
+    middlewares: [authenticate],
+  },
+  {
+    path: "/auth/addresses",
+    method: "GET",
+    controller: AuthController,
+    action: "getAddresses",
+    middlewares: [authenticate],
+  },
+  {
+    path: "/auth/addresses",
+    method: "POST",
+    controller: AuthController,
+    action: "createAddress",
+    middlewares: [authenticate],
+    autoCommit: true,
+  },
+  {
+    path: "/auth/addresses/:addressId",
+    method: "PUT",
+    controller: AuthController,
+    action: "updateAddress",
+    middlewares: [authenticate],
+    autoCommit: true,
+  },
+  {
+    path: "/auth/addresses/:addressId",
+    method: "DELETE",
+    controller: AuthController,
+    action: "removeAddress",
+    middlewares: [authenticate],
+    autoCommit: true,
+  },
+  {
+    path: "/auth/google",
+    method: "POST",
+    controller: AuthController,
+    action: "googleAuth",
+    middlewares: [],
+  },
+  {
+    path: "/auth/verify-email",
+    method: "POST",
+    controller: AuthController,
+    action: "verifyEmail",
+    middlewares: [],
+  },
+  {
+    path: "/auth/resend-verification",
+    method: "POST",
+    controller: AuthController,
+    action: "resendVerification",
+    middlewares: [authenticate],
+  },
+  {
+    path: "/auth/forgot-password",
+    method: "POST",
+    controller: AuthController,
+    action: "forgotPassword",
+    middlewares: [],
+  },
+  {
+    path: "/auth/reset-password",
+    method: "POST",
+    controller: AuthController,
+    action: "resetPassword",
+    middlewares: [],
+  },
+];
+
+export default Routes;

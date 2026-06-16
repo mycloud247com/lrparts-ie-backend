@@ -1,0 +1,31 @@
+                                            List of relations
+ Schema |        Name         | Type  |  Owner   | Persistence | Access method |    Size    | Description 
+--------+---------------------+-------+----------+-------------+---------------+------------+-------------
+ public | _migrations         | table | postgres | permanent   | heap          | 8192 bytes | 
+ public | brands              | table | postgres | permanent   | heap          | 16 kB      | 
+ public | cart_items          | table | postgres | permanent   | heap          | 16 kB      | 
+ public | carts               | table | postgres | permanent   | heap          | 8192 bytes | 
+ public | categories          | table | postgres | permanent   | heap          | 16 kB      | 
+ public | contact_messages    | table | postgres | permanent   | heap          | 16 kB      | 
+ public | inventory_items     | table | postgres | permanent   | heap          | 16 kB      | 
+ public | kit_items           | table | postgres | permanent   | heap          | 16 kB      | 
+ public | kits                | table | postgres | permanent   | heap          | 16 kB      | 
+ public | motorcheck_mappings | table | postgres | permanent   | heap          | 16 kB      | 
+ public | oem_numbers         | table | postgres | permanent   | heap          | 1144 kB    | 
+ public | order_items         | table | postgres | permanent   | heap          | 16 kB      | 
+ public | order_status_logs   | table | postgres | permanent   | heap          | 16 kB      | 
+ public | orders              | table | postgres | permanent   | heap          | 16 kB      | 
+ public | product_images      | table | postgres | permanent   | heap          | 216 kB     | 
+ public | product_specs       | table | postgres | permanent   | heap          | 816 kB     | 
+ public | product_vehicles    | table | postgres | permanent   | heap          | 1664 kB    | 
+ public | products            | table | postgres | permanent   | heap          | 496 kB     | 
+ public | scrape_progress     | table | postgres | permanent   | heap          | 24 kB      | 
+ public | settings            | table | postgres | permanent   | heap          | 48 kB      | 
+ public | sync_logs           | table | postgres | permanent   | heap          | 16 kB      | 
+ public | user_addresses      | table | postgres | permanent   | heap          | 16 kB      | 
+ public | user_vehicles       | table | postgres | permanent   | heap          | 16 kB      | 
+ public | users               | table | postgres | permanent   | heap          | 16 kB      | 
+ public | vehicle_engines     | table | postgres | permanent   | heap          | 152 kB     | 
+ public | vehicle_models      | table | postgres | permanent   | heap          | 16 kB      | 
+(26 rows)
+

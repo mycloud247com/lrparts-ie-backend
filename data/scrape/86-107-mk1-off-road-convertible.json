@@ -1,0 +1,22 @@
+{
+  "model": {
+    "name": "86/107 Mk1 Off-road Convertible",
+    "slug": "86-107-mk1-off-road-convertible",
+    "ridexId": "41014",
+    "yearFrom": 1954,
+    "yearTo": 1958
+  },
+  "engines": [
+    {
+      "name": "2.0 4x4",
+      "ridexId": "141469",
+      "displacement": 1997,
+      "power": 53,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [],
+  "scrapedAt": "2026-05-06T13:34:41.261Z",
+  "totalProducts": 0
+}

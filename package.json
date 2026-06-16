@@ -1,0 +1,50 @@
+{
+  "name": "lrparts-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js",
+    "migrate": "node migrate.js up",
+    "migrate:down": "node migrate.js down",
+    "migrate:status": "node migrate.js status",
+    "migrate:reset": "node migrate.js down && node migrate.js up",
+    "seed": "node seed.js",
+    "db:setup": "node migrate.js up && node seed.js",
+    "scrape": "node scripts/full-scrape.js",
+    "scrape:resume": "node scripts/full-scrape.js --resume",
+    "scrape:status": "node scripts/full-scrape.js --status",
+    "scrape:enrich": "node scripts/full-scrape.js --phase=enrich",
+    "sync:prices": "node scripts/sync-prices.js",
+    "seed:kits": "node scripts/seed-kits.js",
+    "seed:kits:force": "node scripts/seed-kits.js --force",
+    "enrich:oem": "node scripts/enrich-oem.js",
+    "enrich:oem:force": "node scripts/enrich-oem.js --force",
+    "enrich:oem:dry": "node scripts/enrich-oem.js --dry-run"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "compression": "^1.8.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^8.4.0",
+    "form-data": "^4.0.5",
+    "groq-sdk": "^1.1.2",
+    "helmet": "^8.1.0",
+    "ioredis": "^5.10.1",
+    "jsonwebtoken": "^9.0.2",
+    "mailgun.js": "^13.0.0",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "stripe": "^14.25.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}

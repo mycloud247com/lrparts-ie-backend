@@ -1,0 +1,134 @@
+{
+  "model": {
+    "name": "Range Rover Sport (L461)",
+    "slug": "range-rover-sport-l461",
+    "ridexId": "42925",
+    "yearFrom": 2022,
+    "yearTo": null
+  },
+  "engines": [
+    {
+      "name": "3.0 D350 MHEV AWD",
+      "ridexId": "148074",
+      "displacement": 2997,
+      "power": 351,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P530 AWD",
+      "ridexId": "147579",
+      "displacement": 4395,
+      "power": 530,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P400 MHEV AWD",
+      "ridexId": "147574",
+      "displacement": 2996,
+      "power": 400,
+      "fuelType": null,
+      "productsFound": 1
+    },
+    {
+      "name": "P440e PHEV AWD",
+      "ridexId": "147576",
+      "displacement": 2996,
+      "power": 441,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P460e PHEV AWD",
+      "ridexId": "154566",
+      "displacement": 2996,
+      "power": 460,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P510e PHEV AWD",
+      "ridexId": "147578",
+      "displacement": 2996,
+      "power": 510,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P530 MHEV AWD",
+      "ridexId": "157552",
+      "displacement": 4395,
+      "power": 530,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P550e PHEV AWD",
+      "ridexId": "154567",
+      "displacement": 2996,
+      "power": 551,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "P635 MHEV AWD",
+      "ridexId": "154838",
+      "displacement": 4395,
+      "power": 635,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.0 D250 MHEV AWD",
+      "ridexId": "147571",
+      "displacement": 2997,
+      "power": 249,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.0 D300 MHEV AWD",
+      "ridexId": "147572",
+      "displacement": 2997,
+      "power": 300,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "3.0 D350 MHEV AWD",
+      "ridexId": "147573",
+      "displacement": 2997,
+      "power": 340,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [
+    {
+      "articleNo": "914T0444",
+      "articleId": "12745589",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12745589&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front axle both sides",
+        "Length [mm]": "222",
+        "Cone Size [mm]": "15,4",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "External Thread Size": "M14 x 1,5",
+        "Internal Thread Size": "M16 x 1,5",
+        "Manufacturer part number": "914T0444",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191512713"
+      },
+      "engines": [
+        "147574"
+      ]
+    }
+  ],
+  "scrapedAt": "2026-05-08T16:57:32.070Z",
+  "totalProducts": 1
+}

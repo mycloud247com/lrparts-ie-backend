@@ -1,0 +1,176 @@
+{
+  "model": {
+    "name": "88/109 Mk2A Closed Off-Road Vehicle",
+    "slug": "88-109-mk2a-closed-off-road-vehicle",
+    "ridexId": "41003",
+    "yearFrom": 1961,
+    "yearTo": 1971
+  },
+  "engines": [
+    {
+      "name": "2.3 D 4x4",
+      "ridexId": "141441",
+      "displacement": 2286,
+      "power": 63,
+      "fuelType": "diesel",
+      "productsFound": 3
+    },
+    {
+      "name": "2.6 4x4",
+      "ridexId": "141440",
+      "displacement": 2625,
+      "power": 87,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "2.3 4x4",
+      "ridexId": "141437",
+      "displacement": 2286,
+      "power": 69,
+      "fuelType": null,
+      "productsFound": 2
+    },
+    {
+      "name": "2.3 4x4",
+      "ridexId": "141438",
+      "displacement": 2286,
+      "power": 78,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [
+    {
+      "articleNo": "7O0202",
+      "articleId": "13468885",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13468885&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Height": "140.5",
+        "Sealing Ring Diameter [mm]": "72.0",
+        "Inner Diameter 2 [mm]": "62.0",
+        "Connecting thread": "1\"-12UNF-2B",
+        "Bypass Valve Opening Pressure [bar]": "2.2",
+        "Housing Diameter [mm]": "93.2",
+        "Tightening Torque [Nm]": "20",
+        "Manufacturer part number": "7O0202",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191593866"
+      },
+      "engines": [
+        "141441"
+      ]
+    },
+    {
+      "articleNo": "9F0043",
+      "articleId": "8097309",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097309&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "71",
+        "Outer Diameter [mm]": "85",
+        "Outer Diameter 1 [mm]": "87",
+        "Inner Diameter [mm]": "19",
+        "Inner Diameter 1 [mm]": "18",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "9F0043",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191235476"
+      },
+      "engines": [
+        "141441",
+        "141437"
+      ]
+    },
+    {
+      "articleNo": "9F0043P",
+      "articleId": "18952512",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952512&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "71",
+        "Outer Diameter [mm]": "85",
+        "Outer Diameter 1 [mm]": "87",
+        "Inner Diameter [mm]": "19",
+        "Inner Diameter 1 [mm]": "18",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "9F0043P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423606119"
+      },
+      "engines": [
+        "141441",
+        "141437"
+      ]
+    },
+    {
+      "articleNo": "686S0011",
+      "articleId": "13631693",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631693&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Spark Plug": "1 - Earthed Electrode, Nickel Middle Electrode",
+        "Electrode Gap [mm]": "0,8",
+        "Spanner Size": "20,8",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Size": "M 14 x 1,25",
+        "Tightening Torque [Nm]": "28",
+        "Number of pins": "1",
+        "Manufacturer part number": "686S0011",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685318"
+      },
+      "engines": [
+        "141437",
+        "141438"
+      ]
+    },
+    {
+      "articleNo": "686S0011P",
+      "articleId": "19295198",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19295198&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Nickel",
+        "Spark Plug": "Nickel mass electrode, Nickel-Copper Center Electrode",
+        "Electrode Gap [mm]": "0,8",
+        "Spanner Size": "20,8",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Size": "M 14 x 1,25",
+        "Tightening Torque [Nm]": "28",
+        "Resistor [kOhm]": "6",
+        "Spark Plug Head": "Fixed SAE connector",
+        "Manufacturer part number": "686S0011P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423770964"
+      },
+      "engines": [
+        "141437",
+        "141438"
+      ]
+    }
+  ],
+  "scrapedAt": "2026-05-06T14:19:41.758Z",
+  "totalProducts": 5
+}

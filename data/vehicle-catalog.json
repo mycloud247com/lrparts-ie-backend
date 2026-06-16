@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "4668",
+    "name": "Range Rover II (P38A)",
+    "years": "1994-2002",
+    "engines": [
+      {
+        "id": "4084",
+        "name": "2.5 D 4x4",
+        "cc": 2497,
+        "hp": 136,
+        "fuel": "diesel"
+      },
+      {
+        "id": "4085",
+        "name": "3.9 4x4",
+        "cc": 3947,
+        "hp": 190,
+        "fuel": null
+      },
+      {
+        "id": "128855",
+        "name": "3.9 4x4",
+        "cc": 3947,
+        "hp": 193,
+        "fuel": null
+      },
+      {
+        "id": "11627",
+        "name": "4.0 4x4",
+        "cc": 3947,
+        "hp": 185,
+        "fuel": null
+      },
+      {
+        "id": "131868",
+        "name": "4.6 4x4",
+        "cc": 4553,
+        "hp": 213,
+        "fuel": null
+      },
+      {
+        "id": "4086",
+        "name": "4.6 4x4",
+        "cc": 4553,
+        "hp": 224,
+        "fuel": null
+      },
+      {
+        "id": "106052",
+        "name": "4.6 4x4",
+        "cc": 4554,
+        "hp": 228,
+        "fuel": null
+      },
+      {
+        "id": "11628",
+        "name": "4.6 4x4",
+        "cc": 4554,
+        "hp": 218,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4669",
+    "name": "Range Rover I",
+    "years": "1969-1996",
+    "engines": [
+      {
+        "id": "20794",
+        "name": "2.4 TD 4x4",
+        "cc": 2393,
+        "hp": 121,
+        "fuel": "diesel"
+      },
+      {
+        "id": "30410",
+        "name": "2.4 TD 4x4",
+        "cc": 2393,
+        "hp": 113,
+        "fuel": "diesel"
+      },
+      {
+        "id": "23411",
+        "name": "2.4 TD 4x4",
+        "cc": 2393,
+        "hp": 106,
+        "fuel": "diesel"
+      },
+      {
+        "id": "3212",
+        "name": "2.4 TD 4x4",
+        "cc": 2393,
+        "hp": 106,
+        "fuel": "diesel"
+      },
+      {
+        "id": "20795",
+        "name": "2.5 TDi 4x4",
+        "cc": 2495,
+        "hp": 113,
+        "fuel": null
+      },
+      {
+        "id": "20796",
+        "name": "2.5 TD 4x4",
+        "cc": 2498,
+        "hp": 121,
+        "fuel": "diesel"
+      },
+      {
+        "id": "14264",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 132,
+        "fuel": null
+      },
+      {
+        "id": "3209",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 146,
+        "fuel": null
+      },
+      {
+        "id": "27303",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 131,
+        "fuel": null
+      },
+      {
+        "id": "3210",
+        "name": "3.5 Vogue 4x4",
+        "cc": 3528,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "3208",
+        "name": "3.5 Vogue 4x4",
+        "cc": 3528,
+        "hp": 126,
+        "fuel": null
+      },
+      {
+        "id": "106051",
+        "name": "3.9 4x4",
+        "cc": 3947,
+        "hp": 182,
+        "fuel": null
+      },
+      {
+        "id": "3214",
+        "name": "3.9 Vogue SEI 4x4",
+        "cc": 3947,
+        "hp": 182,
+        "fuel": null
+      },
+      {
+        "id": "3211",
+        "name": "3.9 Cat 4x4",
+        "cc": 3947,
+        "hp": 173,
+        "fuel": null
+      },
+      {
+        "id": "45175",
+        "name": "3.9 4x4",
+        "cc": 3947,
+        "hp": 185,
+        "fuel": null
+      },
+      {
+        "id": "45176",
+        "name": "4.2 4x4",
+        "cc": 4200,
+        "hp": 203,
+        "fuel": null
+      },
+      {
+        "id": "119060",
+        "name": "4.3 4x4",
+        "cc": 4273,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "3215",
+        "name": "4.3 Vogue LSE 4x4",
+        "cc": 4275,
+        "hp": 203,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4670",
+    "name": "Discovery II (L318)",
+    "years": "1998-2004",
+    "engines": [
+      {
+        "id": "105799",
+        "name": "2.5 Td5 4x4",
+        "cc": 2495,
+        "hp": 136,
+        "fuel": null
+      },
+      {
+        "id": "10139",
+        "name": "2.5 Td5 4x4",
+        "cc": 2495,
+        "hp": 139,
+        "fuel": null
+      },
+      {
+        "id": "10943",
+        "name": "4.0 V8 4x4",
+        "cc": 3947,
+        "hp": 185,
+        "fuel": null
+      },
+      {
+        "id": "45166",
+        "name": "4.0 4x4",
+        "cc": 3947,
+        "hp": 190,
+        "fuel": null
+      },
+      {
+        "id": "45168",
+        "name": "4.6 4x4",
+        "cc": 4554,
+        "hp": 220,
+        "fuel": null
+      },
+      {
+        "id": "106054",
+        "name": "4.6 4x4",
+        "cc": 4554,
+        "hp": 228,
+        "fuel": null
+      },
+      {
+        "id": "105645",
+        "name": "4.6 4x4",
+        "cc": 4554,
+        "hp": 224,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4671",
+    "name": "Discovery I (LJ)",
+    "years": "1989-1998",
+    "engines": [
+      {
+        "id": "14307",
+        "name": "2.0 16 V 4x4",
+        "cc": 1994,
+        "hp": 135,
+        "fuel": null
+      },
+      {
+        "id": "3216",
+        "name": "2.5 TDI 4x4",
+        "cc": 2495,
+        "hp": 113,
+        "fuel": "diesel"
+      },
+      {
+        "id": "27305",
+        "name": "2.5 TDI 4x4",
+        "cc": 2495,
+        "hp": 122,
+        "fuel": "diesel"
+      },
+      {
+        "id": "101060",
+        "name": "2.5 D 4x4",
+        "cc": 2496,
+        "hp": 116,
+        "fuel": "diesel"
+      },
+      {
+        "id": "122568",
+        "name": "2.5 TDI 4x4",
+        "cc": 2496,
+        "hp": 110,
+        "fuel": "diesel"
+      },
+      {
+        "id": "132135",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 114,
+        "fuel": null
+      },
+      {
+        "id": "23102",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 133,
+        "fuel": null
+      },
+      {
+        "id": "3217",
+        "name": "3.5 4x4",
+        "cc": 3531,
+        "hp": 154,
+        "fuel": null
+      },
+      {
+        "id": "23101",
+        "name": "3.5 4x4",
+        "cc": 3531,
+        "hp": 166,
+        "fuel": null
+      },
+      {
+        "id": "14308",
+        "name": "4.0 4x4",
+        "cc": 3947,
+        "hp": 182,
+        "fuel": null
+      },
+      {
+        "id": "131351",
+        "name": "4.0 4x4",
+        "cc": 3947,
+        "hp": 185,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4672",
+    "name": "Defender Off-Road Convertible (L316)",
+    "years": "1990-2016",
+    "engines": [
+      {
+        "id": "13972",
+        "name": "2.2 Td4 4x4 (L317)",
+        "cc": 2198,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "29982",
+        "name": "2.4 Td4 4x4 (L317)",
+        "cc": 2402,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "32081",
+        "name": "2.5 D 4x4 (L316)",
+        "cc": 2495,
+        "hp": 69,
+        "fuel": "diesel"
+      },
+      {
+        "id": "17474",
+        "name": "2.5 Td5 4x4 (L316)",
+        "cc": 2495,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "5338",
+        "name": "2.5 TDI 4x4 (L316)",
+        "cc": 2495,
+        "hp": 113,
+        "fuel": "diesel"
+      },
+      {
+        "id": "126017",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 117,
+        "fuel": null
+      },
+      {
+        "id": "32079",
+        "name": "3.5 4x4",
+        "cc": 3531,
+        "hp": 136,
+        "fuel": null
+      },
+      {
+        "id": "24616",
+        "name": "3.9 4x4",
+        "cc": 3947,
+        "hp": 182,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4673",
+    "name": "Defender Off-Road (L316)",
+    "years": "1990-2016",
+    "engines": [
+      {
+        "id": "13971",
+        "name": "2.2 Td4 4x4 (L316)",
+        "cc": 2198,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "112181",
+        "name": "2.2 Td4 4x4 (L316)",
+        "cc": 2198,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "131583",
+        "name": "2.4 Td4 4x4",
+        "cc": 2402,
+        "hp": 140,
+        "fuel": null
+      },
+      {
+        "id": "29983",
+        "name": "2.4 Td4 4x4 (L316)",
+        "cc": 2402,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "32080",
+        "name": "2.5 D 4x4 (L316)",
+        "cc": 2495,
+        "hp": 69,
+        "fuel": "diesel"
+      },
+      {
+        "id": "105809",
+        "name": "2.5 TD 4x4 (L316)",
+        "cc": 2495,
+        "hp": 116,
+        "fuel": "diesel"
+      },
+      {
+        "id": "11626",
+        "name": "2.5 Td5 4x4 (L316)",
+        "cc": 2495,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "5337",
+        "name": "2.5 TDI 4x4 (L316)",
+        "cc": 2495,
+        "hp": 113,
+        "fuel": "diesel"
+      },
+      {
+        "id": "20797",
+        "name": "2.5 4x4",
+        "cc": 2495,
+        "hp": 83,
+        "fuel": null
+      },
+      {
+        "id": "55964",
+        "name": "2.8 4x4",
+        "cc": 2793,
+        "hp": 190,
+        "fuel": null
+      },
+      {
+        "id": "20798",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 117,
+        "fuel": null
+      },
+      {
+        "id": "126014",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 136,
+        "fuel": null
+      },
+      {
+        "id": "24617",
+        "name": "3.9 4x4 (L316)",
+        "cc": 3947,
+        "hp": 182,
+        "fuel": null
+      },
+      {
+        "id": "11244",
+        "name": "3.9 V8 4x4 (L316)",
+        "cc": 3947,
+        "hp": 185,
+        "fuel": null
+      },
+      {
+        "id": "45164",
+        "name": "4.0 4x4 (L316)",
+        "cc": 3950,
+        "hp": 190,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4674",
+    "name": "110/127 (LDH)",
+    "years": "1983-1990",
+    "engines": [
+      {
+        "id": "28359",
+        "name": "2.3 D 4x4",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "142293",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 71,
+        "fuel": null
+      },
+      {
+        "id": "28360",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 71,
+        "fuel": null
+      },
+      {
+        "id": "9211",
+        "name": "2.5 TD 4x4",
+        "cc": 2494,
+        "hp": 86,
+        "fuel": "diesel"
+      },
+      {
+        "id": "9210",
+        "name": "2.5 4x4",
+        "cc": 2494,
+        "hp": 84,
+        "fuel": null
+      },
+      {
+        "id": "20799",
+        "name": "2.5 D 4x4",
+        "cc": 2495,
+        "hp": 69,
+        "fuel": "diesel"
+      },
+      {
+        "id": "59864",
+        "name": "2.5 4x4",
+        "cc": 2495,
+        "hp": 83,
+        "fuel": null
+      },
+      {
+        "id": "132314",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 116,
+        "fuel": null
+      },
+      {
+        "id": "59361",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 116,
+        "fuel": null
+      },
+      {
+        "id": "9209",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 133,
+        "fuel": null
+      },
+      {
+        "id": "126015",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 136,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4675",
+    "name": "88/109 (LR)",
+    "years": "1961-1986",
+    "engines": [
+      {
+        "id": "3200",
+        "name": "2.3 4x4 (LR 88 OL",
+        "cc": 2286,
+        "hp": 69,
+        "fuel": null
+      },
+      {
+        "id": "106473",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 78,
+        "fuel": null
+      },
+      {
+        "id": "3202",
+        "name": "2.3 D 4x4 (LR 88 DL",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "125166",
+        "name": "2.5 D 4x4",
+        "cc": 2495,
+        "hp": 69,
+        "fuel": "diesel"
+      },
+      {
+        "id": "107491",
+        "name": "2.6 4x4",
+        "cc": 2625,
+        "hp": 83,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4676",
+    "name": "88/109 Hardtop (LR)",
+    "years": "1963-1986",
+    "engines": [
+      {
+        "id": "3204",
+        "name": "2.3 4x4 (LR 88 OP",
+        "cc": 2286,
+        "hp": 69,
+        "fuel": null
+      },
+      {
+        "id": "3206",
+        "name": "2.3 D 4x4 (LR 88 DP",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "126016",
+        "name": "2.5 D 4x4",
+        "cc": 2495,
+        "hp": 69,
+        "fuel": "diesel"
+      }
+    ]
+  },
+  {
+    "id": "4677",
+    "name": "Freelander I Off-Road Convertible (L314)",
+    "years": "1998-2006",
+    "engines": [
+      {
+        "id": "10539",
+        "name": "1.8 i 16V 4x4",
+        "cc": 1796,
+        "hp": 120,
+        "fuel": null
+      },
+      {
+        "id": "55967",
+        "name": "1.8 4x4",
+        "cc": 1796,
+        "hp": 117,
+        "fuel": null
+      },
+      {
+        "id": "55968",
+        "name": "2.0 TD4 4x4",
+        "cc": 1951,
+        "hp": 112,
+        "fuel": null
+      },
+      {
+        "id": "10541",
+        "name": "2.0 DI 4x4",
+        "cc": 1994,
+        "hp": 98,
+        "fuel": null
+      },
+      {
+        "id": "132008",
+        "name": "2.5 V6 4x4",
+        "cc": 2497,
+        "hp": 177,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4678",
+    "name": "Freelander I Off-Road (L314)",
+    "years": "1998-2006",
+    "engines": [
+      {
+        "id": "8985",
+        "name": "1.8 i 16V 4x4",
+        "cc": 1796,
+        "hp": 120,
+        "fuel": null
+      },
+      {
+        "id": "15591",
+        "name": "1.8 16V 4x4",
+        "cc": 1796,
+        "hp": 117,
+        "fuel": null
+      },
+      {
+        "id": "15429",
+        "name": "2.0 Td4 4x4",
+        "cc": 1951,
+        "hp": 112,
+        "fuel": null
+      },
+      {
+        "id": "17313",
+        "name": "2.0 Td4 4x4",
+        "cc": 1951,
+        "hp": 109,
+        "fuel": null
+      },
+      {
+        "id": "8986",
+        "name": "2.0 DI 4x4",
+        "cc": 1994,
+        "hp": 98,
+        "fuel": null
+      },
+      {
+        "id": "15428",
+        "name": "2.5 V6 4x4",
+        "cc": 2497,
+        "hp": 177,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "4869",
+    "name": "Range Rover III (L322)",
+    "years": "2002-2012",
+    "engines": [
+      {
+        "id": "16520",
+        "name": "3.0 D 4x4",
+        "cc": 2926,
+        "hp": 177,
+        "fuel": "diesel"
+      },
+      {
+        "id": "23050",
+        "name": "3.6 D 4x4",
+        "cc": 3628,
+        "hp": 272,
+        "fuel": "diesel"
+      },
+      {
+        "id": "45182",
+        "name": "4.2 Supercharged 4x4",
+        "cc": 4196,
+        "hp": 405,
+        "fuel": null
+      },
+      {
+        "id": "18572",
+        "name": "4.2 4x4",
+        "cc": 4197,
+        "hp": 396,
+        "fuel": null
+      },
+      {
+        "id": "2483",
+        "name": "4.4 D 4x4",
+        "cc": 4367,
+        "hp": 313,
+        "fuel": "diesel"
+      },
+      {
+        "id": "14235",
+        "name": "4.4 4x4",
+        "cc": 4394,
+        "hp": 299,
+        "fuel": null
+      },
+      {
+        "id": "18573",
+        "name": "4.4 4x4",
+        "cc": 4394,
+        "hp": 306,
+        "fuel": null
+      },
+      {
+        "id": "106053",
+        "name": "4.4 4x4",
+        "cc": 4394,
+        "hp": 305,
+        "fuel": null
+      },
+      {
+        "id": "59498",
+        "name": "4.4 4x4",
+        "cc": 4398,
+        "hp": 288,
+        "fuel": null
+      },
+      {
+        "id": "16519",
+        "name": "4.4 4x4",
+        "cc": 4398,
+        "hp": 286,
+        "fuel": null
+      },
+      {
+        "id": "2534",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 375,
+        "fuel": null
+      },
+      {
+        "id": "32051",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 510,
+        "fuel": null
+      },
+      {
+        "id": "51197",
+        "name": "5.0 4x4",
+        "cc": 5000,
+        "hp": 296,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "5034",
+    "name": "Defender Pickup (L316)",
+    "years": "1995-2016",
+    "engines": [
+      {
+        "id": "13973",
+        "name": "2.2 Td4 4x4 (L317)",
+        "cc": 2198,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "29984",
+        "name": "2.4 Td4 4x4 (L317)",
+        "cc": 2402,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "144640",
+        "name": "2.4 Td4 4x4",
+        "cc": 2402,
+        "hp": 140,
+        "fuel": null
+      },
+      {
+        "id": "17473",
+        "name": "2.5 Td5 4x4 (L316)",
+        "cc": 2495,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "28381",
+        "name": "2.8 4x4",
+        "cc": 2793,
+        "hp": 190,
+        "fuel": null
+      },
+      {
+        "id": "24641",
+        "name": "4.0 4x4",
+        "cc": 3947,
+        "hp": 182,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "5160",
+    "name": "Discovery III (L319)",
+    "years": "2004-2009",
+    "engines": [
+      {
+        "id": "101062",
+        "name": "2.7 TD 4x4",
+        "cc": 2720,
+        "hp": 200,
+        "fuel": "diesel"
+      },
+      {
+        "id": "18239",
+        "name": "2.7 TD 4x4",
+        "cc": 2720,
+        "hp": 190,
+        "fuel": "diesel"
+      },
+      {
+        "id": "11153",
+        "name": "4.0 4x4",
+        "cc": 3999,
+        "hp": 218,
+        "fuel": null
+      },
+      {
+        "id": "25392",
+        "name": "4.0 V6 4x4",
+        "cc": 4009,
+        "hp": 218,
+        "fuel": null
+      },
+      {
+        "id": "24645",
+        "name": "4.0 4x4",
+        "cc": 4009,
+        "hp": 219,
+        "fuel": null
+      },
+      {
+        "id": "3250",
+        "name": "4.0 V6 4x4",
+        "cc": 4009,
+        "hp": 212,
+        "fuel": null
+      },
+      {
+        "id": "45172",
+        "name": "4.4 4x4",
+        "cc": 4394,
+        "hp": 305,
+        "fuel": null
+      },
+      {
+        "id": "18238",
+        "name": "4.4 4x4",
+        "cc": 4394,
+        "hp": 299,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "5437",
+    "name": "Range Rover Sport (L320)",
+    "years": "2005-2013",
+    "engines": [
+      {
+        "id": "18804",
+        "name": "2.7 D 4x4",
+        "cc": 2720,
+        "hp": 190,
+        "fuel": "diesel"
+      },
+      {
+        "id": "12009",
+        "name": "3.0 D 4x4",
+        "cc": 2993,
+        "hp": 256,
+        "fuel": "diesel"
+      },
+      {
+        "id": "56766",
+        "name": "3.0 D 4x4",
+        "cc": 2993,
+        "hp": 249,
+        "fuel": "diesel"
+      },
+      {
+        "id": "2962",
+        "name": "3.0 D 4x4",
+        "cc": 2993,
+        "hp": 211,
+        "fuel": "diesel"
+      },
+      {
+        "id": "32053",
+        "name": "3.0 D 4x4",
+        "cc": 2993,
+        "hp": 245,
+        "fuel": "diesel"
+      },
+      {
+        "id": "23051",
+        "name": "3.6 D 4x4",
+        "cc": 3628,
+        "hp": 272,
+        "fuel": "diesel"
+      },
+      {
+        "id": "118895",
+        "name": "4.2 4x4",
+        "cc": 4196,
+        "hp": 405,
+        "fuel": null
+      },
+      {
+        "id": "18802",
+        "name": "4.2 4x4",
+        "cc": 4197,
+        "hp": 390,
+        "fuel": null
+      },
+      {
+        "id": "133959",
+        "name": "4.2 4x4",
+        "cc": 4197,
+        "hp": 396,
+        "fuel": null
+      },
+      {
+        "id": "135435",
+        "name": "4.2 4x4",
+        "cc": 4197,
+        "hp": 401,
+        "fuel": null
+      },
+      {
+        "id": "18803",
+        "name": "4.4 4x4",
+        "cc": 4394,
+        "hp": 299,
+        "fuel": null
+      },
+      {
+        "id": "51200",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 297,
+        "fuel": null
+      },
+      {
+        "id": "4718",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 506,
+        "fuel": null
+      },
+      {
+        "id": "32052",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 510,
+        "fuel": null
+      },
+      {
+        "id": "3113",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 375,
+        "fuel": null
+      },
+      {
+        "id": "128264",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 381,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "5603",
+    "name": "Freelander 2 Off-Road (L359)",
+    "years": "2006-2014",
+    "engines": [
+      {
+        "id": "15945",
+        "name": "2.0 Si4 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "105603",
+        "name": "2.0 Si4 4x4",
+        "cc": 1999,
+        "hp": 240,
+        "fuel": null
+      },
+      {
+        "id": "23049",
+        "name": "2.2 TD4 4x4",
+        "cc": 2179,
+        "hp": 152,
+        "fuel": null
+      },
+      {
+        "id": "23100",
+        "name": "2.2 TD4 4x4",
+        "cc": 2179,
+        "hp": 156,
+        "fuel": null
+      },
+      {
+        "id": "19757",
+        "name": "2.2 TD4 4x4",
+        "cc": 2179,
+        "hp": 160,
+        "fuel": null
+      },
+      {
+        "id": "2881",
+        "name": "2.2 SD4 4x4",
+        "cc": 2179,
+        "hp": 190,
+        "fuel": null
+      },
+      {
+        "id": "2862",
+        "name": "2.2 eD4",
+        "cc": 2179,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "2879",
+        "name": "2.2 TD4 4x4",
+        "cc": 2179,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "19755",
+        "name": "3.2 4x4",
+        "cc": 3192,
+        "hp": 233,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "9015",
+    "name": "Discovery IV (L319)",
+    "years": "2009-2018",
+    "engines": [
+      {
+        "id": "797",
+        "name": "2.7 TD 4x4",
+        "cc": 2720,
+        "hp": 190,
+        "fuel": "diesel"
+      },
+      {
+        "id": "11891",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 256,
+        "fuel": null
+      },
+      {
+        "id": "56756",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 249,
+        "fuel": "diesel"
+      },
+      {
+        "id": "800",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 211,
+        "fuel": "diesel"
+      },
+      {
+        "id": "32050",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 245,
+        "fuel": "diesel"
+      },
+      {
+        "id": "12169",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 272,
+        "fuel": "diesel"
+      },
+      {
+        "id": "9312",
+        "name": "3.0 4x4",
+        "cc": 2995,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "123230",
+        "name": "3.0 4x4",
+        "cc": 2995,
+        "hp": 345,
+        "fuel": null
+      },
+      {
+        "id": "11157",
+        "name": "4.0 4x4",
+        "cc": 4009,
+        "hp": 218,
+        "fuel": null
+      },
+      {
+        "id": "2940",
+        "name": "5.0 V8 4x4",
+        "cc": 4999,
+        "hp": 375,
+        "fuel": null
+      },
+      {
+        "id": "101063",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 381,
+        "fuel": null
+      },
+      {
+        "id": "50421",
+        "name": "5.0 4x4",
+        "cc": 5000,
+        "hp": 296,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "9576",
+    "name": "Range Rover Evoque (L538)",
+    "years": "2011-2019",
+    "engines": [
+      {
+        "id": "115023",
+        "name": "2.0 4x4",
+        "cc": 1997,
+        "hp": 290,
+        "fuel": null
+      },
+      {
+        "id": "128221",
+        "name": "2.0 4x4",
+        "cc": 1997,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "115147",
+        "name": "2.0 D",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": "diesel"
+      },
+      {
+        "id": "115148",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": "diesel"
+      },
+      {
+        "id": "9824",
+        "name": "2.0 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "100976",
+        "name": "2.0 4x4",
+        "cc": 1999,
+        "hp": 240,
+        "fuel": null
+      },
+      {
+        "id": "127001",
+        "name": "2.0 4x4",
+        "cc": 1999,
+        "hp": 243,
+        "fuel": null
+      },
+      {
+        "id": "115150",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": "diesel"
+      },
+      {
+        "id": "127386",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": "diesel"
+      },
+      {
+        "id": "9817",
+        "name": "2.2 D 4x4",
+        "cc": 2179,
+        "hp": 150,
+        "fuel": "diesel"
+      },
+      {
+        "id": "9818",
+        "name": "2.2 D 4x4",
+        "cc": 2179,
+        "hp": 190,
+        "fuel": "diesel"
+      },
+      {
+        "id": "9816",
+        "name": "2.2 D",
+        "cc": 2179,
+        "hp": 150,
+        "fuel": "diesel"
+      }
+    ]
+  },
+  {
+    "id": "10595",
+    "name": "Defender Platform / Chassis (L316)",
+    "years": "1990-2016",
+    "engines": [
+      {
+        "id": "56210",
+        "name": "2.2 Td4 4x4 (L317)",
+        "cc": 2198,
+        "hp": 122,
+        "fuel": null
+      },
+      {
+        "id": "59758",
+        "name": "2.4 TD4 4x4",
+        "cc": 2402,
+        "hp": 122,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "10810",
+    "name": "Range Rover IV (L405)",
+    "years": "2012-2021",
+    "engines": [
+      {
+        "id": "135158",
+        "name": "2.0 P400e Hybrid 4x4",
+        "cc": 1997,
+        "hp": 404,
+        "fuel": null
+      },
+      {
+        "id": "130310",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 247,
+        "fuel": null
+      },
+      {
+        "id": "116829",
+        "name": "3.0 SDV6 Hybrid 4x4",
+        "cc": 2993,
+        "hp": 354,
+        "fuel": null
+      },
+      {
+        "id": "100017",
+        "name": "3.0 SDV6 Hybrid 4x4",
+        "cc": 2993,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "100016",
+        "name": "3.0 TDV6 4x4",
+        "cc": 2993,
+        "hp": 211,
+        "fuel": null
+      },
+      {
+        "id": "56775",
+        "name": "3.0 TDV6 4x4",
+        "cc": 2993,
+        "hp": 258,
+        "fuel": null
+      },
+      {
+        "id": "133963",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 292,
+        "fuel": null
+      },
+      {
+        "id": "133348",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 275,
+        "fuel": null
+      },
+      {
+        "id": "56762",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "123234",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 345,
+        "fuel": null
+      },
+      {
+        "id": "100015",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "115843",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 380,
+        "fuel": null
+      },
+      {
+        "id": "136362",
+        "name": "3.0 P400 MHEV 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "138972",
+        "name": "P360 MHEV 4x4",
+        "cc": 2996,
+        "hp": 360,
+        "fuel": null
+      },
+      {
+        "id": "142095",
+        "name": "3.0 P400 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "141900",
+        "name": "D300 MHEV 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "141971",
+        "name": "D250 MHEV 4x4",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "141901",
+        "name": "D350 MHEV 4x4",
+        "cc": 2997,
+        "hp": 351,
+        "fuel": null
+      },
+      {
+        "id": "105800",
+        "name": "4.4 SDV8 4x4",
+        "cc": 4367,
+        "hp": 313,
+        "fuel": null
+      },
+      {
+        "id": "56776",
+        "name": "4.4 SDV8 4x4",
+        "cc": 4367,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "135441",
+        "name": "4.4 SDV8 4x4",
+        "cc": 4367,
+        "hp": 344,
+        "fuel": null
+      },
+      {
+        "id": "123232",
+        "name": "5.0 SCV8 4x4",
+        "cc": 5000,
+        "hp": 517,
+        "fuel": null
+      },
+      {
+        "id": "129784",
+        "name": "5.0 SCV8 4x4",
+        "cc": 5000,
+        "hp": 566,
+        "fuel": null
+      },
+      {
+        "id": "129783",
+        "name": "5.0 SCV8 4x4",
+        "cc": 5000,
+        "hp": 525,
+        "fuel": null
+      },
+      {
+        "id": "57067",
+        "name": "5.0 SCV8 4x4",
+        "cc": 5000,
+        "hp": 510,
+        "fuel": null
+      },
+      {
+        "id": "115836",
+        "name": "5.0 SCV8 4x4",
+        "cc": 5000,
+        "hp": 550,
+        "fuel": null
+      },
+      {
+        "id": "138973",
+        "name": "SCV8 4x4",
+        "cc": 5000,
+        "hp": 565,
+        "fuel": null
+      },
+      {
+        "id": "100503",
+        "name": "5.0 V8 4x4",
+        "cc": 5000,
+        "hp": 375,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "11229",
+    "name": "Range Rover Sport (L494)",
+    "years": "2013-2022",
+    "engines": [
+      {
+        "id": "129660",
+        "name": "2.0 Si4 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "135161",
+        "name": "2.0 P400e PHEV 4x4",
+        "cc": 1997,
+        "hp": 404,
+        "fuel": null
+      },
+      {
+        "id": "122731",
+        "name": "2.0 SD4 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "136749",
+        "name": "2.0 GTDI 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "116835",
+        "name": "3.0 SDV6 Hybrid 4x4",
+        "cc": 2993,
+        "hp": 354,
+        "fuel": null
+      },
+      {
+        "id": "108825",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 306,
+        "fuel": null
+      },
+      {
+        "id": "58992",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 292,
+        "fuel": null
+      },
+      {
+        "id": "58995",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "58993",
+        "name": "3.0 TDV6 4x4",
+        "cc": 2993,
+        "hp": 258,
+        "fuel": null
+      },
+      {
+        "id": "58994",
+        "name": "3.0 TDV6 4x4",
+        "cc": 2993,
+        "hp": 211,
+        "fuel": null
+      },
+      {
+        "id": "100338",
+        "name": "3.0 SDV6 Hybrid 4x4",
+        "cc": 2993,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "115828",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 380,
+        "fuel": null
+      },
+      {
+        "id": "122644",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 345,
+        "fuel": null
+      },
+      {
+        "id": "58991",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "139460",
+        "name": "3.0 P360 MHEV 4x4",
+        "cc": 2996,
+        "hp": 360,
+        "fuel": null
+      },
+      {
+        "id": "137993",
+        "name": "3.0 4x4",
+        "cc": 2996,
+        "hp": 360,
+        "fuel": null
+      },
+      {
+        "id": "135923",
+        "name": "3.0 P400 MHEV 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "137992",
+        "name": "3.0 P400 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "141993",
+        "name": "3.0 D350 4x4",
+        "cc": 2997,
+        "hp": 351,
+        "fuel": null
+      },
+      {
+        "id": "141937",
+        "name": "3.0 D250 MHEV 4x4",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "141902",
+        "name": "3.0 D300 MHEV 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "141903",
+        "name": "3.0 D350 MHEV 4x4",
+        "cc": 2997,
+        "hp": 351,
+        "fuel": null
+      },
+      {
+        "id": "141991",
+        "name": "3.0 D250 4x4",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "141992",
+        "name": "3.0 D300 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "100337",
+        "name": "4.4 SDV8 4x4",
+        "cc": 4367,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "129791",
+        "name": "5.0 SCV8 4x4",
+        "cc": 4999,
+        "hp": 525,
+        "fuel": null
+      },
+      {
+        "id": "129014",
+        "name": "5.0 SCV8 4x4",
+        "cc": 4999,
+        "hp": 518,
+        "fuel": null
+      },
+      {
+        "id": "129792",
+        "name": "5.0 SCV8 4x4",
+        "cc": 4999,
+        "hp": 575,
+        "fuel": null
+      },
+      {
+        "id": "107342",
+        "name": "5.0 4x4",
+        "cc": 4999,
+        "hp": 296,
+        "fuel": null
+      },
+      {
+        "id": "58987",
+        "name": "5.0 SCV8 4x4",
+        "cc": 4999,
+        "hp": 510,
+        "fuel": null
+      },
+      {
+        "id": "108805",
+        "name": "5.0 SCV8 4x4",
+        "cc": 4999,
+        "hp": 550,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "13104",
+    "name": "Discovery Sport (L550)",
+    "years": "2014-present",
+    "engines": [
+      {
+        "id": "800227",
+        "name": "1.5 P 270e PHEV 4x4",
+        "cc": 1498,
+        "hp": 269,
+        "fuel": null
+      },
+      {
+        "id": "139678",
+        "name": "1.5 P300e Hybrid 4x4",
+        "cc": 1498,
+        "hp": 309,
+        "fuel": null
+      },
+      {
+        "id": "141907",
+        "name": "2.0 D165 MHEV 4x4",
+        "cc": 1997,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "150609",
+        "name": "2.0 Si4 4x4",
+        "cc": 1997,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "137113",
+        "name": "2.0 P200 MHEV 4x4",
+        "cc": 1997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "137114",
+        "name": "2.0 P250 MHEV 4x4",
+        "cc": 1997,
+        "hp": 250,
+        "fuel": null
+      },
+      {
+        "id": "141909",
+        "name": "2.0 P290 MHEV 4x4",
+        "cc": 1997,
+        "hp": 290,
+        "fuel": null
+      },
+      {
+        "id": "148138",
+        "name": "2.0 D165 MHEV",
+        "cc": 1997,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "141908",
+        "name": "2.0 D200 MHEV 4x4",
+        "cc": 1997,
+        "hp": 204,
+        "fuel": null
+      },
+      {
+        "id": "137994",
+        "name": "2.0 P250 4x4",
+        "cc": 1997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "145314",
+        "name": "2.0 Si4 FLEX 4x4",
+        "cc": 1997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "135637",
+        "name": "2.0 Si4 FLEX 4x4",
+        "cc": 1997,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "152766",
+        "name": "2.0 P200 FLEX 4x4",
+        "cc": 1997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "127384",
+        "name": "2.0 4x4",
+        "cc": 1997,
+        "hp": 290,
+        "fuel": null
+      },
+      {
+        "id": "141994",
+        "name": "2.0 P200 4x4",
+        "cc": 1997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "141940",
+        "name": "2.0 D165",
+        "cc": 1999,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "137111",
+        "name": "2.0 D180 MHEV 4x4",
+        "cc": 1999,
+        "hp": 179,
+        "fuel": null
+      },
+      {
+        "id": "137112",
+        "name": "2.0 D240 MHEV 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "137110",
+        "name": "2.0 D150 MHEV 4x4",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "126334",
+        "name": "2.0 4x4",
+        "cc": 1999,
+        "hp": 240,
+        "fuel": null
+      },
+      {
+        "id": "107643",
+        "name": "2.0 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "127390",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": "diesel"
+      },
+      {
+        "id": "115141",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": "diesel"
+      },
+      {
+        "id": "107640",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": "diesel"
+      },
+      {
+        "id": "117411",
+        "name": "2.0 D",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": "diesel"
+      },
+      {
+        "id": "107641",
+        "name": "2.2 D 4x4",
+        "cc": 2179,
+        "hp": 150,
+        "fuel": "diesel"
+      },
+      {
+        "id": "107642",
+        "name": "2.2 D 4x4",
+        "cc": 2179,
+        "hp": 190,
+        "fuel": "diesel"
+      }
+    ]
+  },
+  {
+    "id": "14820",
+    "name": "Range Rover Evoque Convertible (L538)",
+    "years": "2016-2019",
+    "engines": [
+      {
+        "id": "128231",
+        "name": "2.0 4x4",
+        "cc": 1997,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "117555",
+        "name": "2.0 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "128145",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": "diesel"
+      },
+      {
+        "id": "117554",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": "diesel"
+      },
+      {
+        "id": "117553",
+        "name": "2.0 D 4x4",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": "diesel"
+      }
+    ]
+  },
+  {
+    "id": "37152",
+    "name": "Discovery V (L462)",
+    "years": "2016-present",
+    "engines": [
+      {
+        "id": "129632",
+        "name": "2.0 Si4 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "124200",
+        "name": "2.0 Td4 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": null
+      },
+      {
+        "id": "124201",
+        "name": "2.0 Sd4 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "133716",
+        "name": "3.0 SDV6 4x4",
+        "cc": 2993,
+        "hp": 306,
+        "fuel": null
+      },
+      {
+        "id": "123313",
+        "name": "3.0 Td6 4x4",
+        "cc": 2993,
+        "hp": 258,
+        "fuel": null
+      },
+      {
+        "id": "123314",
+        "name": "3.0 D 4x4",
+        "cc": 2993,
+        "hp": 249,
+        "fuel": "diesel"
+      },
+      {
+        "id": "123321",
+        "name": "3.0 D 4x4",
+        "cc": 2993,
+        "hp": 211,
+        "fuel": "diesel"
+      },
+      {
+        "id": "123323",
+        "name": "3.0 SCV6 4x4",
+        "cc": 2995,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "142743",
+        "name": "3.0 P360 MHEV 4x4",
+        "cc": 2996,
+        "hp": 360,
+        "fuel": null
+      },
+      {
+        "id": "142741",
+        "name": "3.0 D250 MHEV 4x4",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "142742",
+        "name": "3.0 D300 MHEV 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "158738",
+        "name": "D350 MHEV 4x4",
+        "cc": 2997,
+        "hp": 349,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "37713",
+    "name": "Range Rover Velar (L560)",
+    "years": "2017-present",
+    "engines": [
+      {
+        "id": "141972",
+        "name": "2.0 D200 MHEV 4x4",
+        "cc": 1997,
+        "hp": 204,
+        "fuel": null
+      },
+      {
+        "id": "127995",
+        "name": "2.0 P300 Si4 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "126262",
+        "name": "2.0 P250 Si4 4x4",
+        "cc": 1997,
+        "hp": 250,
+        "fuel": null
+      },
+      {
+        "id": "144365",
+        "name": "2.0 D200 4x4",
+        "cc": 1997,
+        "hp": 204,
+        "fuel": null
+      },
+      {
+        "id": "141978",
+        "name": "2.0 P400 Hybrid 4x4",
+        "cc": 1997,
+        "hp": 404,
+        "fuel": null
+      },
+      {
+        "id": "126259",
+        "name": "2.0 D180 TD4 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": null
+      },
+      {
+        "id": "126260",
+        "name": "2.0 D240 SD4 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "126526",
+        "name": "3.0 D300 SDV6 4x4",
+        "cc": 2993,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "132852",
+        "name": "3.0 D275 SDV6 4x4",
+        "cc": 2993,
+        "hp": 275,
+        "fuel": null
+      },
+      {
+        "id": "126261",
+        "name": "3.0 P380 SCV6 4x4",
+        "cc": 2995,
+        "hp": 380,
+        "fuel": null
+      },
+      {
+        "id": "134441",
+        "name": "3.0 P340 SCV6 4x4",
+        "cc": 2995,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "141974",
+        "name": "3.0 P400 MHEV 4x4",
+        "cc": 2995,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "144366",
+        "name": "3.0 P400 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "144110",
+        "name": "3.0 P340 MHEV",
+        "cc": 2996,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "144109",
+        "name": "3.0 P340 MHEV",
+        "cc": 2996,
+        "hp": 401,
+        "fuel": null
+      },
+      {
+        "id": "141973",
+        "name": "3.0 D300 MHEV 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "135328",
+        "name": "5.0 SCV8 4x4",
+        "cc": 4999,
+        "hp": 551,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "38785",
+    "name": "Discovery IV VAN (L319)",
+    "years": "2009-present",
+    "engines": [
+      {
+        "id": "131687",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 256,
+        "fuel": "diesel"
+      },
+      {
+        "id": "131685",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 211,
+        "fuel": "diesel"
+      },
+      {
+        "id": "131686",
+        "name": "3.0 TD 4x4",
+        "cc": 2993,
+        "hp": 245,
+        "fuel": "diesel"
+      }
+    ]
+  },
+  {
+    "id": "38786",
+    "name": "Freelander 2 Van (L359) (... - ...)",
+    "years": "null-present",
+    "engines": [
+      {
+        "id": "131688",
+        "name": "2.2 TD4 4x4",
+        "cc": 2179,
+        "hp": 160,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "38852",
+    "name": "90 (LDV)",
+    "years": "1984-1990",
+    "engines": [
+      {
+        "id": "132340",
+        "name": "2.5 TD 4x4",
+        "cc": 2495,
+        "hp": 86,
+        "fuel": "diesel"
+      },
+      {
+        "id": "132291",
+        "name": "2.5 D 4x4",
+        "cc": 2495,
+        "hp": 69,
+        "fuel": "diesel"
+      }
+    ]
+  },
+  {
+    "id": "39216",
+    "name": "Range Rover Evoque (L551)",
+    "years": "2018-present",
+    "engines": [
+      {
+        "id": "139607",
+        "name": "1.5 P300e Hybrid 4x4",
+        "cc": 1498,
+        "hp": 309,
+        "fuel": null
+      },
+      {
+        "id": "141939",
+        "name": "1.5 P160 MHEV",
+        "cc": 1498,
+        "hp": 160,
+        "fuel": null
+      },
+      {
+        "id": "153401",
+        "name": "2.0 P200 FLEX 4x4",
+        "cc": 1997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "142097",
+        "name": "2.0 D200 4x4",
+        "cc": 1997,
+        "hp": 204,
+        "fuel": null
+      },
+      {
+        "id": "142096",
+        "name": "2.0 D165 4x4",
+        "cc": 1997,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "141938",
+        "name": "2.0 D165",
+        "cc": 1997,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "134358",
+        "name": "2.0 P250 4x4",
+        "cc": 1997,
+        "hp": 250,
+        "fuel": null
+      },
+      {
+        "id": "142101",
+        "name": "2.0 P300 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "134345",
+        "name": "2.0 P200 MHEV 4x4",
+        "cc": 1997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "134346",
+        "name": "2.0 P250 MHEV 4x4",
+        "cc": 1997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "134347",
+        "name": "2.0 P300 MHEV 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "141905",
+        "name": "2.0 D165 MHEV 4x4",
+        "cc": 1997,
+        "hp": 163,
+        "fuel": null
+      },
+      {
+        "id": "141906",
+        "name": "2.0 D200 MHEV 4x4",
+        "cc": 1997,
+        "hp": 204,
+        "fuel": null
+      },
+      {
+        "id": "134357",
+        "name": "2.0 P200 4x4",
+        "cc": 1997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "145324",
+        "name": "2.0 P250 Flex 4WD",
+        "cc": 1997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "134353",
+        "name": "2.0 D150 4x4",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "135975",
+        "name": "2.0 D150",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "134344",
+        "name": "2.0 D240 MHEV 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "134343",
+        "name": "2.0 D180 MHEV 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": null
+      },
+      {
+        "id": "134341",
+        "name": "2.0 D150 MHEV 4x4",
+        "cc": 1999,
+        "hp": 150,
+        "fuel": null
+      },
+      {
+        "id": "134355",
+        "name": "2.0 D180 4x4",
+        "cc": 1999,
+        "hp": 180,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "40000",
+    "name": "Defender Off-Road (L663)",
+    "years": "2019-present",
+    "engines": [
+      {
+        "id": "155250",
+        "name": "P300 MHEV 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "141917",
+        "name": "P400e Hybrid 4x4",
+        "cc": 1997,
+        "hp": 404,
+        "fuel": null
+      },
+      {
+        "id": "800481",
+        "name": "P300e Hybrid 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "137996",
+        "name": "P300 Si4 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "137998",
+        "name": "D200 SD4 4x4",
+        "cc": 1999,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "137999",
+        "name": "D240 SD4 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "148046",
+        "name": "P300 MHEV 4x4",
+        "cc": 2996,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "137997",
+        "name": "P400 I6 MHEV 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "141912",
+        "name": "D300 MHEV 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "141911",
+        "name": "D250 MHEV 4x4",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "158737",
+        "name": "D350 MHEV 4x4",
+        "cc": 2997,
+        "hp": 350,
+        "fuel": null
+      },
+      {
+        "id": "141953",
+        "name": "D200 MHEV 4x4",
+        "cc": 2997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "800296",
+        "name": "P635 OCTA MHEV 4x4",
+        "cc": 4395,
+        "hp": 635,
+        "fuel": null
+      },
+      {
+        "id": "154512",
+        "name": "P500 4x4",
+        "cc": 5000,
+        "hp": 500,
+        "fuel": null
+      },
+      {
+        "id": "158736",
+        "name": "P425 4x4",
+        "cc": 5000,
+        "hp": 426,
+        "fuel": null
+      },
+      {
+        "id": "144996",
+        "name": "P525 4x4",
+        "cc": 5000,
+        "hp": 525,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "40590",
+    "name": "Defender Van (L663)",
+    "years": "2020-present",
+    "engines": [
+      {
+        "id": "139927",
+        "name": "2.0 P300 Si4 4x4",
+        "cc": 1997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "142092",
+        "name": "2.0 P400e Hybrid 4x4",
+        "cc": 1997,
+        "hp": 404,
+        "fuel": null
+      },
+      {
+        "id": "139930",
+        "name": "2.0 D240 SD4 4x4",
+        "cc": 1999,
+        "hp": 241,
+        "fuel": null
+      },
+      {
+        "id": "139929",
+        "name": "2.0 D200 SD4 4x4",
+        "cc": 1999,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "139928",
+        "name": "3.0 P400 I6 MHEV 4x4",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "141954",
+        "name": "3.0 D200 MHEV 4x4",
+        "cc": 2997,
+        "hp": 200,
+        "fuel": null
+      },
+      {
+        "id": "141914",
+        "name": "3.0 D250 MHEV 4x4",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "141915",
+        "name": "3.0 D300 MHEV 4x4",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41002",
+    "name": "88/109 Mk2 Closed Off-Road Vehicle",
+    "years": "1958-1961",
+    "engines": [
+      {
+        "id": "141432",
+        "name": "2.0 D 4x4",
+        "cc": 2052,
+        "hp": 53,
+        "fuel": "diesel"
+      },
+      {
+        "id": "141433",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 77,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41003",
+    "name": "88/109 Mk2A Closed Off-Road Vehicle",
+    "years": "1961-1971",
+    "engines": [
+      {
+        "id": "141441",
+        "name": "2.3 D 4x4",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "141438",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 78,
+        "fuel": null
+      },
+      {
+        "id": "141437",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 69,
+        "fuel": null
+      },
+      {
+        "id": "141440",
+        "name": "2.6 4x4",
+        "cc": 2625,
+        "hp": 87,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41004",
+    "name": "88/109 Mk3 Off-road",
+    "years": "1971-1986",
+    "engines": [
+      {
+        "id": "141445",
+        "name": "2.3 D 4x4",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "141442",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 69,
+        "fuel": null
+      },
+      {
+        "id": "141443",
+        "name": "2.6 4x4",
+        "cc": 2625,
+        "hp": 83,
+        "fuel": null
+      },
+      {
+        "id": "141446",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 128,
+        "fuel": null
+      },
+      {
+        "id": "141444",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 92,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41010",
+    "name": "88/109 Mk2 Open Off-Road Vehicle",
+    "years": "1958-1961",
+    "engines": [
+      {
+        "id": "141454",
+        "name": "2.0 D 4x4",
+        "cc": 2052,
+        "hp": 53,
+        "fuel": "diesel"
+      },
+      {
+        "id": "141455",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 77,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41011",
+    "name": "88/109 Mk2A Off-Road Convertible",
+    "years": "1961-1971",
+    "engines": [
+      {
+        "id": "141456",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 69,
+        "fuel": null
+      },
+      {
+        "id": "141457",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 78,
+        "fuel": null
+      },
+      {
+        "id": "141461",
+        "name": "2.3 D 4x4",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "141458",
+        "name": "2.6 4x4",
+        "cc": 2625,
+        "hp": 83,
+        "fuel": null
+      },
+      {
+        "id": "141460",
+        "name": "2.6 4x4",
+        "cc": 2625,
+        "hp": 87,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41012",
+    "name": "88/109 Mk3 Off-road Convertible",
+    "years": "1971-1986",
+    "engines": [
+      {
+        "id": "141465",
+        "name": "2.3 D 4x4",
+        "cc": 2286,
+        "hp": 63,
+        "fuel": "diesel"
+      },
+      {
+        "id": "141462",
+        "name": "2.3 4x4",
+        "cc": 2286,
+        "hp": 69,
+        "fuel": null
+      },
+      {
+        "id": "141488",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 92,
+        "fuel": null
+      },
+      {
+        "id": "141489",
+        "name": "3.5 4x4",
+        "cc": 3528,
+        "hp": 128,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "41014",
+    "name": "86/107 Mk1 Off-road Convertible",
+    "years": "1954-1958",
+    "engines": [
+      {
+        "id": "141469",
+        "name": "2.0 4x4",
+        "cc": 1997,
+        "hp": 53,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "42537",
+    "name": "Range Rover V (L460)",
+    "years": "2021-present",
+    "engines": [
+      {
+        "id": "154564",
+        "name": "P460e PHEV AWD",
+        "cc": 2996,
+        "hp": 460,
+        "fuel": null
+      },
+      {
+        "id": "154565",
+        "name": "P550e PHEV AWD",
+        "cc": 2996,
+        "hp": 551,
+        "fuel": null
+      },
+      {
+        "id": "147221",
+        "name": "P440e PHEV AWD",
+        "cc": 2996,
+        "hp": 441,
+        "fuel": null
+      },
+      {
+        "id": "145837",
+        "name": "P400 MHEV AWD",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "147223",
+        "name": "P510e PHEV AWD",
+        "cc": 2996,
+        "hp": 510,
+        "fuel": null
+      },
+      {
+        "id": "145840",
+        "name": "D350 MHEV AWD",
+        "cc": 2997,
+        "hp": 351,
+        "fuel": null
+      },
+      {
+        "id": "145839",
+        "name": "D300 MHEV AWD",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "145841",
+        "name": "D250 MHEV AWD",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "154755",
+        "name": "P615 MHEV AWD",
+        "cc": 4395,
+        "hp": 615,
+        "fuel": null
+      },
+      {
+        "id": "155606",
+        "name": "P530 MHEV AWD",
+        "cc": 4395,
+        "hp": 530,
+        "fuel": null
+      },
+      {
+        "id": "145838",
+        "name": "P530 AWD",
+        "cc": 4395,
+        "hp": 530,
+        "fuel": null
+      }
+    ]
+  },
+  {
+    "id": "42925",
+    "name": "Range Rover Sport (L461)",
+    "years": "2022-present",
+    "engines": [
+      {
+        "id": "147576",
+        "name": "P440e PHEV AWD",
+        "cc": 2996,
+        "hp": 441,
+        "fuel": null
+      },
+      {
+        "id": "154566",
+        "name": "P460e PHEV AWD",
+        "cc": 2996,
+        "hp": 460,
+        "fuel": null
+      },
+      {
+        "id": "147578",
+        "name": "P510e PHEV AWD",
+        "cc": 2996,
+        "hp": 510,
+        "fuel": null
+      },
+      {
+        "id": "147574",
+        "name": "P400 MHEV AWD",
+        "cc": 2996,
+        "hp": 400,
+        "fuel": null
+      },
+      {
+        "id": "154567",
+        "name": "P550e PHEV AWD",
+        "cc": 2996,
+        "hp": 551,
+        "fuel": null
+      },
+      {
+        "id": "148074",
+        "name": "3.0 D350 MHEV AWD",
+        "cc": 2997,
+        "hp": 351,
+        "fuel": null
+      },
+      {
+        "id": "147571",
+        "name": "3.0 D250 MHEV AWD",
+        "cc": 2997,
+        "hp": 249,
+        "fuel": null
+      },
+      {
+        "id": "147572",
+        "name": "3.0 D300 MHEV AWD",
+        "cc": 2997,
+        "hp": 300,
+        "fuel": null
+      },
+      {
+        "id": "147573",
+        "name": "3.0 D350 MHEV AWD",
+        "cc": 2997,
+        "hp": 340,
+        "fuel": null
+      },
+      {
+        "id": "157552",
+        "name": "P530 MHEV AWD",
+        "cc": 4395,
+        "hp": 530,
+        "fuel": null
+      },
+      {
+        "id": "147579",
+        "name": "P530 AWD",
+        "cc": 4395,
+        "hp": 530,
+        "fuel": null
+      },
+      {
+        "id": "154838",
+        "name": "P635 MHEV AWD",
+        "cc": 4395,
+        "hp": 635,
+        "fuel": null
+      }
+    ]
+  }
+]

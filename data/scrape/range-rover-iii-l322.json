@@ -1,0 +1,5716 @@
+{
+  "model": {
+    "name": "Range Rover III (L322)",
+    "slug": "range-rover-iii-l322",
+    "ridexId": "4869",
+    "yearFrom": 2002,
+    "yearTo": 2012
+  },
+  "engines": [
+    {
+      "name": "3.6 D 4x4",
+      "ridexId": "23050",
+      "displacement": 3628,
+      "power": 272,
+      "fuelType": "diesel",
+      "productsFound": 82
+    },
+    {
+      "name": "3.0 D 4x4",
+      "ridexId": "16520",
+      "displacement": 2926,
+      "power": 177,
+      "fuelType": "diesel",
+      "productsFound": 56
+    },
+    {
+      "name": "4.4 D 4x4",
+      "ridexId": "2483",
+      "displacement": 4367,
+      "power": 313,
+      "fuelType": "diesel",
+      "productsFound": 13
+    },
+    {
+      "name": "4.2 4x4",
+      "ridexId": "18572",
+      "displacement": 4197,
+      "power": 396,
+      "fuelType": null,
+      "productsFound": 16
+    },
+    {
+      "name": "4.2 Supercharged 4x4",
+      "ridexId": "45182",
+      "displacement": 4196,
+      "power": 405,
+      "fuelType": null,
+      "productsFound": 2
+    },
+    {
+      "name": "4.4 4x4",
+      "ridexId": "16519",
+      "displacement": 4398,
+      "power": 286,
+      "fuelType": null,
+      "productsFound": 27
+    },
+    {
+      "name": "4.4 4x4",
+      "ridexId": "18573",
+      "displacement": 4394,
+      "power": 306,
+      "fuelType": null,
+      "productsFound": 8
+    },
+    {
+      "name": "4.4 4x4",
+      "ridexId": "106053",
+      "displacement": 4394,
+      "power": 305,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "4.4 4x4",
+      "ridexId": "14235",
+      "displacement": 4394,
+      "power": 299,
+      "fuelType": null,
+      "productsFound": 2
+    },
+    {
+      "name": "4.4 4x4",
+      "ridexId": "59498",
+      "displacement": 4398,
+      "power": 288,
+      "fuelType": null,
+      "productsFound": 0
+    },
+    {
+      "name": "5.0 4x4",
+      "ridexId": "32051",
+      "displacement": 4999,
+      "power": 510,
+      "fuelType": null,
+      "productsFound": 7
+    },
+    {
+      "name": "5.0 4x4",
+      "ridexId": "2534",
+      "displacement": 4999,
+      "power": 375,
+      "fuelType": null,
+      "productsFound": 2
+    },
+    {
+      "name": "5.0 4x4",
+      "ridexId": "51197",
+      "displacement": 5000,
+      "power": 296,
+      "fuelType": null,
+      "productsFound": 0
+    }
+  ],
+  "products": [
+    {
+      "articleNo": "424I0070",
+      "articleId": "8001167",
+      "name": "Pollen filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8001167&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Activated Carbon Filter, Particulate Filter",
+        "Length [mm]": "252",
+        "Width [mm]": "282",
+        "Height": "72",
+        "Quantity": "1",
+        "Recommended change interval [km]": "20000",
+        "Manufacturer part number": "424I0070",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191333974"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "424I0193",
+      "articleId": "8056260",
+      "name": "Pollen filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8056260&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Activated Carbon Filter, Particulate Filter",
+        "Length [mm]": "540",
+        "Width [mm]": "260",
+        "Height": "31",
+        "Quantity": "1",
+        "Recommended change interval [km]": "20000",
+        "Manufacturer part number": "424I0193",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191177097"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "424I0322",
+      "articleId": "8059139",
+      "name": "Pollen filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8059139&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Particulate Filter",
+        "Length [mm]": "540",
+        "Width [mm]": "260",
+        "Height": "32",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0322",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191197958"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "424I0364",
+      "articleId": "13631847",
+      "name": "Pollen filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631847&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Particulate Filter",
+        "Length [mm]": "270",
+        "Width [mm]": "157",
+        "Height": "30",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0364",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191686858"
+      },
+      "engines": [
+        "23050",
+        "18572"
+      ]
+    },
+    {
+      "articleNo": "424I0070P",
+      "articleId": "23134533",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23134533&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Activated Carbon Filter, Particulate Filter",
+        "Length [mm]": "252",
+        "Width [mm]": "282",
+        "Height": "72",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0070P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197059419"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "424I0193P",
+      "articleId": "24441876",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=24441876&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Activated Carbon Filter, Particulate Filter",
+        "Length [mm]": "540",
+        "Width [mm]": "260",
+        "Height": "31",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0193P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197536903"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "7O0074",
+      "articleId": "8149613",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8149613&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Outer Diameter [mm]": "72",
+        "Height": "200",
+        "Inner Diameter [mm]": "29",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Packing Type": "Box",
+        "Manufacturer part number": "7O0074",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191355075"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "7O0074P",
+      "articleId": "18743934",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18743934&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Outer Diameter [mm]": "72",
+        "Height": "200",
+        "Inner Diameter [mm]": "29",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Packing Type": "Box",
+        "Manufacturer part number": "7O0074P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423595130"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "8A0072",
+      "articleId": "8000665",
+      "name": "Air filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8000665&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Air Recirculation Filter, Filter Insert",
+        "Shape": "rectangular",
+        "Height": "58",
+        "Diameter 1 [mm]": "389",
+        "Diameter 2 [mm]": "187",
+        "Manufacturer part number": "8A0072",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191329236"
+      },
+      "engines": [
+        "23050",
+        "18572",
+        "45182",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "8A1613",
+      "articleId": "15780451",
+      "name": "Air filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15780451&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Length [mm]": "388",
+        "Width [mm]": "186",
+        "Height": "62",
+        "Supplementary Article / Supplementary Info Info 2": "with pre-filter",
+        "Quantity": "1",
+        "Manufacturer part number": "8A1613",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138237581"
+      },
+      "engines": [
+        "23050",
+        "18572"
+      ]
+    },
+    {
+      "articleNo": "8A1613P",
+      "articleId": "18744401",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18744401&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Length [mm]": "388",
+        "Width [mm]": "186",
+        "Height": "62",
+        "Quantity": "1",
+        "Manufacturer part number": "8A1613P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423599367"
+      },
+      "engines": [
+        "23050",
+        "18572"
+      ]
+    },
+    {
+      "articleNo": "8A0072P",
+      "articleId": "24441746",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=24441746&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "58",
+        "Diameter 1 [mm]": "389",
+        "Diameter 2 [mm]": "187",
+        "Manufacturer part number": "8A0072P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197535609"
+      },
+      "engines": [
+        "23050",
+        "18572",
+        "45182",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "9F0228",
+      "articleId": "13467009",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13467009&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Height": "94,4",
+        "Housing Diameter [mm]": "107,8",
+        "Manufacturer part number": "9F0228",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191590926"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "9F0433",
+      "articleId": "15189326",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15189326&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "with water drain screw",
+        "Height": "154",
+        "Outer Diameter [mm]": "88",
+        "Outer Diameter 1 [mm]": "69",
+        "Manufacturer part number": "9F0433",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191935475"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "402B0070",
+      "articleId": "7999200",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=7999200&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Material": "Low-Metallic",
+        "Thickness": "17,2",
+        "Quantity Unit": "Axle Set",
+        "Height": "59,2",
+        "Width [mm]": "123,2",
+        "WVA Number": "21487",
+        "Supplementary Article / Supplementary Info Info 2": "with anti-squeak plate, with piston clip",
+        "Manufacturer part number": "402B0070",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191315505"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "59498"
+      ]
+    },
+    {
+      "articleNo": "402B0100",
+      "articleId": "7999545",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=7999545&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact",
+        "Supplementary Article / Supplementary Info": "without accessories",
+        "Thickness": "19,3",
+        "Quantity Unit": "Axle Set",
+        "Height": "73,2",
+        "Width [mm]": "156,5",
+        "Number of pads": "4",
+        "WVA Number": "21642",
+        "Supplementary Article / Supplementary Info Info 2": "with piston clip",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0100",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191318834"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "402B0438",
+      "articleId": "7999941",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=7999941&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Quantity Unit": "Axle Set",
+        "Height 1 [mm]": "46,5",
+        "Width 1 [mm]": "116,5",
+        "Thickness 1 [mm]": "17,4",
+        "Manufacturer part number": "402B0438",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191322510"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "402B0418",
+      "articleId": "8040456",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8040456&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Thickness": "18,2",
+        "Quantity Unit": "Axle Set",
+        "Height": "58,7",
+        "Width [mm]": "162,7",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0418",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191143238"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "402B0640",
+      "articleId": "8043017",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8043017&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact, prepared for wear warning indicator",
+        "Thickness": "18,6",
+        "Quantity Unit": "Axle Set",
+        "Height": "72,1",
+        "Width [mm]": "192,8",
+        "WVA Number": "25022",
+        "Supplementary Article / Supplementary Info Info 2": "with anti-squeak plate",
+        "Manufacturer part number": "402B0640",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191146017"
+      },
+      "engines": [
+        "23050",
+        "18572",
+        "45182",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "402B0800",
+      "articleId": "8043266",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8043266&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact, prepared for wear warning indicator",
+        "Thickness": "17,1",
+        "Height": "77,3",
+        "Width [mm]": "131,6",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0800",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191146871"
+      },
+      "engines": [
+        "23050",
+        "18572",
+        "45182"
+      ]
+    },
+    {
+      "articleNo": "402B1220",
+      "articleId": "13550749",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13550749&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Supplementary Article / Supplementary Info": "Photo corresponds to scope of supply, with accessories, without accessories",
+        "Thickness": "19",
+        "Quantity Unit": "Axle Set",
+        "Height": "73",
+        "Width 2 [mm]": "156",
+        "Width 1 [mm]": "155",
+        "WVA Number": "23397, 23399",
+        "Supplementary Article / Supplementary Info Info 2": "with anti-squeak plate, with piston clip",
+        "Manufacturer part number": "402B1220",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191608539"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "402B1011",
+      "articleId": "13631187",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631187&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Quantity Unit": "Axle Set",
+        "Length [mm]": "116,8",
+        "Width [mm]": "63,1",
+        "Thickness 1 [mm]": "17,1",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B1011",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191680252"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "45182",
+        "16519",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "402B0640P",
+      "articleId": "22255921",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22255921&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact, prepared for wear warning indicator",
+        "Thickness": "18,6",
+        "Quantity Unit": "Axle Set",
+        "Height": "72,1",
+        "Width [mm]": "192,8",
+        "WVA Number": "25022",
+        "Supplementary Article / Supplementary Info Info 2": "with anti-squeak plate",
+        "Manufacturer part number": "402B0640P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448708277"
+      },
+      "engines": [
+        "23050",
+        "18572",
+        "45182",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "402B0418P",
+      "articleId": "22255955",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22255955&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Thickness": "18,2",
+        "Quantity Unit": "Axle Set",
+        "Height": "58,7",
+        "Width [mm]": "162,7",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0418P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448708611"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "402B0070P",
+      "articleId": "22256440",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22256440&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Thickness": "17,2",
+        "Quantity Unit": "Axle Set",
+        "Height": "59,2",
+        "Width [mm]": "123,2",
+        "WVA Number": "21282, 21487",
+        "Manufacturer part number": "402B0070P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448713462"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "59498"
+      ]
+    },
+    {
+      "articleNo": "82B0519",
+      "articleId": "8039382",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8039382&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "solid",
+        "Brake Disc Thickness": "12,7",
+        "Height": "64,8",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "304",
+        "Centering Diameter [mm]": "70,1",
+        "Number of Holes": "5/6",
+        "Wheel Bolt Bore Diameter [mm]": "14,2",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B0519",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191133130"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "82B0928",
+      "articleId": "8040102",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8040102&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Brake Disc Type": "Vented",
+        "Brake Disc Thickness": "30",
+        "Height": "81",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "360",
+        "Centering Diameter [mm]": "79,1",
+        "Number of Holes": "5/6",
+        "Wheel Bolt Bore Diameter [mm]": "16,6",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B0928",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191140039"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "82B1210",
+      "articleId": "8157760",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8157760&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "Vented",
+        "Brake Disc Thickness": "20",
+        "Height": "74,9",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "354",
+        "Centering Diameter [mm]": "79",
+        "Number of Holes": "5/7",
+        "Wheel Bolt Bore Diameter [mm]": "16,6",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B1210",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191383955"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "59498"
+      ]
+    },
+    {
+      "articleNo": "82B1114",
+      "articleId": "8157773",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8157773&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Brake Disc Type": "Vented",
+        "Brake Disc Thickness": "30",
+        "Height": "75,9",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "344",
+        "Centering Diameter [mm]": "79",
+        "Number of Holes": "5/6",
+        "Wheel Bolt Bore Diameter [mm]": "16,6",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B1114",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191384082"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "82B1325",
+      "articleId": "8340541",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8340541&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "solid",
+        "Brake Disc Thickness": "11,9",
+        "Height": "75",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "353,7",
+        "Centering Diameter [mm]": "79",
+        "Number of Holes": "5/7",
+        "Wheel Bolt Bore Diameter [mm]": "16,6",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B1325",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191456475"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "82B1470",
+      "articleId": "13635824",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13635824&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Brake Disc Type": "Vented",
+        "Brake Disc Thickness": "30",
+        "Height": "76",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "344",
+        "Centering Diameter [mm]": "79",
+        "Number of Holes": "5/6",
+        "Wheel Bolt Bore Diameter [mm]": "16,6",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B1470",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191726622"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "106053",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0181",
+      "articleId": "8099782",
+      "name": "Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8099782&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Left",
+        "Brake Caliper Type": "Brake Caliper (1 piston)",
+        "Material": "Cast Iron, Grey Cast Iron",
+        "Brake Disc Thickness": "30",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "for brake disc diameter [mm]": "324, 332",
+        "Distance of mounting bores [mm]": "94, 112",
+        "Piston Diameter [mm]": "60",
+        "Manufacturer part number": "78B0181",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191259052"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0180",
+      "articleId": "8099788",
+      "name": "Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8099788&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Right",
+        "Brake Caliper Type": "Fist-type Caliper",
+        "Material": "Cast Iron",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "for brake disc diameter [mm]": "324, 332",
+        "Distance of mounting bores [mm]": "94, 112",
+        "Piston Diameter [mm]": "60",
+        "Manufacturer part number": "78B0180",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191259113"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0482",
+      "articleId": "13631105",
+      "name": "Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631105&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Rear Axle, Rear Axle Left",
+        "Brake Caliper Type": "Fist-type Caliper, Floating Caliper",
+        "Material": "Cast Iron",
+        "Brake Disc Thickness": "20",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Bore Diameter [mm]": "45",
+        "Thread Size 1": "M10X1",
+        "Distance of mounting bores [mm]": "144",
+        "Manufacturer part number": "78B0482",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191679430"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0483",
+      "articleId": "13631106",
+      "name": "Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631106&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Rear Axle, Rear Axle Right",
+        "Brake Caliper Type": "Brake Caliper (1 piston), Fist-type Caliper, Floating Caliper",
+        "Material": "Cast Iron",
+        "Brake Disc Thickness": "20",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Bore Diameter [mm]": "45",
+        "Distance of mounting bores [mm]": "144",
+        "Manufacturer part number": "78B0483",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191679447"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0483R",
+      "articleId": "20448376",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20448376&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Rear Axle, Rear Axle Right",
+        "Brake Caliper Type": "Brake Caliper (1 piston), Fist-type Caliper, Floating Caliper",
+        "Material": "Cast Iron",
+        "Brake Disc Thickness": "20",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Bore Diameter [mm]": "45",
+        "Distance of mounting bores [mm]": "144",
+        "Manufacturer part number": "78B0483R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448117000"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B2660R",
+      "articleId": "22381891",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22381891&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Rear Axle Left",
+        "Brake Caliper Type": "Brake Caliper (1 piston)",
+        "Material": "Grey Cast Iron",
+        "for brake disc thickness [mm]": "12,6",
+        "Number of connectors": "1",
+        "Distance of mounting bores [mm]": "82",
+        "Manufacturer part number": "78B2660R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448849000"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B2739R",
+      "articleId": "22772878",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22772878&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle Left, behind the axle",
+        "Brake Caliper Type": "Brake Caliper (1 piston)",
+        "Material": "Grey Cast Iron",
+        "Brake Disc Thickness": "30",
+        "Piston Diameter [mm]": "60",
+        "Manufacturer part number": "78B2739R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448861088"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B2855R",
+      "articleId": "23453398",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23453398&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle Right",
+        "Brake Caliper Type": "Brake Caliper (2 pistons)",
+        "Material": "Grey Cast Iron",
+        "for brake disc thickness [mm]": "30",
+        "Number of connectors": "1",
+        "Distance of mounting bores [mm]": "220",
+        "Piston Diameter [mm]": "48",
+        "Manufacturer part number": "78B2855R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4069197206257"
+      },
+      "engines": [
+        "23050",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "78B0181R",
+      "articleId": "20448254",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20448254&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Left",
+        "Brake Caliper Type": "Brake Caliper (1 piston)",
+        "Material": "Cast Iron, Grey Cast Iron",
+        "Brake Disc Thickness": "30",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "for brake disc diameter [mm]": "324, 332",
+        "Distance of mounting bores [mm]": "94, 112",
+        "Piston Diameter [mm]": "60",
+        "Manufacturer part number": "78B0181R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448115785"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0482R",
+      "articleId": "20448325",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20448325&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Rear Axle, Rear Axle Left",
+        "Brake Caliper Type": "Fist-type Caliper, Floating Caliper",
+        "Material": "Cast Iron",
+        "Brake Disc Thickness": "20",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Bore Diameter [mm]": "45",
+        "Thread Size 1": "M10X1",
+        "Distance of mounting bores [mm]": "144",
+        "Manufacturer part number": "78B0482R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448116492"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B0180R",
+      "articleId": "20448329",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20448329&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Right",
+        "Brake Caliper Type": "Fist-type Caliper",
+        "Material": "Cast Iron",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "for brake disc diameter [mm]": "324, 332",
+        "Distance of mounting bores [mm]": "94, 112",
+        "Piston Diameter [mm]": "60",
+        "Manufacturer part number": "78B0180R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448116539"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B2360R",
+      "articleId": "20450861",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20450861&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Left",
+        "Brake Caliper Type": "Brake Caliper (2 pistons)",
+        "Material": "Grey Cast Iron",
+        "for brake disc thickness [mm]": "30",
+        "Number of connectors": "1",
+        "Distance of mounting bores [mm]": "220",
+        "Manufacturer part number": "78B2360R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448140329"
+      },
+      "engines": [
+        "23050",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "78B2888R",
+      "articleId": "23448047",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23448047&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Brake Caliper Type": "Fist-type Caliper",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Piston Diameter [mm]": "42",
+        "Manufacturer part number": "78B2888R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4069197178905"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "70B0132",
+      "articleId": "8098276",
+      "name": "Brake Shoe Set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098276&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-shoes",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Diameter": "208",
+        "Width [mm]": "30",
+        "Supplementary Article / Supplementary Info": "without lever",
+        "Manufacturer part number": "70B0132",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191244294"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "70B0412",
+      "articleId": "16414838",
+      "name": "Brake Shoe Set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16414838&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-shoes",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Width [mm]": "30,0",
+        "Supplementary Article / Supplementary Info": "with accessories, without wheel brake cylinder",
+        "Outer Diameter [mm]": "210,0",
+        "Manufacturer part number": "70B0412",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191997862"
+      },
+      "engines": [
+        "23050",
+        "2483"
+      ]
+    },
+    {
+      "articleNo": "407W0140",
+      "articleId": "13627324",
+      "name": "Brake pad wear sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13627324&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/wear-indicator-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Brake Type": "Disc Brake",
+        "Length [mm]": "780",
+        "Quantity": "1",
+        "Manufacturer part number": "407W0140",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191642106"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "1165G0023",
+      "articleId": "13634458",
+      "name": "Guide sleeve kit, brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13634458&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Quantity": "5",
+        "Diameter": "10",
+        "Manufacturer part number": "1165G0023",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191712960"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "1165G0100",
+      "articleId": "15753581",
+      "name": "Guide sleeve kit, brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15753581&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Manufacturer part number": "1165G0100",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138139939"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "1165G0196",
+      "articleId": "19129224",
+      "name": "Guide sleeve kit, brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19129224&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Quantity per axle": "2",
+        "Manufacturer part number": "1165G0196",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423741216"
+      },
+      "engines": [
+        "23050",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "412W0514",
+      "articleId": "13657507",
+      "name": "ABS sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13657507&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/sensor-wheel-speed",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Cable Length [mm]": "1190",
+        "Sensor Type": "Active sensor",
+        "Number of occupied pins": "2",
+        "Manufacturer part number": "412W0514",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191791453"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "412W1219",
+      "articleId": "16352698",
+      "name": "ABS sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16352698&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/sensor-wheel-speed",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Length [mm]": "990",
+        "Sensor Type": "Active sensor",
+        "Socket colour": "green",
+        "Manufacturer part number": "412W1219",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138550918"
+      },
+      "engines": [
+        "23050",
+        "2483",
+        "18572",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "914T0444",
+      "articleId": "12745589",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12745589&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front axle both sides",
+        "Length [mm]": "222",
+        "Cone Size [mm]": "15,4",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "External Thread Size": "M14 x 1,5",
+        "Internal Thread Size": "M16 x 1,5",
+        "Manufacturer part number": "914T0444",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191512713"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "914T1062",
+      "articleId": "20792156",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20792156&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front Axle Left",
+        "Length [mm]": "143",
+        "External Thread 1 [mm]": "M22x1,5",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "External Thread 2 [mm]": "M14x1,5",
+        "Manufacturer part number": "914T1062",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4067448240968"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "51T0285",
+      "articleId": "14538916",
+      "name": "Inner tie rod",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=14538916&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-axle-joint",
+      "specs": {
+        "Fitting Position": "Front axle both sides",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "Length [mm]": "251",
+        "Thread Size 1": "M18x1.5",
+        "Thread Size": "M16x1.5",
+        "Thread Type": "with external thread, with right-hand thread",
+        "Width [mm]": "37",
+        "Height": "37",
+        "Axle Joint Length [mm]": "230",
+        "Manufacturer part number": "51T0285",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191828128"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "286S0298R",
+      "articleId": "18082297",
+      "name": "REMAN Steering rack",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18082297&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/steering-gear",
+      "specs": {
+        "Supplementary Article / Supplementary Info Info 2": "with bore for sensor",
+        "Vehicle Equipment": "for vehicles with servotronic steering",
+        "Operating Mode": "Hydraulic",
+        "Manufacturer part number": "286S0298R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4066423161717"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "305P0135",
+      "articleId": "8098489",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098489&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1218",
+        "Number of ribs": "6",
+        "Material": "Rubber",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK1218",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0135",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191246359"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "305P0847",
+      "articleId": "23867276",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23867276&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1955",
+        "Number of ribs": "8",
+        "Manufacturer part number": "305P0847",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4067448461363"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "305P0135P",
+      "articleId": "18951497",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18951497&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1218",
+        "Number of ribs": "6",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK1218",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0135P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423603804"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "243G0035",
+      "articleId": "13632614",
+      "name": "Glow plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13632614&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/glow-plug",
+      "specs": {
+        "Overall Length [mm]": "126,5",
+        "Thread Size": "M8 x 1,0",
+        "Voltage [V]": "11",
+        "Glow Plug Design": "Pencil-type Glow Plug, after-glow capable",
+        "Fitting Depth [mm]": "24,5",
+        "Manufacturer part number": "243G0035",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191694525"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "243G0035P",
+      "articleId": "22368208",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22368208&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/glow-plug",
+      "specs": {
+        "Thread Size": "M8 x 1,0",
+        "Voltage [V]": "11",
+        "Glow Plug Design": "Pencil-type Glow Plug, after-glow capable",
+        "Packaging Depth [cm]": "2,1",
+        "Manufacturer part number": "243G0035P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448806867"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "3902I0320R",
+      "articleId": "15789788",
+      "name": "REMAN Injector Nozzle",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15789788&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/injector-nozzle",
+      "specs": {
+        "Fuel Type": "Diesel",
+        "Required quantity": "8",
+        "Manufacturer part number": "3902I0320R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4064138300452"
+      },
+      "engines": [
+        "23050"
+      ]
+    },
+    {
+      "articleNo": "298W16948",
+      "articleId": "15771466",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15771466&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Front",
+        "Wiper blade type": "Hybrid Wiper Blade",
+        "Fastening Type": "Hook fixing",
+        "Length 1 [mm]": "660",
+        "Styling": "with spoiler",
+        "Quantity": "1",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "Manufacturer part number": "298W16948",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138211871"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "45182",
+        "16519",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "298W17249",
+      "articleId": "20083036",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20083036&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Front",
+        "Wiper blade type": "Beam",
+        "Length 1 [mm]": "660",
+        "Styling": "with spoiler",
+        "Quantity": "1",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "Type": "multiconnection",
+        "Number of adapters": "11",
+        "Manufacturer part number": "298W17249",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423997491"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "13D1854R",
+      "articleId": "23463128",
+      "name": "REMAN Drive shaft",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23463128&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "wheel-drive/drive-shaft",
+      "specs": {
+        "Length [mm]": "620",
+        "External Toothing wheel side": "30",
+        "External Toothing differential side": "30",
+        "Number of Teeth, ABS ring": "48",
+        "Thread Size": "M27X1,5",
+        "Manufacturer part number": "13D1854R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4069197282671"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "13D2074R",
+      "articleId": "23898092",
+      "name": "REMAN Drive shaft",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23898092&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "wheel-drive/drive-shaft",
+      "specs": {
+        "Length [mm]": "968",
+        "External Toothing wheel side": "30",
+        "External Toothing differential side": "30",
+        "Number of Teeth, ABS ring": "48",
+        "Thread Size": "M27X1,5",
+        "Manufacturer part number": "13D2074R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4069197393049"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "5J0901",
+      "articleId": "18363002",
+      "name": "CV joint kit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18363002&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "wheel-drive/joint-kit-drive-shaft",
+      "specs": {
+        "Fitting Position": "Wheel Side",
+        "External Toothing wheel side": "30",
+        "Internal Toothing wheel side": "29",
+        "Number of Teeth, ABS ring": "48",
+        "Sealing Ring Diameter [mm]": "67,8",
+        "Outer Diameter [mm]": "106",
+        "Machined": "with groove in internal component",
+        "Thread Size": "M27 x 1,5, M27x1,5",
+        "Bellows Material": "Thermoplast",
+        "Manufacturer part number": "5J0901",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423535624"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "273C0659",
+      "articleId": "13632359",
+      "name": "Suspension arm",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13632359&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/track-control-arm",
+      "specs": {
+        "Control/Trailing Arm Type": "Control Arm",
+        "Material": "Cast Iron",
+        "Fitting Position": "Front Axle",
+        "Overall Length [mm]": "405",
+        "Height": "105",
+        "Cone Pitch": "1/6",
+        "Thread Size": "M14x1.5",
+        "Width [mm]": "68",
+        "Manufacturer part number": "273C0659",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191691975"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "273C0942",
+      "articleId": "13635755",
+      "name": "Suspension arm",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13635755&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/track-control-arm",
+      "specs": {
+        "Control/Trailing Arm Type": "Control Arm",
+        "Material": "Steel",
+        "Fitting Position": "Right Front",
+        "Left-/right-hand drive vehicles": "for left-hand/right-hand drive vehicles",
+        "Length [mm]": "432",
+        "Supplementary Article / Supplementary Info Info 2": "with rubber mount",
+        "Mounting points diameter [mm]": "14,2",
+        "Manufacturer part number": "273C0942",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191725939"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "273C0908",
+      "articleId": "13643866",
+      "name": "Suspension arm",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13643866&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/track-control-arm",
+      "specs": {
+        "Control/Trailing Arm Type": "Control Arm",
+        "Material": "Steel",
+        "Cone Size [mm]": "17,5",
+        "Fitting Position": "Front Axle Left",
+        "Length [mm]": "510",
+        "Height": "78",
+        "Supplementary Article / Supplementary Info Info 2": "with rubber mount",
+        "Width [mm]": "128",
+        "Manufacturer part number": "273C0908",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191770847"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "273C1396",
+      "articleId": "14758645",
+      "name": "Suspension arm",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=14758645&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/track-control-arm",
+      "specs": {
+        "Control/Trailing Arm Type": "Control Arm",
+        "Fitting Position": "Rear Axle, both sides",
+        "Rod/Strut": "Suspension Rod",
+        "Manufacturer part number": "273C1396",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191864089"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "59498",
+        "32051",
+        "2534",
+        "51197"
+      ]
+    },
+    {
+      "articleNo": "654W0875",
+      "articleId": "13559842",
+      "name": "Wheel bearing kit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13559842&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/wheel-bearing-kit",
+      "specs": {
+        "Fitting Position": "Front axle both sides",
+        "Outer Diameter 1 [mm]": "96,0",
+        "Inner Diameter 1 [mm]": "51,0",
+        "Height 1 [mm]": "50,0",
+        "Supplementary Article / Supplementary Info Info 2": "with integrated magnetic sensor ring",
+        "Manufacturer part number": "654W0875",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191619191"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "654W1249",
+      "articleId": "16358015",
+      "name": "Wheel bearing kit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16358015&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/wheel-bearing-kit",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Outer Diameter [mm]": "96",
+        "Inner Diameter [mm]": "51",
+        "Supplementary Article / Supplementary Info Info 2": "with integrated ABS sensor",
+        "Width [mm]": "50",
+        "Manufacturer part number": "654W1249",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138577397"
+      },
+      "engines": [
+        "23050",
+        "2483",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "4119A0024",
+      "articleId": "13636465",
+      "name": "Air Spring, suspension",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13636465&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/air-spring-suspension",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Spring Design": "Air Spring",
+        "Manufacturer part number": "4119A0024",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191731145"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "59498",
+        "32051",
+        "2534",
+        "51197"
+      ]
+    },
+    {
+      "articleNo": "4119A0037",
+      "articleId": "15234195",
+      "name": "Air Spring, suspension",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15234195&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/air-spring-suspension",
+      "specs": {
+        "Fitting Position": "Front Axle Left",
+        "Spring Type": "for vehicles with air suspension",
+        "Net weight [kg]": "4,4",
+        "Shock Absorber Mounting Type": "Bottom Yoke, Top yoke",
+        "Manufacturer part number": "4119A0037",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138062411"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "4119A0040",
+      "articleId": "15738108",
+      "name": "Air Spring, suspension",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15738108&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/air-spring-suspension",
+      "specs": {
+        "Fitting Position": "Right Front",
+        "Length [mm]": "435",
+        "Inner Diameter [mm]": "74",
+        "Spring Type": "for vehicles with air suspension",
+        "Net weight [kg]": "4,3",
+        "Thread Size": "M10x1.5",
+        "Shock Absorber Mounting Type": "Bottom Yoke, Top yoke",
+        "Manufacturer part number": "4119A0040",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138099868"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "251T0387",
+      "articleId": "13626198",
+      "name": "Trailing arm / Suspension arm bush",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13626198&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/arm-bushes",
+      "specs": {
+        "Fitting Position": "Lower, Rear Axle both sides",
+        "Control/Trailing Arm Type": "Trailing Arm",
+        "Manufacturer part number": "251T0387",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191637638"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "16519",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "251T0423",
+      "articleId": "13626272",
+      "name": "Trailing arm / Suspension arm bush",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13626272&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/arm-bushes",
+      "specs": {
+        "Fitting Position": "Upper Front Axle",
+        "Outer Diameter [mm]": "66.3",
+        "Inner Diameter [mm]": "14.2",
+        "Mounting Type": "Rubber-Metal Mount",
+        "Control/Trailing Arm Type": "Trailing Arm",
+        "Overall Length [mm]": "76",
+        "Manufacturer part number": "251T0423",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191638352"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "219G0176",
+      "articleId": "13627786",
+      "name": "Tailgate strut",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13627786&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "body/tailgate-struts",
+      "specs": {
+        "Extention Force [N]": "580",
+        "Length [mm]": "516,5",
+        "Standpipe Diameter [mm]": "8",
+        "Stroke [mm]": "150",
+        "Cylinder Bore [mm]": "18,5",
+        "Material": "Steel",
+        "Manufacturer part number": "219G0176",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191646364"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "2412P0043",
+      "articleId": "13656459",
+      "name": "Parking sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13656459&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "body/parking-sensor",
+      "specs": {
+        "Fitting Position": "Front",
+        "Colour": "black",
+        "Sensor Type": "Ultrasonic Sensor",
+        "Connector Shape": "oval",
+        "Number of pins": "3",
+        "Diameter": "15,5",
+        "Manufacturer part number": "2412P0043",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191788927"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "2412P0072",
+      "articleId": "14736783",
+      "name": "Parking sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=14736783&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "body/parking-sensor",
+      "specs": {
+        "Fitting Position": "Front, Rear",
+        "Colour": "black",
+        "Sensor Type": "Ultrasonic Sensor",
+        "Connector Shape": "oval",
+        "Chemical Properties": "Paintable",
+        "Number of connectors": "3",
+        "Shape": "straight",
+        "Manufacturer part number": "2412P0072",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191842575"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "514G0061",
+      "articleId": "8336118",
+      "name": "Bonnet strut",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8336118&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "interior-equipment/gas-spring-bonnet",
+      "specs": {
+        "Fitting Position": "both sides",
+        "Length [mm]": "294",
+        "Stroke [mm]": "88",
+        "Extention Force [N]": "410",
+        "Housing Diameter [mm]": "18",
+        "Piston Rod Diameter [mm]": "8",
+        "Housing length [mm]": "175,5",
+        "Quantity": "1",
+        "Manufacturer part number": "514G0061",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191454099"
+      },
+      "engines": [
+        "23050",
+        "16520",
+        "2483",
+        "45182",
+        "16519",
+        "18573",
+        "14235",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "7O0070",
+      "articleId": "8097524",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097524&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Outer Diameter [mm]": "68",
+        "Height": "79",
+        "Inner Diameter 1 [mm]": "29",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Shape": "Cylindrical",
+        "Manufacturer part number": "7O0070",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191237593"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "7O0070P",
+      "articleId": "23457283",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23457283&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Outer Diameter [mm]": "68",
+        "Height": "79",
+        "Inner Diameter 1 [mm]": "29",
+        "Inner Diameter 2 [mm]": "29",
+        "Manufacturer part number": "7O0070P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197241432"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "8A0011",
+      "articleId": "8000627",
+      "name": "Air filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8000627&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Air Recirculation Filter",
+        "Shape": "Cylindrical",
+        "Width [mm]": "90",
+        "Height": "498",
+        "Outer Diameter [mm]": "155",
+        "Inner Diameter [mm]": "108",
+        "Supplementary Article / Supplementary Info Info 2": "with pre-filter",
+        "Manufacturer part number": "8A0011",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191328864"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "8A0011P",
+      "articleId": "20817069",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20817069&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Air Recirculation Filter",
+        "Shape": "Cylindrical",
+        "Width [mm]": "90",
+        "Height": "498",
+        "Outer Diameter [mm]": "155",
+        "Inner Diameter [mm]": "108",
+        "Supplementary Article / Supplementary Info Info 2": "with pre-filter",
+        "Manufacturer part number": "8A0011P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448258901"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "9F0014",
+      "articleId": "8097280",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097280&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Height": "116",
+        "Outer Diameter [mm]": "45",
+        "Inlet Ø [mm]": "6,0",
+        "Outlet Ø [mm]": "6,0",
+        "Manufacturer part number": "9F0014",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191235186"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "9F0045",
+      "articleId": "8097337",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097337&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Height": "182,0",
+        "Height 1 [mm]": "160,5",
+        "Housing Diameter [mm]": "81,0",
+        "Inlet Ø [mm]": "8",
+        "Outlet Ø [mm]": "8",
+        "Manufacturer part number": "9F0045",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191235759"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "9F0014P",
+      "articleId": "20817177",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20817177&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Height": "108",
+        "Outer Diameter [mm]": "36",
+        "Inlet Ø [mm]": "6",
+        "Outlet Ø [mm]": "6",
+        "Manufacturer part number": "9F0014P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448259984"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "9F0045P",
+      "articleId": "23457207",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23457207&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Height": "182,0",
+        "Diameter": "81,0",
+        "Inlet Ø [mm]": "8",
+        "Outlet Ø [mm]": "8,0",
+        "Net Weight [g]": "469",
+        "Manufacturer part number": "9F0045P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197240671"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "402B0503",
+      "articleId": "8040468",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8040468&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "not prepared for wear warning indicator",
+        "Supplementary Article / Supplementary Info": "with accessories",
+        "Thickness": "18,4",
+        "Quantity Unit": "Axle Set",
+        "Height 1 [mm]": "62,1",
+        "Height": "62,1",
+        "Width [mm]": "132",
+        "WVA Number": "23615",
+        "Supplementary Article / Supplementary Info Info 2": "with anti-squeak plate",
+        "Packing Type": "Box",
+        "Number of threaded bolts": "4",
+        "Manufacturer part number": "402B0503",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191143337"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "402B0503P",
+      "articleId": "22255953",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22255953&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "not prepared for wear warning indicator",
+        "Supplementary Article / Supplementary Info": "with accessories",
+        "Thickness": "18,4",
+        "Quantity Unit": "Axle Set",
+        "Height 1 [mm]": "62,1",
+        "Height": "62,1",
+        "Width [mm]": "132",
+        "WVA Number": "23615",
+        "Supplementary Article / Supplementary Info Info 2": "with anti-squeak plate, with bolts/screws",
+        "Packing Type": "Box",
+        "Number of threaded bolts": "4",
+        "Manufacturer part number": "402B0503P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448708598"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "402B0100P",
+      "articleId": "22255987",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22255987&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Supplementary Article / Supplementary Info": "without accessories",
+        "Thickness": "18",
+        "Quantity Unit": "Axle Set",
+        "Length [mm]": "156",
+        "Height 1 [mm]": "74",
+        "Height": "74",
+        "WVA Number": "21486",
+        "Packing Type": "Box",
+        "Manufacturer part number": "402B0100P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448708932"
+      },
+      "engines": [
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "78B1402",
+      "articleId": "16163460",
+      "name": "Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16163460&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Right",
+        "Brake Caliper Type": "Brake Caliper (2 pistons), Fist-type Caliper (2 pistons)",
+        "Material": "Grey Cast Iron",
+        "for brake disc thickness [mm]": "30",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Inner Width [mm]": "77",
+        "Number of connectors": "1",
+        "Distance of mounting bores [mm]": "190",
+        "Piston Diameter [mm]": "48",
+        "Manufacturer part number": "78B1402",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138517881"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B1632",
+      "articleId": "17368722",
+      "name": "Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=17368722&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Left",
+        "Brake Caliper Type": "Fist-type Caliper (2 pistons), Floating Caliper",
+        "Material": "Cast Iron",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Inner Width [mm]": "77",
+        "Piston Diameter [mm]": "48",
+        "Brake Caliper Piston Diameter [mm]": "48",
+        "Manufacturer part number": "78B1632",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066016854767"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B1402R",
+      "articleId": "20449504",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20449504&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Right",
+        "Brake Caliper Type": "Brake Caliper (2 pistons), Fist-type Caliper (2 pistons)",
+        "Material": "Grey Cast Iron",
+        "for brake disc thickness [mm]": "30",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Inner Width [mm]": "77",
+        "Number of connectors": "1",
+        "Distance of mounting bores [mm]": "190",
+        "Piston Diameter [mm]": "48",
+        "Manufacturer part number": "78B1402R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448127252"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "78B1632R",
+      "articleId": "20462651",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20462651&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Left",
+        "Brake Caliper Type": "Fist-type Caliper (2 pistons), Floating Caliper",
+        "Material": "Cast Iron",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Inner Width [mm]": "77",
+        "Piston Diameter [mm]": "48",
+        "Brake Caliper Piston Diameter [mm]": "48",
+        "Manufacturer part number": "78B1632R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448177165"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "83B0437",
+      "articleId": "13634522",
+      "name": "Brake hose",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13634522&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-hoses",
+      "specs": {
+        "Fitting Position": "Front axle both sides",
+        "Length [mm]": "510",
+        "Thread Size 1": "M10x1",
+        "Thread Size 2": "M10x1",
+        "Thread Type": "External Thread, Internal Thread",
+        "Overall Length [mm]": "506",
+        "Manufacturer part number": "83B0437",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191713608"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "407W0057",
+      "articleId": "8263046",
+      "name": "Brake pad wear sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8263046&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/wear-indicator-brake-pads",
+      "specs": {
+        "Fitting Position": "Rear Axle, Rear Axle both sides",
+        "Warning Contact Length [mm]": "1190",
+        "Brake Type": "Disc Brake",
+        "Required quantity": "1",
+        "Manufacturer part number": "407W0057",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191443734"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "407W0057P",
+      "articleId": "23646174",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23646174&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/wear-indicator-brake-pads",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Warning Contact Length [mm]": "1178",
+        "Brake Type": "Disc Brake",
+        "Required quantity": "1",
+        "Manufacturer part number": "407W0057P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197327235"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "1165G0019",
+      "articleId": "8140399",
+      "name": "Guide sleeve kit, brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8140399&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Bolt Head Diameter [mm]": "12",
+        "Bolt Length [mm]": "54",
+        "Quantity per axle": "2",
+        "Manufacturer part number": "1165G0019",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191350308"
+      },
+      "engines": [
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "2169G0007",
+      "articleId": "8140389",
+      "name": "Brake caliper bolt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8140389&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Diameter": "8",
+        "Supplementary Article / Supplementary Info Info 2": "with bolts",
+        "Specification": "WITH GUIDE PINS",
+        "Manufacturer part number": "2169G0007",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191350209"
+      },
+      "engines": [
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "1164A0326",
+      "articleId": "17366129",
+      "name": "Brake pad fitting kit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=17366129&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Quantity": "2",
+        "Manufacturer part number": "1164A0326",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066016837753"
+      },
+      "engines": [
+        "16520",
+        "2483",
+        "18572",
+        "16519",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "1165G0250",
+      "articleId": "19330378",
+      "name": "Guide sleeve kit, brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19330378&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Diameter": "8",
+        "Manufacturer part number": "1165G0250",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423810677"
+      },
+      "engines": [
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "2169G0013",
+      "articleId": "15777681",
+      "name": "Brake caliper bolt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15777681&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Length [mm]": "54,3",
+        "Spanner Size": "Torx-40",
+        "Bolt Head-/Nut Design": "Torx",
+        "Thread Type": "External Thread",
+        "Thread Size": "M9x1,25",
+        "Manufacturer part number": "2169G0013",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138232166"
+      },
+      "engines": [
+        "16520",
+        "2483",
+        "18572",
+        "45182",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "412W0426",
+      "articleId": "13651689",
+      "name": "ABS sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13651689&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/sensor-wheel-speed",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Cable Length [mm]": "820",
+        "Sensor Type": "Active sensor",
+        "Number of used contacts": "2",
+        "Manufacturer part number": "412W0426",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191783809"
+      },
+      "engines": [
+        "16520",
+        "2483",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "412W0247",
+      "articleId": "13633422",
+      "name": "ABS sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13633422&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/sensor-wheel-speed",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Cable Length [mm]": "918",
+        "Braking/Drive Dynamics": "for vehicles with ABS",
+        "Rated Voltage [V]": "12",
+        "Number of pins": "2",
+        "Fitting Depth [mm]": "25,4",
+        "Manufacturer part number": "412W0247",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191702602"
+      },
+      "engines": [
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "412W0426P",
+      "articleId": "19292453",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19292453&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/sensor-wheel-speed",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Cable Length [mm]": "820",
+        "Sensor Type": "Active sensor",
+        "Number of used contacts": "2",
+        "Manufacturer part number": "412W0426P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423765298"
+      },
+      "engines": [
+        "16520",
+        "2483",
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "914T0258",
+      "articleId": "8221098",
+      "name": "Track rod end",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8221098&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/tie-rod-end",
+      "specs": {
+        "Fitting Position": "Front Axle, Front Axle Right",
+        "Length [mm]": "87",
+        "External Thread 1 [mm]": "M18x1,5-LTH",
+        "Cone Pitch": "1/5",
+        "Packaging Depth [cm]": "11,6",
+        "Manufacturer part number": "914T0258",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191415526"
+      },
+      "engines": [
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "12H0022",
+      "articleId": "8100169",
+      "name": "Power steering pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8100169&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/power-steering-pump",
+      "specs": {
+        "Hub Profile": "Triangle",
+        "Belt Pulley Ø [mm]": "150",
+        "Pulleys": "without belt pulley",
+        "Supplementary Article / Supplementary Info": "with reservoir",
+        "Operating Mode": "Hydraulic",
+        "Number of ribs": "5",
+        "Manufacturer part number": "12H0022",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191262854"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "12H0022R",
+      "articleId": "18083426",
+      "name": "REMAN Power steering pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18083426&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/power-steering-pump",
+      "specs": {
+        "Hub Profile": "Triangle",
+        "Supplementary Article / Supplementary Info": "with reservoir",
+        "Operating Pressure [bar]": "120",
+        "Operating Mode": "Hydraulic",
+        "Manufacturer part number": "12H0022R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4066423172720"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "286S1426R",
+      "articleId": "23440027",
+      "name": "REMAN Steering rack",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=23440027&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "steering/steering-gear",
+      "specs": {
+        "Steering": "without tie rod",
+        "Total Length [mm]": "1125",
+        "Left-/right-hand drive vehicles": "for left-hand drive vehicles",
+        "Vehicle Equipment": "for vehicles with servotronic steering",
+        "Operating Mode": "Hydraulic",
+        "Manufacturer part number": "286S1426R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4069197147178"
+      },
+      "engines": [
+        "16520",
+        "18572",
+        "16519",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "316T0038",
+      "articleId": "8094657",
+      "name": "Thermostat",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8094657&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/thermostat",
+      "specs": {
+        "Opening Temperature [°C]": "88",
+        "Required quantity": "1",
+        "Material": "Plastic",
+        "Manufacturer part number": "316T0038",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191223893"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "1260W0082",
+      "articleId": "8095321",
+      "name": "Water pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8095321&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/water-pump",
+      "specs": {
+        "Pulleys": "V-Ribbed Belt Pulley",
+        "Supplementary Article / Supplementary Info Info 2": "without lid",
+        "Supplementary Article / Supplementary Info": "with gasket/seal, with gaskets/seals",
+        "Belt Pulley Ø [mm]": "94,5",
+        "Number of blades/vanes": "6",
+        "Number of ribs": "5",
+        "Manufacturer part number": "1260W0082",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191230365"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "1260W0082P",
+      "articleId": "18956440",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18956440&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/water-pump",
+      "specs": {
+        "Pulleys": "V-Ribbed Belt Pulley",
+        "Supplementary Article / Supplementary Info Info 2": "without lid",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "1260W0082P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423639582"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "397E0130",
+      "articleId": "15184595",
+      "name": "Coolant expansion tank",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15184595&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/expansion-tank-coolant",
+      "specs": {
+        "Manufacturer part number": "397E0130",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191909285"
+      },
+      "engines": [
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "397E0175",
+      "articleId": "16118621",
+      "name": "Coolant expansion tank",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16118621&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/expansion-tank-coolant",
+      "specs": {
+        "Supplementary Article / Supplementary Info Info 2": "without lid",
+        "Number of connectors": "2",
+        "Material": "Plastic",
+        "Quantity": "1",
+        "Colour": "black",
+        "Manufacturer part number": "397E0175",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138370530"
+      },
+      "engines": [
+        "16520",
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "305P0024",
+      "articleId": "8098776",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098776&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "810",
+        "Number of ribs": "5",
+        "Material": "Rubber",
+        "Width [mm]": "17,80",
+        "Parameter": "5PK810",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0024",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191249169"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "305P0455",
+      "articleId": "15186012",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15186012&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2020",
+        "Number of ribs": "5",
+        "Material": "Rubber",
+        "Width [mm]": "17,8",
+        "Parameter": "5PK2020",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0455",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191920372"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "305P0024P",
+      "articleId": "18952372",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952372&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "810",
+        "Number of ribs": "5",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "17,8",
+        "Parameter": "5PK810",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0024P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423605259"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "312D0010",
+      "articleId": "8097298",
+      "name": "Deflection / guide pulley, V-ribbed belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097298&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Material": "Metal",
+        "Inner Diameter [mm]": "8",
+        "Belt Pulley Ø [mm]": "70",
+        "Height": "26",
+        "Manufacturer part number": "312D0010",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191235360"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "310T0042",
+      "articleId": "8101539",
+      "name": "Tensioner pulley",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8101539&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Diameter": "70",
+        "Width [mm]": "26",
+        "Supplementary Article / Supplementary Info": "with holder",
+        "Material": "Metal",
+        "Manufacturer part number": "310T0042",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191272563"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "541V0042",
+      "articleId": "8197630",
+      "name": "Drive belt tensioner",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8197630&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Height 1 [mm]": "36,0",
+        "Height 2 [mm]": "36,0",
+        "Belt Pulley Ø [mm]": "65,0",
+        "Manufacturer part number": "541V0042",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191407002"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "310T0196",
+      "articleId": "8197745",
+      "name": "Tensioner pulley",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8197745&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Diameter": "65",
+        "Driven Units": "Air conditioning compressor",
+        "Width [mm]": "32",
+        "Manufacturer part number": "310T0196",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191408085"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "312D0072",
+      "articleId": "8197748",
+      "name": "Deflection / guide pulley, V-ribbed belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8197748&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Outer Diameter 1 [mm]": "70",
+        "Width 1 [mm]": "26",
+        "Manufacturer part number": "312D0072",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191408115"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "310T0238",
+      "articleId": "13631323",
+      "name": "Tensioner pulley",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631323&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Outer Diameter [mm]": "70",
+        "Driven Units": "Alternator",
+        "Width [mm]": "25",
+        "Supplementary Article / Supplementary Info": "without holder",
+        "Material": "Metal",
+        "Manufacturer part number": "310T0238",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191681617"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "310T0451",
+      "articleId": "16367861",
+      "name": "Tensioner pulley",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16367861&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Outer Diameter [mm]": "70",
+        "Width [mm]": "22,5",
+        "Inner Diameter [mm]": "8",
+        "Material": "Plastic",
+        "Manufacturer part number": "310T0451",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138627702"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "310T0042P",
+      "articleId": "21854879",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=21854879&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Diameter": "70,3",
+        "Width [mm]": "25,6",
+        "Supplementary Article / Supplementary Info": "with holder",
+        "Material": "Metal",
+        "Manufacturer part number": "310T0042P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448549436"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "312D0010P",
+      "articleId": "21854932",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=21854932&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Belt Pulley Ø [mm]": "70,2",
+        "Height 1 [mm]": "22,8",
+        "Height 2 [mm]": "26,1",
+        "Manufacturer part number": "312D0010P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448549962"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "312D0072P",
+      "articleId": "21854955",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=21854955&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Outer Diameter 1 [mm]": "70",
+        "Width 1 [mm]": "26",
+        "Manufacturer part number": "312D0072P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448550197"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "243G0025",
+      "articleId": "13632601",
+      "name": "Glow plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13632601&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/glow-plug",
+      "specs": {
+        "Thread Size": "M 10 x 1",
+        "Length [mm]": "105",
+        "Voltage [V]": "11",
+        "Spanner Size": "10",
+        "Glow Plug Design": "Pencil-type Glow Plug, after-glow capable",
+        "Fitting Depth [mm]": "33",
+        "Connector type": "PIN",
+        "Tightening torque from [Nm]": "0",
+        "Cone Pitch": "63",
+        "Manufacturer part number": "243G0025",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191694396"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "243G0025P",
+      "articleId": "22368198",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22368198&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/glow-plug",
+      "specs": {
+        "Thread Size": "M 10 x 1",
+        "Length [mm]": "105",
+        "Voltage [V]": "11",
+        "Spanner Size": "10",
+        "Glow Plug Design": "Pencil-type Glow Plug, after-glow capable",
+        "Fitting Depth [mm]": "33",
+        "Connector type": "PIN",
+        "Tightening torque from [Nm]": "0",
+        "Cone Pitch": "63",
+        "Manufacturer part number": "243G0025P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448806768"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "458F0064",
+      "articleId": "8056398",
+      "name": "Fuel pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8056398&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/fuel-pump",
+      "specs": {
+        "Operating Mode": "Electric",
+        "Voltage [V]": "12",
+        "Pressure [bar]": "4, 5",
+        "Fuel Type": "Diesel",
+        "Current Strength [A]": "4,8",
+        "Operating voltage [V]": "12",
+        "Total Length [mm]": "199,5",
+        "Manufacturer part number": "458F0064",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191178438"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "458F13700",
+      "articleId": "15789203",
+      "name": "Fuel pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15789203&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/fuel-pump",
+      "specs": {
+        "Operating Mode": "Electric",
+        "Flow rate [l/h]": "175",
+        "Pressure [bar]": "3,5",
+        "Fitting Position": "Fuel Line",
+        "Manufacturer part number": "458F13700",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138294980"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "1382F0338",
+      "articleId": "16152537",
+      "name": "Fuel feed unit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16152537&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/fuel-pump",
+      "specs": {
+        "Pressure [bar]": "3,5",
+        "Fuel Type": "Diesel",
+        "Manufacturer part number": "1382F0338",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138460590"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "3902I0014R",
+      "articleId": "15202445",
+      "name": "REMAN Injector Nozzle",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15202445&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/injector-nozzle",
+      "specs": {
+        "Supplementary Article / Supplementary Info Info 2": "with seal ring",
+        "Fuel Mixture Formation": "Common Rail (CR)",
+        "Fuel Type": "Diesel",
+        "Required quantity": "6",
+        "Manufacturer part number": "3902I0014R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4059191959297"
+      },
+      "engines": [
+        "16520"
+      ]
+    },
+    {
+      "articleNo": "298W0198",
+      "articleId": "12755847",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12755847&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Front",
+        "Wiper blade type": "Hybrid Wiper Blade",
+        "Fastening Type": "Hook fixing",
+        "Length 1 [mm]": "480",
+        "Styling": "without spoiler",
+        "Quantity": "1",
+        "Manufacturer part number": "298W0198",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191555017"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "298W0534",
+      "articleId": "15770253",
+      "name": "Wiper blade",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15770253&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "windscreen-cleaning-system/wiper-blades",
+      "specs": {
+        "Fitting Position": "Front, Rear",
+        "Wiper blade type": "Beam",
+        "Length 1 [mm]": "475",
+        "Styling": "with spoiler",
+        "Quantity": "1",
+        "Type": "multiconnection",
+        "Number of adapters": "10",
+        "Manufacturer part number": "298W0534",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138204538"
+      },
+      "engines": [
+        "16520",
+        "16519",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "7O0106",
+      "articleId": "8149689",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8149689&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "115",
+        "Inner Diameter 2 [mm]": "31",
+        "Diameter": "64,3",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Inner Diameter 3 [mm]": "31,4",
+        "Manufacturer part number": "7O0106",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191355792"
+      },
+      "engines": [
+        "2483"
+      ]
+    },
+    {
+      "articleNo": "7O0106P",
+      "articleId": "18743852",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18743852&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Height": "115, 115,0",
+        "Inner Diameter 2 [mm]": "31",
+        "Diameter": "64,3",
+        "Net Weight [g]": "59,0",
+        "Inner Diameter 3 [mm]": "31,4",
+        "Manufacturer part number": "7O0106P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423594614"
+      },
+      "engines": [
+        "2483"
+      ]
+    },
+    {
+      "articleNo": "8A0696",
+      "articleId": "12768296",
+      "name": "Air filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12768296&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Air Recirculation Filter, Filter Insert",
+        "Length [mm]": "347",
+        "Width [mm]": "163",
+        "Height": "50",
+        "Required quantity": "2",
+        "Manufacturer part number": "8A0696",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191583157"
+      },
+      "engines": [
+        "2483",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "402B0916",
+      "articleId": "8055993",
+      "name": "Brake pad set",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8055993&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Wear Warning Contact": "excl. wear warning contact, prepared for wear warning indicator",
+        "Thickness": "16,9",
+        "Quantity Unit": "Axle Set",
+        "Height": "95,5",
+        "Width [mm]": "189,7",
+        "WVA Number": "24659",
+        "Brake Type": "Disc Brake",
+        "fulfils ECE norm": "ECE-R90",
+        "Manufacturer part number": "402B0916",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191131655"
+      },
+      "engines": [
+        "2483",
+        "32051",
+        "2534",
+        "51197"
+      ]
+    },
+    {
+      "articleNo": "402B0916P",
+      "articleId": "22256428",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22256428&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-pad-set",
+      "specs": {
+        "Wear Warning Contact": "prepared for wear warning indicator",
+        "Thickness": "16,9",
+        "Quantity Unit": "Axle Set",
+        "Height": "95,5",
+        "Width [mm]": "189,9",
+        "WVA Number": "24659",
+        "Manufacturer part number": "402B0916P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448713349"
+      },
+      "engines": [
+        "2483",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "82B1593",
+      "articleId": "12754823",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12754823&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Brake Disc Type": "Vented",
+        "Brake Disc Thickness": "34",
+        "Height": "81",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "380",
+        "Centering Diameter [mm]": "79",
+        "Number of Holes": "5/6",
+        "Wheel Bolt Bore Diameter [mm]": "16,6",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without wheel hub, without wheel studs",
+        "Drilled": "no",
+        "Manufacturer part number": "82B1593",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191544783"
+      },
+      "engines": [
+        "2483",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "82B2249",
+      "articleId": "15078056",
+      "name": "Brake disc",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15078056&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "2",
+      "category": "brake-system/brake-disc",
+      "specs": {
+        "Fitting Position": "Rear Axle",
+        "Brake Disc Type": "Vented",
+        "Brake Disc Thickness": "20",
+        "Height": "75",
+        "Material": "Cast Iron",
+        "Surface": "Uncoated",
+        "Outer Diameter [mm]": "365",
+        "Centering Diameter [mm]": "79",
+        "Number of Holes": "5/7",
+        "Wheel Bolt Bore Diameter [mm]": "16,7",
+        "Bolt Hole Circle Ø [mm]": "120",
+        "Machining": "Untreated",
+        "Supplementary Article / Supplementary Info Info 2": "without bolts/screws",
+        "Drilled": "no",
+        "Manufacturer part number": "82B2249",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191874934"
+      },
+      "engines": [
+        "2483",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "78B2690R",
+      "articleId": "22381998",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22381998&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Brake Caliper Type": "Brake Caliper with integrated parking brake, Fist-type Caliper",
+        "Material": "Cast Iron",
+        "Piston Diameter [mm]": "45",
+        "Manufacturer part number": "78B2690R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448850075"
+      },
+      "engines": [
+        "2483",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "78B2270R",
+      "articleId": "20450390",
+      "name": "REMAN Brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20450390&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/brake-caliper",
+      "specs": {
+        "Brake Caliper Type": "Brake Caliper with integrated parking brake, Fist-type Caliper",
+        "Material": "Cast Iron",
+        "Piston Diameter [mm]": "45",
+        "Manufacturer part number": "78B2270R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4067448135615"
+      },
+      "engines": [
+        "2483",
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "305P0330",
+      "articleId": "8099125",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8099125&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2525",
+        "Number of ribs": "6",
+        "Material": "Rubber",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2525",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0330",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191252596"
+      },
+      "engines": [
+        "2483"
+      ]
+    },
+    {
+      "articleNo": "305P0588",
+      "articleId": "17851813",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=17851813&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2520",
+        "Number of ribs": "6",
+        "Material": "Rubber",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2520",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0588",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423040616"
+      },
+      "engines": [
+        "2483"
+      ]
+    },
+    {
+      "articleNo": "310T0674",
+      "articleId": "19774006",
+      "name": "Tensioner pulley",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19774006&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Outer Diameter [mm]": "65",
+        "Quantity": "1",
+        "Manufacturer part number": "310T0674",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423843514"
+      },
+      "engines": [
+        "2483",
+        "16519",
+        "18573",
+        "106053",
+        "14235",
+        "59498"
+      ]
+    },
+    {
+      "articleNo": "3902I0294R",
+      "articleId": "15787539",
+      "name": "REMAN Injector Nozzle",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15787539&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/injector-nozzle",
+      "specs": {
+        "Supplementary Article / Supplementary Info Info 2": "with seal ring",
+        "Fuel Mixture Formation": "Common Rail (CR)",
+        "Fuel Type": "Diesel",
+        "Manufacturer part number": "3902I0294R",
+        "Manufacturer": "RIDEX REMAN",
+        "EAN number": "4064138283540"
+      },
+      "engines": [
+        "2483"
+      ]
+    },
+    {
+      "articleNo": "7O0377",
+      "articleId": "17848921",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=17848921&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Spin-on Filter",
+        "Outer Diameter [mm]": "76",
+        "Height": "100",
+        "Thread Size": "1-12 UNF",
+        "Inner Diameter 2 [mm]": "62",
+        "Bypass Valve Opening Pressure [bar]": "1,0",
+        "Outer Diameter 2 [mm]": "71",
+        "Manufacturer part number": "7O0377",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423028522"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "1260W0303",
+      "articleId": "12746211",
+      "name": "Water pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12746211&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/water-pump",
+      "specs": {
+        "Pulleys": "without belt pulley",
+        "Supplementary Article / Supplementary Info Info 2": "with lid",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Number of blades/vanes": "6",
+        "Manufacturer part number": "1260W0303",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191518937"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "305P0101",
+      "articleId": "8098486",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098486&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2270",
+        "Number of ribs": "6",
+        "Material": "Rubber",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2270",
+        "Thickness": "4,3",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0101",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191246328"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "305P0229",
+      "articleId": "8098979",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098979&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2275",
+        "Number of ribs": "7",
+        "Material": "Rubber",
+        "Width [mm]": "24,92",
+        "Parameter": "7PK2275",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0229",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191251131"
+      },
+      "engines": [
+        "18572",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "305P0101P",
+      "articleId": "18951571",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18951571&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2270",
+        "Number of ribs": "6",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2270",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0101P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423604412"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "305P0229P",
+      "articleId": "18953077",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18953077&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2275",
+        "Number of ribs": "7",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "24,92",
+        "Parameter": "7PK2275",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0229P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423611205"
+      },
+      "engines": [
+        "18572",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "310T0359",
+      "articleId": "15788827",
+      "name": "Tensioner pulley",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15788827&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/tensioner-pulley-v-ribbed-belt",
+      "specs": {
+        "Outer Diameter [mm]": "76",
+        "Width [mm]": "31",
+        "Manufacturer part number": "310T0359",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138291682"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "686S0021",
+      "articleId": "13631702",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631702&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Spark Plug": "1 - Earthed Electrode, Platinum Middle Electrode",
+        "Electrode Gap [mm]": "1,1",
+        "Spanner Size": "16 mm",
+        "External Thread [mm]": "14",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "4",
+        "Thread Pitch [mm]": "1,25",
+        "Tightening Torque [Nm]": "25",
+        "Number of pins": "1",
+        "Tightening angle [degrees]": "90",
+        "Manufacturer part number": "686S0021",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685400"
+      },
+      "engines": [
+        "18572",
+        "45182",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "686S0026",
+      "articleId": "13631707",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631707&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "ULTRA",
+        "Spark Plug": "1 - Earthed Electrode, Platinum Middle Electrode, with gasket seat",
+        "Electrode Gap [mm]": "0,7",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Thread Size": "M14x1,25",
+        "Connector type": "SAE",
+        "Tightening torque from [Nm]": "20",
+        "Manufacturer part number": "686S0026",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685455"
+      },
+      "engines": [
+        "18572"
+      ]
+    },
+    {
+      "articleNo": "686S0029",
+      "articleId": "13631710",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631710&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "LPG Laser Line",
+        "Spark Plug": "1 - Earthed Electrode, Fixed SAE connector",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Thread Size": "M14 x 1,25",
+        "Fuel Type": "CNG/LPG",
+        "Recommended change interval [km]": "60000",
+        "Manufacturer part number": "686S0029",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685486"
+      },
+      "engines": [
+        "18572",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "686S0085",
+      "articleId": "15208147",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15208147&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Iridium",
+        "Spark Plug": "1 - Earthed Electrode",
+        "Spanner Size": "16 mm",
+        "Thread Size 1": "19",
+        "Tightening Torque [Nm]": "22",
+        "Diameter": "14",
+        "Weight [g]": "43",
+        "Manufacturer part number": "686S0085",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191980666"
+      },
+      "engines": [
+        "18572",
+        "45182",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "686S0029P",
+      "articleId": "22262268",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22262268&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Iridium",
+        "Spark Plug": "Fixed SAE connector, Interference Suppression 5 kOhm, Iridium Middle Electrode, Platinum mass electrode",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3,5",
+        "Thread Size": "M14 x 1,25",
+        "Fuel Type": "CNG/LPG",
+        "Recommended change interval [km]": "60000",
+        "Manufacturer part number": "686S0029P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448729098"
+      },
+      "engines": [
+        "18572",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "686S0085P",
+      "articleId": "22262267",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22262267&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Iridium",
+        "Spark Plug": "1 - Earthed Electrode, Iridium Middle Electrode, Platinum mass electrode",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "4",
+        "Thread Size": "M14x1.25",
+        "Connector type": "Solid SAE",
+        "Tightening Torque [Nm]": "22",
+        "Resistor [kOhm]": "6",
+        "Country Specific Design": "Japan",
+        "Manufacturer part number": "686S0085P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448729081"
+      },
+      "engines": [
+        "18572",
+        "45182",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "689C0092",
+      "articleId": "8055500",
+      "name": "Ignition coil",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8055500&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/ignition-coil",
+      "specs": {
+        "Number of pins": "4",
+        "Voltage [V]": "12",
+        "Ignition Coil": "Flush-Fitting Pencil Ignition Coils",
+        "Manufacturer part number": "689C0092",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191170029"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "689C0092P",
+      "articleId": "19127008",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19127008&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/ignition-coil",
+      "specs": {
+        "Number of pins": "4",
+        "Voltage [V]": "12",
+        "Ignition Coil": "Connector Type SAE, Flush-Fitting Pencil Ignition Coils",
+        "Manufacturer part number": "689C0092P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423737516"
+      },
+      "engines": [
+        "18572",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "2412P0022",
+      "articleId": "8120757",
+      "name": "Parking sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8120757&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "body/parking-sensor",
+      "specs": {
+        "Fitting Position": "Front and Rear",
+        "Sensor Type": "Ultrasonic Sensor",
+        "Chemical Properties": "Paintable",
+        "Number of connectors": "3",
+        "Height": "35,9",
+        "Width [mm]": "22",
+        "Length [mm]": "31,35",
+        "Diameter": "15,48",
+        "Manufacturer part number": "2412P0022",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191345359"
+      },
+      "engines": [
+        "18572"
+      ]
+    },
+    {
+      "articleNo": "9F0115",
+      "articleId": "13635534",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13635534&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Outer Diameter [mm]": "70",
+        "Outer Diameter 1 [mm]": "71,00",
+        "Inner Diameter [mm]": "20, 20,5",
+        "Inner Diameter 1 [mm]": "20",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "9F0115",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191723720"
+      },
+      "engines": [
+        "45182"
+      ]
+    },
+    {
+      "articleNo": "305P0371",
+      "articleId": "13630438",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13630438&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2565",
+        "Number of ribs": "6",
+        "Material": "Rubber",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2563",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0371",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191672769"
+      },
+      "engines": [
+        "45182"
+      ]
+    },
+    {
+      "articleNo": "7O0096",
+      "articleId": "8149372",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8149372&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Outer Diameter [mm]": "84",
+        "Height": "161",
+        "Inner Diameter [mm]": "25",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "7O0096",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191354146"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "7O0096P",
+      "articleId": "18744052",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18744052&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Manufacturer part number": "7O0096P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423596311"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "9F0346",
+      "articleId": "15188500",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15188500&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Height": "206,0",
+        "Outer Diameter 1 [mm]": "70",
+        "Outer Diameter 2 [mm]": "55",
+        "Inlet Ø [mm]": "8",
+        "Outlet Ø [mm]": "5, 7,9, 8",
+        "Manufacturer part number": "9F0346",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191928774"
+      },
+      "engines": [
+        "16519",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "316T0201",
+      "articleId": "13635356",
+      "name": "Thermostat",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13635356&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/thermostat",
+      "specs": {
+        "Opening Temperature [°C]": "105",
+        "Diameter 2 [mm]": "43",
+        "Supplementary Article / Supplementary Info": "with gasket/seal",
+        "Housing Type": "with housing",
+        "Material": "Aluminium",
+        "Height 1 [mm]": "39",
+        "Manufacturer part number": "316T0201",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191721948"
+      },
+      "engines": [
+        "16519",
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "1260W0123",
+      "articleId": "8095396",
+      "name": "Water pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8095396&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/water-pump",
+      "specs": {
+        "Material": "Cast Aluminium",
+        "Water pump impeller material": "Metal",
+        "Pulleys": "without belt pulley",
+        "Operating Mode": "Mechanical",
+        "Supplementary Article / Supplementary Info Info 2": "with flange",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Number of blades/vanes": "7",
+        "Flange Diameter [mm]": "65",
+        "Number of flange connections": "4",
+        "Manufacturer part number": "1260W0123",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191231096"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "509C0015",
+      "articleId": "8149601",
+      "name": "Fan clutch",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8149601&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/fan-clutch",
+      "specs": {
+        "Required quantity": "1",
+        "Internal Thread [mm]": "M24 x 1,5, M6",
+        "Spanner Size": "32",
+        "Outer Diameter [mm]": "160",
+        "Number of Holes": "4",
+        "Bolt Hole Circle Ø [mm]": "96,65",
+        "Manufacturer part number": "509C0015",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191354955"
+      },
+      "engines": [
+        "16519",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "305P0237",
+      "articleId": "8098860",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098860&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1633",
+        "Number of ribs": "7",
+        "Material": "Rubber",
+        "Width [mm]": "24,92",
+        "Parameter": "7PK1633",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0237",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191249992"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "305P0241",
+      "articleId": "8098889",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098889&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1640",
+        "Number of ribs": "7",
+        "Material": "Rubber",
+        "Width [mm]": "24,92",
+        "Parameter": "7PK1640",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0241",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191250271"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "305P0241P",
+      "articleId": "18952336",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952336&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1640",
+        "Number of ribs": "7",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "24,92",
+        "Parameter": "7PK1640",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0241P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423604894"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "305P0237P",
+      "articleId": "18952852",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952852&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1633",
+        "Number of ribs": "7",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "24,92",
+        "Parameter": "7PK1633",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0237P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423608953"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0002",
+      "articleId": "8315422",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8315422&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Spark Plug": "1 - Earthed Electrode, Fixed SAE connector, Nickel Middle Electrode",
+        "Electrode Gap [mm]": "0,9",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Size": "M 14 x 1,25",
+        "Tightening Torque [Nm]": "28",
+        "Number of pins": "1",
+        "Manufacturer part number": "686S0002",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191451333"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0005",
+      "articleId": "8315427",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8315427&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Nickel",
+        "Spark Plug": "2 - Earthed Electrode, Nickel Middle Electrode",
+        "Electrode Gap [mm]": "0,8",
+        "Spanner Size": "16 mm",
+        "External Thread [mm]": "M14 x 1,25",
+        "Thread Size 1": "19",
+        "Tightening Torque [Nm]": "22",
+        "Diameter": "14",
+        "Weight [g]": "43",
+        "Number of pins": "2",
+        "Manufacturer part number": "686S0005",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191451388"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0006",
+      "articleId": "13631691",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631691&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Spark Plug": "4 - Earthed Electrode, Fixed SAE connector",
+        "Electrode Gap [mm]": "1,6",
+        "Spanner Size": "16 mm",
+        "External Thread [mm]": "14",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Pitch [mm]": "1,25",
+        "Tightening Torque [Nm]": "28",
+        "Tightening angle [degrees]": "90",
+        "Manufacturer part number": "686S0006",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685295"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0028",
+      "articleId": "13631709",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631709&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Spark Plug": "1 - Earthed Electrode, Iridium Middle Electrode",
+        "Electrode Gap [mm]": "0,7",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "4",
+        "Thread Size": "M 14 x 1,25",
+        "Connector type": "SAE/M4",
+        "Tightening Torque [Nm]": "28",
+        "Number of pins": "1",
+        "Manufacturer part number": "686S0028",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685479"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0034",
+      "articleId": "13631714",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631714&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Iridium TT",
+        "Spark Plug": "1 - Earthed Electrode, Iridium Middle Electrode",
+        "Spanner Size": "16 mm",
+        "Thread Size 1": "19",
+        "Tightening Torque [Nm]": "22",
+        "Diameter": "14",
+        "Weight [g]": "43",
+        "Manufacturer part number": "686S0034",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685523"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0055",
+      "articleId": "13631730",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13631730&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "ULTRA",
+        "Spark Plug": "4 - Earthed Electrode, Nickel Middle Electrode, with gasket seat",
+        "Electrode Gap [mm]": "1,6",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Thread Size": "M14x1,25",
+        "Connector type": "SAE",
+        "Tightening torque from [Nm]": "20",
+        "Manufacturer part number": "686S0055",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191685684"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0061",
+      "articleId": "12760354",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12760354&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Spark Plug": "2 - Earthed Electrode, Nickel Middle Electrode",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Thread Size": "M14x1.25",
+        "Tightening Torque [Nm]": "22",
+        "Diameter": "14",
+        "Weight [g]": "43",
+        "alternative item": "K20TT",
+        "Manufacturer part number": "686S0061",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191571239"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0065",
+      "articleId": "12760362",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=12760362&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Electrode Gap [mm]": "0,9",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Size": "M 14 x 1,25",
+        "Tightening Torque [Nm]": "28",
+        "Number of pins": "1",
+        "Manufacturer part number": "686S0065",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191571314"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0323",
+      "articleId": "16418335",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16418335&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Electrode Gap [mm]": "1,6",
+        "Spanner Size": "16 mm",
+        "External Thread [mm]": "14",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Pitch [mm]": "1,25",
+        "Quantity": "4",
+        "Tightening Torque [Nm]": "28",
+        "Number of pins": "4",
+        "Tightening angle [degrees]": "90",
+        "Manufacturer part number": "686S0323",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4065739017008"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0006P",
+      "articleId": "19295199",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19295199&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Nickel",
+        "Spark Plug": "4 - Earthed Electrode, Copper Centre Electrode, Nickel mass electrode",
+        "Electrode Gap [mm]": "1,6",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3,5",
+        "Thread Size": "M14x1,25",
+        "Resistor [kOhm]": "6",
+        "Manufacturer part number": "686S0006P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423770971"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0005P",
+      "articleId": "19295204",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19295204&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Nickel",
+        "Spark Plug": "2 - Earthed Electrode, Nickel mass electrode, Nickel-Copper Center Electrode",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "5,8",
+        "Thread Size": "M14x1,25",
+        "Resistor [kOhm]": "8",
+        "Spark Plug Head": "Fixed SAE connector",
+        "Manufacturer part number": "686S0005P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423771022"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0002P",
+      "articleId": "19295209",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=19295209&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Nickel",
+        "Spark Plug": "1 - Earthed Electrode, Nickel mass electrode, Nickel-Copper Center Electrode",
+        "Electrode Gap [mm]": "0,8",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3",
+        "Thread Size": "M 14 x 1,25",
+        "Resistor [kOhm]": "6",
+        "Spark Plug Head": "Fixed SAE connector",
+        "Manufacturer part number": "686S0002P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423771077"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0034P",
+      "articleId": "22262209",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22262209&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Iridium",
+        "Spark Plug": "1 - Earthed Electrode, Iridium Middle Electrode, Platinum mass electrode",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3,5",
+        "Thread Size": "M14x1.25",
+        "Connector type": "Solid SAE",
+        "Tightening Torque [Nm]": "22",
+        "Diameter": "14",
+        "Resistor [kOhm]": "6",
+        "Country Specific Design": "Japan",
+        "Manufacturer part number": "686S0034P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448728503"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "686S0028P",
+      "articleId": "22262273",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22262273&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "Iridium",
+        "Spark Plug": "Iridium Middle Electrode, Nickel mass electrode",
+        "Electrode Gap [mm]": "0,7",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "3,3",
+        "Thread Size": "M 14 x 1,25",
+        "Tightening Torque [Nm]": "28",
+        "Number of pins": "1",
+        "Resistor [kOhm]": "6",
+        "Manufacturer part number": "686S0028P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448729142"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "689C0010",
+      "articleId": "8054702",
+      "name": "Ignition coil",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8054702&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/ignition-coil",
+      "specs": {
+        "Voltage [V]": "12",
+        "Ignition Coil": "Connector Type SAE, incl. spark plug connector",
+        "Number of inlets/outlets": "1",
+        "Connector Shape": "rectangular",
+        "Number of used contacts": "3",
+        "Number of mounting bores": "2",
+        "Manufacturer part number": "689C0010",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191162437"
+      },
+      "engines": [
+        "16519",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "1382F0485",
+      "articleId": "17352533",
+      "name": "Fuel feed unit",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=17352533&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/fuel-pump",
+      "specs": {
+        "Pressure [bar]": "3,5",
+        "Operating Mode": "Electric",
+        "Number of connectors": "2",
+        "Voltage [V]": "12",
+        "Supplementary Article / Supplementary Info": "with fuel sender unit",
+        "Diameter": "134",
+        "Pressure [psi]": "50,75",
+        "Total Length [mm]": "425",
+        "Manufacturer part number": "1382F0485",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066016768149"
+      },
+      "engines": [
+        "16519",
+        "18573",
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "3905I0080",
+      "articleId": "8099377",
+      "name": "Injector",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8099377&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "fuel-mixture-formation/injector-nozzle",
+      "specs": {
+        "Fuel Mixture Formation": "Petrol Injection",
+        "Resistor [Ohm]": "14,5",
+        "Manufacturer part number": "3905I0080",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191255108"
+      },
+      "engines": [
+        "16519"
+      ]
+    },
+    {
+      "articleNo": "424I0237",
+      "articleId": "8000692",
+      "name": "Pollen filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8000692&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Particulate Filter",
+        "Length [mm]": "242",
+        "Width [mm]": "204",
+        "Height": "36",
+        "Quantity": "1",
+        "Recommended change interval [km]": "20000",
+        "Manufacturer part number": "424I0237",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191329489"
+      },
+      "engines": [
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "424I0226",
+      "articleId": "8059167",
+      "name": "Pollen filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8059167&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Activated Carbon Filter, Particulate Filter",
+        "Length [mm]": "270",
+        "Width [mm]": "157",
+        "Height": "30",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0226",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191198177"
+      },
+      "engines": [
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "424I0237P",
+      "articleId": "21005369",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=21005369&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Particulate Filter",
+        "Length [mm]": "242",
+        "Width [mm]": "204",
+        "Height": "36",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0237P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448295487"
+      },
+      "engines": [
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "424I0226P",
+      "articleId": "24441893",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=24441893&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/filter-interior-air",
+      "specs": {
+        "Filter type": "Activated Carbon Filter, Particulate Filter",
+        "Length [mm]": "270",
+        "Width [mm]": "157",
+        "Height": "30",
+        "Quantity": "1",
+        "Manufacturer part number": "424I0226P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4069197537078"
+      },
+      "engines": [
+        "18573",
+        "14235",
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "8A0008",
+      "articleId": "8000629",
+      "name": "Air filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8000629&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Air Recirculation Filter, Filter Insert",
+        "Shape": "tetragonal",
+        "Length [mm]": "324,5",
+        "Width [mm]": "158,5",
+        "Height": "56",
+        "Manufacturer part number": "8A0008",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191328888"
+      },
+      "engines": [
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "8A0008P",
+      "articleId": "20817070",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20817070&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/air-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Length [mm]": "325",
+        "Width [mm]": "156",
+        "Height": "57",
+        "Manufacturer part number": "8A0008P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448258918"
+      },
+      "engines": [
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "1165G0030",
+      "articleId": "13643353",
+      "name": "Guide sleeve kit, brake caliper",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13643353&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/accessory-kit-disc-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle, Rear Axle",
+        "Supplementary Article / Supplementary Info Info 2": "with bolts",
+        "Bolt Head Diameter [mm]": "15",
+        "Bolt Length [mm]": "75",
+        "Manufacturer part number": "1165G0030",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191765713"
+      },
+      "engines": [
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "686S0048",
+      "articleId": "13644093",
+      "name": "Spark plug",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=13644093&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/spark-plug",
+      "specs": {
+        "Product line": "ULTRA",
+        "Spark Plug": "4 - Earthed Electrode, Platinum Middle Electrode",
+        "Electrode Gap [mm]": "1,6",
+        "Spanner Size": "16 mm",
+        "Thread Length [mm]": "19",
+        "Spark Position [mm]": "5",
+        "Thread Size": "M14x1,25",
+        "Connector type": "SAE/M4",
+        "Tightening Torque [Nm]": "25",
+        "Manufacturer part number": "686S0048",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191773091"
+      },
+      "engines": [
+        "18573"
+      ]
+    },
+    {
+      "articleNo": "9F0010",
+      "articleId": "8097074",
+      "name": "Fuel filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8097074&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Fuel Type": "Petrol",
+        "Height": "165",
+        "Outer Diameter 1 [mm]": "81,5",
+        "Inlet Ø [mm]": "8",
+        "Outlet Ø [mm]": "8",
+        "Manufacturer part number": "9F0010",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191234219"
+      },
+      "engines": [
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "9F0010P",
+      "articleId": "20817142",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20817142&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/fuel-filter",
+      "specs": {
+        "Filter type": "In-Line Filter",
+        "Height": "156",
+        "Outer Diameter [mm]": "82",
+        "Inlet Ø [mm]": "8",
+        "Outlet Ø [mm]": "8",
+        "Manufacturer part number": "9F0010P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448259632"
+      },
+      "engines": [
+        "14235"
+      ]
+    },
+    {
+      "articleNo": "7O0278",
+      "articleId": "15797547",
+      "name": "Oil filter",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=15797547&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "filters/oil-filter",
+      "specs": {
+        "Filter type": "Filter Insert",
+        "Outer Diameter [mm]": "75",
+        "Height": "148,1",
+        "Inner Diameter 1 [mm]": "25",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "7O0278",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138344159"
+      },
+      "engines": [
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "1260W0901",
+      "articleId": "20079929",
+      "name": "Water pump",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=20079929&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "cooling-system/water-pump",
+      "specs": {
+        "Housing Type": "two-part housing, with housing",
+        "Operating Mode": "Mechanical",
+        "Supplementary Article / Supplementary Info Info 2": "with bolts/screws",
+        "Supplementary Article / Supplementary Info": "with gaskets/seals",
+        "Manufacturer part number": "1260W0901",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423984569"
+      },
+      "engines": [
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "305P0105",
+      "articleId": "8098708",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098708&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2460",
+        "Number of ribs": "6",
+        "Material": "Rubber",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2460",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0105",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191248506"
+      },
+      "engines": [
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "305P0035",
+      "articleId": "8098974",
+      "name": "Serpentine belt",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8098974&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "1140,0",
+        "Number of ribs": "5",
+        "Material": "Rubber",
+        "Width [mm]": "17,8",
+        "Parameter": "5PK1140",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0035",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191251087"
+      },
+      "engines": [
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "305P0105P",
+      "articleId": "18952301",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18952301&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "belt-drive/v-ribbed-belt",
+      "specs": {
+        "Length [mm]": "2460",
+        "Number of ribs": "6",
+        "Material": "Polyester Fabric",
+        "Width [mm]": "21,36",
+        "Parameter": "6PK2460",
+        "Thickness": "4,45",
+        "One-sided/Double-sided": "One-sided",
+        "Tensile Cord Material": "Polyester",
+        "Belt Material": "EPDM (ethylene propylene diene Monomer (M-class) rubber)",
+        "Colour": "black",
+        "Manufacturer part number": "305P0105P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4066423604542"
+      },
+      "engines": [
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "689C0400",
+      "articleId": "16355234",
+      "name": "Ignition coil",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=16355234&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "spark-glow-ignition/ignition-coil",
+      "specs": {
+        "Number of pins": "3",
+        "Rated Voltage [V]": "14",
+        "Manufacturer part number": "689C0400",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4064138571678"
+      },
+      "engines": [
+        "32051",
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "273C2576",
+      "articleId": "18733166",
+      "name": "Suspension arm",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=18733166&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "axle-mounting-steering-wheels/track-control-arm",
+      "specs": {
+        "Control/Trailing Arm Type": "Control Arm",
+        "Fitting Position": "Rear Axle",
+        "Length [mm]": "590",
+        "External Thread [mm]": "M18 x 1,5",
+        "Thread Length [mm]": "76",
+        "adjustable": "adjustable",
+        "Manufacturer part number": "273C2576",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4066423554304"
+      },
+      "engines": [
+        "32051"
+      ]
+    },
+    {
+      "articleNo": "407W0019",
+      "articleId": "8262948",
+      "name": "Brake pad wear sensor",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=8262948&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/wear-indicator-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Warning Contact Length [mm]": "780",
+        "Brake Type": "Disc Brake",
+        "Length [mm]": "795",
+        "Manufacturer part number": "407W0019",
+        "Manufacturer": "RIDEX",
+        "EAN number": "4059191442775"
+      },
+      "engines": [
+        "2534"
+      ]
+    },
+    {
+      "articleNo": "407W0019P",
+      "articleId": "22265320",
+      "name": "Unknown Part",
+      "image": "https://cdn.ridex.de/thumb?m=4&n=0&id=22265320&lng=en&typ=custom&cc=1",
+      "price": "0",
+      "qty": "1",
+      "category": "brake-system/wear-indicator-brake-pads",
+      "specs": {
+        "Fitting Position": "Front Axle",
+        "Brake Type": "Disc Brake",
+        "Length [mm]": "795",
+        "Manufacturer part number": "407W0019P",
+        "Manufacturer": "RIDEX PLUS",
+        "EAN number": "4067448734863"
+      },
+      "engines": [
+        "2534"
+      ]
+    }
+  ],
+  "scrapedAt": "2026-05-08T12:47:01.998Z",
+  "totalProducts": 215
+}

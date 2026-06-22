@@ -2,18 +2,76 @@ import "dotenv/config";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { Sequelize } from "sequelize";
 import bcrypt from "bcrypt";
 import DB from "./config/database.js";
 import { slugify } from "./src/utils/helper.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DEMO_DIR = path.resolve(__dirname, "data");
+const MIGRATIONS_DIR = path.join(__dirname, "migrations");
+const DATA_DIR = path.join(__dirname, "data");
 
-async function seed() {
+// ─── STEP 1: MIGRATIONS ────────────────────────────────────────
+
+async function runMigrations() {
+  console.log("\n========== STEP 1: RUNNING MIGRATIONS ==========\n");
+
+  const sequelize = new Sequelize(
+    process.env.DB_NAME,
+    process.env.DB_USER,
+    process.env.DB_PASSWORD,
+    {
+      host: process.env.DB_HOST,
+      port: process.env.DB_PORT,
+      dialect: "postgres",
+      logging: false,
+    }
+  );
+
+  // Ensure migrations table exists
+  await sequelize.query(`
+    CREATE TABLE IF NOT EXISTS "_migrations" (
+      name VARCHAR(255) PRIMARY KEY,
+      executed_at TIMESTAMP DEFAULT NOW()
+    );
+  `);
+
+  const [executed] = await sequelize.query(`SELECT name FROM "_migrations" ORDER BY name`);
+  const executedSet = new Set(executed.map((r) => r.name));
+  const files = fs.readdirSync(MIGRATIONS_DIR).filter((f) => f.endsWith(".js")).sort();
+  const pending = files.filter((f) => !executedSet.has(f));
+
+  if (pending.length === 0) {
+    console.log("✓ No pending migrations.\n");
+    await sequelize.close();
+    return;
+  }
+
+  const qi = sequelize.getQueryInterface();
+
+  for (const file of pending) {
+    console.log(`Running: ${file}`);
+    const migration = await import(new URL(`migrations/${file}`, import.meta.url));
+    await migration.up(qi, Sequelize);
+    await sequelize.query(`INSERT INTO "_migrations" (name) VALUES ($1)`, {
+      bind: [file],
+    });
+    console.log(`  ✓ Done.`);
+  }
+
+  console.log(`\n✓ ${pending.length} migration(s) executed.\n`);
+  await sequelize.close();
+}
+
+// ─── STEP 2: SEEDING ────────────────────────────────────────
+
+async function seedData() {
+  console.log("========== STEP 2: SEEDING DATA ==========\n");
+
   const db = new DB();
   await db.initiate();
-  console.log("Database connected.");
+  console.log("✓ Database connected.");
 
   // ─── 1. Brands ───────────────────────────────────────────────
   console.log("\n[1/6] Seeding brands...");
@@ -22,15 +80,14 @@ async function seed() {
     brandNames.map((name) => ({ name, slug: slugify(name) })),
     { ignoreDuplicates: true }
   );
-  console.log(`  -> ${brandNames.length} brands seeded.`);
+  console.log(`  ✓ ${brandNames.length} brands seeded.`);
 
   // ─── 2. Categories ──────────────────────────────────────────
   console.log("\n[2/6] Seeding categories...");
   const categoriesRaw = JSON.parse(
-    fs.readFileSync(path.join(DEMO_DIR, "categories.json"), "utf-8")
+    fs.readFileSync(path.join(DATA_DIR, "categories.json"), "utf-8")
   );
 
-  // Filter out entries that are subcategories (contain "/") or have no name, or meta slugs
   const parentCategories = categoriesRaw.filter(
     (c) => c.name && !c.slug.includes("/") && c.slug !== "categoriesPopupLoad" && c.slug !== "new"
   );
@@ -45,16 +102,14 @@ async function seed() {
     })),
     { ignoreDuplicates: true }
   );
-  console.log(`  -> ${parentCategories.length} parent categories seeded.`);
+  console.log(`  ✓ ${parentCategories.length} parent categories seeded.`);
 
-  // Fetch created parent categories to get their IDs
   const parentCatMap = {};
   const allParents = await db.Category.findAll({ where: { parentId: null } });
   for (const p of allParents) {
     parentCatMap[p.slug] = p.id;
   }
 
-  // Subcategories mapping
   const subcategoryMap = {
     "brake-system": [
       { slug: "brake-pads", name: "Brake Pads" },
@@ -129,12 +184,12 @@ async function seed() {
   if (subRecords.length > 0) {
     await db.Category.bulkCreate(subRecords, { ignoreDuplicates: true });
   }
-  console.log(`  -> ${subRecords.length} subcategories seeded.`);
+  console.log(`  ✓ ${subRecords.length} subcategories seeded.`);
 
   // ─── 3. Vehicle Models ──────────────────────────────────────
   console.log("\n[3/6] Seeding vehicle models...");
   const modelsRaw = JSON.parse(
-    fs.readFileSync(path.join(DEMO_DIR, "models.json"), "utf-8")
+    fs.readFileSync(path.join(DATA_DIR, "models.json"), "utf-8")
   );
 
   const vehicleModelRecords = [];
@@ -143,7 +198,6 @@ async function seed() {
   for (const [makeId, models] of Object.entries(modelsRaw)) {
     for (const model of models) {
       const parsed = parseModelName(model.name);
-      // Ensure unique slug by appending ridexId if duplicate
       let slug = parsed.slug;
       if (slugSet.has(slug)) {
         slug = `${slug}-${model.id}`;
@@ -163,15 +217,14 @@ async function seed() {
   if (vehicleModelRecords.length > 0) {
     await db.VehicleModel.bulkCreate(vehicleModelRecords, { ignoreDuplicates: true });
   }
-  console.log(`  -> ${vehicleModelRecords.length} vehicle models seeded.`);
+  console.log(`  ✓ ${vehicleModelRecords.length} vehicle models seeded.`);
 
   // ─── 4. Vehicle Engines ─────────────────────────────────────
   console.log("\n[4/6] Seeding vehicle engines...");
   const enginesRaw = JSON.parse(
-    fs.readFileSync(path.join(DEMO_DIR, "engines.json"), "utf-8")
+    fs.readFileSync(path.join(DATA_DIR, "engines.json"), "utf-8")
   );
 
-  // Build a lookup of ridexId -> db UUID for vehicle models
   const allModels = await db.VehicleModel.findAll({ attributes: ["id", "ridexId"] });
   const modelIdMap = {};
   for (const m of allModels) {
@@ -183,7 +236,7 @@ async function seed() {
     for (const [modelRidexId, engines] of Object.entries(modelMap)) {
       const vehicleModelId = modelIdMap[modelRidexId];
       if (!vehicleModelId) {
-        continue; // model not found, skip
+        continue;
       }
       for (const engine of engines) {
         const parsed = parseEngineName(engine.name);
@@ -200,7 +253,6 @@ async function seed() {
   }
 
   if (engineRecords.length > 0) {
-    // Batch in chunks of 500 to avoid query size limits
     const CHUNK = 500;
     for (let i = 0; i < engineRecords.length; i += CHUNK) {
       await db.VehicleEngine.bulkCreate(engineRecords.slice(i, i + CHUNK), {
@@ -208,10 +260,10 @@ async function seed() {
       });
     }
   }
-  console.log(`  -> ${engineRecords.length} vehicle engines seeded.`);
+  console.log(`  ✓ ${engineRecords.length} vehicle engines seeded.`);
 
   // ─── 5. Kits ────────────────────────────────────────────────
-  console.log("\n[5/7] Seeding kits...");
+  console.log("\n[5/6] Seeding kits...");
   const kits = [
     {
       name: "Discovery Service Kit",
@@ -375,7 +427,7 @@ async function seed() {
       where: { slug: kitRecord.slug },
       defaults: kitRecord,
     });
-    
+
     if (items && items.length > 0) {
       const kitId = createdKit[0].id;
       const itemRecords = items.map((item, idx) => ({
@@ -386,10 +438,10 @@ async function seed() {
       await db.KitItem.bulkCreate(itemRecords, { ignoreDuplicates: true });
     }
   }
-  console.log(`  -> ${kits.length} kits seeded.`);
+  console.log(`  ✓ ${kits.length} kits seeded.`);
 
   // ─── 6. Settings ────────────────────────────────────────────
-  console.log("\n[6/7] Seeding settings...");
+  console.log("\n[6/6] Seeding settings...");
   const settings = [
     { key: "priceMultiplier", value: 1.3 },
     { key: "vatRate", value: 0.23 },
@@ -397,7 +449,7 @@ async function seed() {
     { key: "shippingCost", value: 7.95 },
   ];
   await db.Setting.bulkCreate(settings, { ignoreDuplicates: true });
-  console.log(`  -> ${settings.length} settings seeded.`);
+  console.log(`  ✓ ${settings.length} settings seeded.`);
 
   // ─── 7. Admin User ─────────────────────────────────────────
   console.log("\n[7/7] Seeding admin user...");
@@ -416,24 +468,43 @@ async function seed() {
     ],
     { ignoreDuplicates: true }
   );
-  console.log("  -> Admin user seeded.");
+  console.log("  ✓ Admin user seeded.");
 
-  console.log("\nSeed complete.");
+  console.log("\n✓ Seed complete.\n");
   await db.close();
 }
 
-// ─── Helpers ────────────────────────────────────────────────────
+// ─── STEP 3: POPULATE SEARCH VECTORS ────────────────────────────
 
-/**
- * Parse a model name like:
- *   "Discovery III (L319) (07.2004 - 09.2009)"
- *   "Defender Off-Road (L663) (09.2019 - ...)"
- * Returns { name, slug, yearFrom, yearTo }
- */
+async function populateSearchVectors() {
+  console.log("========== STEP 3: POPULATING SEARCH VECTORS ==========\n");
+
+  const db = new DB();
+  await db.initiate();
+
+  const [result] = await db.sequelize.query(`
+    UPDATE products
+    SET search_vector = to_tsvector('english', COALESCE(name, '') || ' ' || COALESCE(article_no, ''))
+    WHERE is_active = true AND search_vector IS NULL
+  `);
+
+  const [count] = await db.sequelize.query(`
+    SELECT COUNT(*) as total, 
+           COUNT(CASE WHEN search_vector IS NOT NULL THEN 1 END) as with_vector
+    FROM products
+  `);
+
+  console.log(`Updated search vectors for products`);
+  console.log(`✓ Total products: ${count[0].total}`);
+  console.log(`✓ Products with search vectors: ${count[0].with_vector}\n`);
+
+  await db.close();
+}
+
+// ─── HELPERS ────────────────────────────────────────────────────
+
 function parseModelName(raw) {
-  // Match the date range at the end: (MM.YYYY - MM.YYYY) or (MM.YYYY - ...)
   const dateMatch = raw.match(/\((\d{2})\.(\d{4})\s*-\s*(?:(\d{2})\.(\d{4})|\.\.\.)\)\s*$/);
-
   let yearFrom = null;
   let yearTo = null;
   let name = raw;
@@ -441,32 +512,21 @@ function parseModelName(raw) {
   if (dateMatch) {
     yearFrom = parseInt(dateMatch[2], 10);
     yearTo = dateMatch[4] ? parseInt(dateMatch[4], 10) : null;
-    // Remove the date portion from the name
     name = raw.replace(/\s*\(\d{2}\.\d{4}\s*-\s*(?:\d{2}\.\d{4}|\.\.\.)\)\s*$/, "").trim();
   }
 
   const slug = slugify(name);
-
   return { name, slug, yearFrom, yearTo };
 }
 
-/**
- * Parse an engine name like:
- *   "2.7 TD 4x4, Year of Construction 07.2004 - 09.2009, 2720 ccm, 190 PS"
- *   "3.0 D 4x4, Year of Construction 09.2009 - 12.2018, 2993 ccm, 245 PS"
- * Returns { name, displacement, power, fuelType }
- */
 function parseEngineName(raw) {
-  // Extract displacement in ccm
   const ccmMatch = raw.match(/(\d+)\s*ccm/);
   const displacement = ccmMatch ? parseInt(ccmMatch[1], 10) : null;
 
-  // Extract power in PS
   const psMatch = raw.match(/(\d+)\s*PS/);
   const power = psMatch ? parseInt(psMatch[1], 10) : null;
 
-  // Extract fuel type heuristic from the engine designation
-  const prefix = raw.split(",")[0].trim(); // e.g. "2.7 TD 4x4"
+  const prefix = raw.split(",")[0].trim();
   let fuelType = null;
   if (/\bTD\b|\bTDI\b|\bTDV\b|\bCDI\b|\bD\b|\bSDV\b|\bHDI\b/.test(prefix)) {
     fuelType = "diesel";
@@ -476,15 +536,29 @@ function parseEngineName(raw) {
     fuelType = "electric";
   }
 
-  // Use the prefix part before "Year of Construction" as the short name
   const name = prefix;
-
   return { name, displacement, power, fuelType };
 }
 
-// ─── Run ────────────────────────────────────────────────────────
+// ─── MAIN EXECUTION ────────────────────────────────────────────
 
-seed().catch((err) => {
-  console.error("Seed failed:", err);
-  process.exit(1);
-});
+async function main() {
+  try {
+    console.log("\n╔════════════════════════════════════════╗");
+    console.log("║  LR PARTS - COMPLETE DATABASE SETUP    ║");
+    console.log("╚════════════════════════════════════════╝");
+
+    await runMigrations();
+    await seedData();
+    await populateSearchVectors();
+
+    console.log("╔════════════════════════════════════════╗");
+    console.log("║  ✓ SETUP COMPLETE!                    ║");
+    console.log("╚════════════════════════════════════════╝\n");
+  } catch (error) {
+    console.error("\n❌ Setup failed:", error);
+    process.exit(1);
+  }
+}
+
+main();

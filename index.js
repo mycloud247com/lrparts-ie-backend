@@ -19,6 +19,7 @@ const allowedOrigins = [
   "www.lrparts.ie",
   "https://lrparts.ie",
   "https://www.lrparts.ie",
+  "https://lrparts-ie-frontend-kds9.vercel.app",
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 

@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "engine",
+    "name": "Engine"
+  },
+  {
+    "slug": "transmission",
+    "name": "Transmission"
+  },
+  {
+    "slug": "axle-mounting-steering-wheels",
+    "name": "Suspension and Arms"
+  },
+  {
+    "slug": "steering",
+    "name": "Steering"
+  },
+  {
+    "slug": "interior-equipment",
+    "name": "Interior"
+  },
+  {
+    "slug": "heating-ventilation",
+    "name": "Heating / ventilation"
+  },
+  {
+    "slug": "cooling-system",
+    "name": "Engine Cooling System"
+  },
+  {
+    "slug": "information-communication-systems",
+    "name": "Sensors, Relays, Control units"
+  },
+  {
+    "slug": "spark-glow-ignition",
+    "name": "Ignition and Glowplug System"
+  },
+  {
+    "slug": "filters",
+    "name": "Filters"
+  },
+  {
+    "slug": "fuel-mixture-formation",
+    "name": "Fuel Supply System"
+  },
+  {
+    "slug": "belt-drive",
+    "name": "Belts, Chains, Rollers"
+  },
+  {
+    "slug": "wheel-drive",
+    "name": "Drive Shaft and CV Joint"
+  },
+  {
+    "slug": "ridex-reman",
+    "name": "RIDEX REMAN"
+  },
+  {
+    "slug": "suspension",
+    "name": "Shock Absorbers, Coil Springs, Leaf Springs"
+  },
+  {
+    "slug": "windscreen-cleaning-system",
+    "name": "Windscreen Cleaning System"
+  },
+  {
+    "slug": "brake-system",
+    "name": "Brake System"
+  },
+  {
+    "slug": "body",
+    "name": "Body"
+  },
+  {
+    "slug": "repair-kits",
+    "name": "Repair kits"
+  },
+  {
+    "slug": "car-accessories",
+    "name": "Car accessories"
+  },
+  {
+    "slug": "tools",
+    "name": "Tools &amp; equipment"
+  },
+  {
+    "slug": "new",
+    "name": "New"
+  },
+  {
+    "slug": "filters/filter-interior-air",
+    "name": ""
+  },
+  {
+    "slug": "filters/oil-filter",
+    "name": ""
+  },
+  {
+    "slug": "spark-glow-ignition/spark-plug",
+    "name": ""
+  },
+  {
+    "slug": "filters/air-filter",
+    "name": ""
+  },
+  {
+    "slug": "brake-system/brake-pad-set",
+    "name": ""
+  },
+  {
+    "slug": "brake-system/brake-disc",
+    "name": ""
+  },
+  {
+    "slug": "filters/fuel-filter",
+    "name": ""
+  },
+  {
+    "slug": "categoriesPopupLoad",
+    "name": ""
+  }
+]

@@ -8,7 +8,7 @@ import { slugify } from "./src/utils/helper.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DEMO_DIR = path.resolve(__dirname, "..", "demo", "data");
+const DEMO_DIR = path.resolve(__dirname, "data");
 
 async function seed() {
   const db = new DB();

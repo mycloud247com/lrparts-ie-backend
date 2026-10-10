@@ -19,28 +19,6 @@ class DB {
         port: process.env.DB_PORT,
         dialect: "postgres",
         logging: false,
-        // Railway's proxy prunes idle sockets; recycle them before that happens
-        pool: {
-          max: 10,
-          min: 0,
-          acquire: 30000,
-          idle: 10000,
-          evict: 10000,
-        },
-        dialectOptions: {
-          keepAlive: true,
-        },
-        // Retry queries that hit a socket the server already closed
-        retry: {
-          max: 3,
-          match: [
-            /ECONNRESET/,
-            /ETIMEDOUT/,
-            /EPIPE/,
-            /Connection terminated/,
-            /SequelizeConnectionError/,
-          ],
-        },
         define: {
           freezeTableName: true,
           underscored: true,
